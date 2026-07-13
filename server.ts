@@ -4,6 +4,12 @@ import dotenv from "dotenv";
 import { createServer as createViteServer } from "vite";
 import { GoogleGenAI, Type } from "@google/genai";
 import { convertToHinglish } from "./src/utils/hinglish";
+import {
+  calculateBhagyank,
+  calculateMoolank,
+  isNumerologyNumber,
+  isValidIsoDate,
+} from "./src/lib/numerology";
 
 dotenv.config();
 
@@ -60,33 +66,7 @@ async function generateContentWithRetry(params: any, retries = 3, delay = 1000):
   }
 }
 
-// Programmatic Numerology Calculations
-function reduceToSingleDigit(num: number): number {
-  while (num > 9) {
-    num = num.toString().split('').reduce((sum, d) => sum + parseInt(d, 10), 0);
-  }
-  return num;
-}
 
-function calculateMoolank(dob: string): number {
-  // dob: YYYY-MM-DD
-  const parts = dob.split('-');
-  const day = parseInt(parts[2], 10);
-  return reduceToSingleDigit(day);
-}
-
-function calculateBhagyank(dob: string): number {
-  // dob: YYYY-MM-DD
-  const cleanStr = dob.replace(/-/g, '');
-  let sum = 0;
-  for (let i = 0; i < cleanStr.length; i++) {
-    const digit = parseInt(cleanStr[i], 10);
-    if (!isNaN(digit)) {
-      sum += digit;
-    }
-  }
-  return reduceToSingleDigit(sum);
-}
 
 function calculateNamank(name: string): number {
   // Chaldean Letter Values
@@ -700,8 +680,8 @@ const templates: Record<number, ProfileTemplate> = {
 app.post("/api/moolank/reading", async (req, res) => {
   try {
     const { name, dob, gender, focusArea, language } = req.body;
-    if (!name || !dob) {
-      return res.status(400).json({ error: "Name and Date of Birth (dob) are required." });
+    if (!name || !isValidIsoDate(dob)) {
+      return res.status(400).json({ error: "Name and a valid Date of Birth (dob) in YYYY-MM-DD format are required." });
     }
 
     const moolank = calculateMoolank(dob);
@@ -783,11 +763,19 @@ app.post("/api/moolank/compatibility", async (req, res) => {
   try {
     const { name1, dob1, name2, dob2, moolank1: inputMoolank1, bhagyank1: inputBhagyank1, moolank2: inputMoolank2, bhagyank2: inputBhagyank2, language } = req.body;
     
-    // Support either DOB or directly passed Moolank/Bhagyank
-    const moolank1 = dob1 ? calculateMoolank(dob1) : Number(inputMoolank1 || 1);
-    const bhagyank1 = dob1 ? calculateBhagyank(dob1) : Number(inputBhagyank1 || 1);
-    const moolank2 = dob2 ? calculateMoolank(dob2) : Number(inputMoolank2 || 1);
-    const bhagyank2 = dob2 ? calculateBhagyank(dob2) : Number(inputBhagyank2 || 1);
+    if ((dob1 && !isValidIsoDate(dob1)) || (dob2 && !isValidIsoDate(dob2))) {
+      return res.status(400).json({ error: "Date of Birth values must use a valid YYYY-MM-DD format." });
+    }
+    if ((!dob1 && (!isNumerologyNumber(inputMoolank1) || !isNumerologyNumber(inputBhagyank1))) ||
+        (!dob2 && (!isNumerologyNumber(inputMoolank2) || !isNumerologyNumber(inputBhagyank2)))) {
+      return res.status(400).json({ error: "Manual Moolank and Bhagyank values must be whole numbers from 1 to 9." });
+    }
+
+    // Support either DOB or directly passed Moolank/Bhagyank.
+    const moolank1 = dob1 ? calculateMoolank(dob1) : Number(inputMoolank1);
+    const bhagyank1 = dob1 ? calculateBhagyank(dob1) : Number(inputBhagyank1);
+    const moolank2 = dob2 ? calculateMoolank(dob2) : Number(inputMoolank2);
+    const bhagyank2 = dob2 ? calculateBhagyank(dob2) : Number(inputBhagyank2);
 
     console.log(`Calculating compatibility between Moolank ${moolank1} (Bhagyank ${bhagyank1}) and Moolank ${moolank2} (Bhagyank ${bhagyank2})`);
 
@@ -853,8 +841,11 @@ app.post("/api/moolank/compatibility", async (req, res) => {
 app.post("/api/moolank/daily-forecast", async (req, res) => {
   try {
     const { dob, date, language } = req.body;
-    if (!dob) {
-      return res.status(400).json({ error: "Date of Birth (dob) is required." });
+    if (!isValidIsoDate(dob)) {
+      return res.status(400).json({ error: "A valid Date of Birth (dob) in YYYY-MM-DD format is required." });
+    }
+    if (date && !isValidIsoDate(date)) {
+      return res.status(400).json({ error: "date must use a valid YYYY-MM-DD format." });
     }
 
     const targetDate = date || new Date().toISOString().split('T')[0];
