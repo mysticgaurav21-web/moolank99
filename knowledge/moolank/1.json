@@ -1,0 +1,196 @@
+{
+  "$schema": "../templates/knowledge-node.schema.json",
+  "id": "moolank-1",
+  "version": "1.0.0",
+  "status": "draft",
+  "system": "moolank",
+  "number": 1,
+  "title": "Moolank 1",
+  "archetype": "The Initiator",
+  "sourceClass": ["traditional_wisdom", "reflective_framework", "behavioural_practice"],
+  "coreIdentity": {
+    "summary": "Moolank 1 is traditionally associated with initiative, independence, visibility and the desire to create a distinct path. In this framework, these are reflective tendencies rather than fixed traits.",
+    "sourceClass": "mixed"
+  },
+  "healthyExpression": [
+    "Takes initiative without dominating others",
+    "Makes clear decisions and accepts responsibility",
+    "Uses confidence to create direction for self and others",
+    "Builds identity through purposeful action"
+  ],
+  "stressExpression": [
+    "Becomes rigid or overly controlling",
+    "Feels threatened by criticism or dependence",
+    "Acts quickly without enough consultation",
+    "Confuses recognition with self-worth"
+  ],
+  "strengths": [
+    "Initiative",
+    "Courage",
+    "Independence",
+    "Leadership potential",
+    "Clarity of direction",
+    "Capacity to begin"
+  ],
+  "growthEdges": [
+    "Listening before deciding",
+    "Sharing credit",
+    "Building patience",
+    "Accepting support",
+    "Separating confidence from ego",
+    "Finishing what is started"
+  ],
+  "dimensions": {
+    "personality": {
+      "summary": "May prefer autonomy, directness and a strong sense of personal identity.",
+      "corePattern": "I create movement by taking the first step.",
+      "healthyExpression": ["Self-directed", "Decisive", "Constructively confident"],
+      "stressExpression": ["Impatient", "Defensive", "Overly self-focused"],
+      "strengths": ["Initiative", "Presence", "Personal responsibility"],
+      "growthEdges": ["Humility", "Collaboration", "Emotional flexibility"],
+      "lifeExamples": ["Volunteering to lead a project", "Starting a new routine", "Taking ownership during uncertainty"],
+      "actionableGuidance": ["Pause before major decisions", "Ask one trusted person for input", "Define what success means beyond recognition"],
+      "reflectionQuestions": ["Where does confidence help me?", "Where does it become control?"],
+      "recommendedPracticeIds": ["pause-plan-act", "shared-credit-reflection"],
+      "progressIndicators": ["More balanced decision-making", "Less defensiveness", "Better follow-through"]
+    },
+    "relationships": {
+      "summary": "May bring protection, direction and loyalty, while needing to guard against dominance or emotional distance.",
+      "corePattern": "I often express care through action and responsibility.",
+      "healthyExpression": ["Protective", "Loyal", "Direct in communication"],
+      "stressExpression": ["Controlling", "Unwilling to compromise", "Emotionally guarded"],
+      "strengths": ["Commitment", "Courage in difficult conversations", "Reliability"],
+      "growthEdges": ["Listening", "Mutual decision-making", "Vulnerability"],
+      "lifeExamples": ["Taking responsibility during family stress", "Expecting others to follow a plan", "Avoiding asking for help"],
+      "actionableGuidance": ["Use questions before advice", "Name feelings as well as solutions", "Schedule shared decisions"],
+      "reflectionQuestions": ["Do others feel heard around me?", "Can I receive support without feeling weak?"],
+      "recommendedPracticeIds": ["two-minute-listening", "shared-decision-checkin"],
+      "progressIndicators": ["Fewer power struggles", "More reciprocal communication", "Greater comfort receiving support"]
+    },
+    "career": {
+      "summary": "May be drawn toward ownership, leadership, entrepreneurship or roles where initiative is rewarded.",
+      "corePattern": "I perform best when I can influence direction.",
+      "healthyExpression": ["Entrepreneurial", "Accountable", "Able to mobilise others"],
+      "stressExpression": ["Micromanaging", "Difficulty delegating", "Impatience with slower processes"],
+      "strengths": ["Decision-making", "Vision-setting", "Starting projects"],
+      "growthEdges": ["Delegation", "Team development", "Long-term consistency"],
+      "lifeExamples": ["Launching a project", "Preferring authority over ambiguity", "Taking on too much personally"],
+      "actionableGuidance": ["Delegate one meaningful task weekly", "Define team success metrics", "Review decisions after outcomes"],
+      "reflectionQuestions": ["Am I leading or controlling?", "What can only I do, and what can others own?"],
+      "recommendedPracticeIds": ["weekly-delegation", "decision-review"],
+      "progressIndicators": ["Better team ownership", "Reduced overload", "More consistent project completion"]
+    },
+    "money": {
+      "summary": "May prefer financial independence and bold action, but can benefit from systems that reduce impulsive or status-driven decisions.",
+      "corePattern": "Money can represent autonomy, achievement and freedom of choice.",
+      "healthyExpression": ["Independent earning mindset", "Willingness to invest in growth", "Goal-oriented"],
+      "stressExpression": ["Impulsive spending", "Risk-taking for recognition", "Resistance to financial advice"],
+      "strengths": ["Income initiative", "Ambition", "Decisive financial action"],
+      "growthEdges": ["Budget discipline", "Risk review", "Long-term planning"],
+      "lifeExamples": ["Starting a side income", "Buying to signal success", "Making fast decisions without comparison"],
+      "actionableGuidance": ["Use a 24-hour pause for non-essential purchases", "Set a fixed risk limit", "Review finances monthly"],
+      "reflectionQuestions": ["What does money prove to me?", "Does this decision serve freedom or image?"],
+      "recommendedPracticeIds": ["twenty-four-hour-pause", "monthly-money-review"],
+      "progressIndicators": ["Lower impulsive spending", "Clearer savings targets", "More deliberate risk decisions"]
+    },
+    "growth": {
+      "summary": "Growth often comes from balancing personal power with humility, patience and cooperation.",
+      "corePattern": "My strength grows when it becomes disciplined and inclusive.",
+      "healthyExpression": ["Self-aware leadership", "Purposeful confidence", "Responsible independence"],
+      "stressExpression": ["Ego defence", "Isolation", "All-or-nothing effort"],
+      "strengths": ["Courage to change", "Capacity for self-direction", "Fast mobilisation"],
+      "growthEdges": ["Reflection", "Consistency", "Receiving feedback"],
+      "lifeExamples": ["Beginning strongly then losing interest", "Rejecting useful criticism", "Learning to collaborate"],
+      "actionableGuidance": ["Choose one 21-day commitment", "Ask for feedback with one specific question", "Track completion rather than intensity"],
+      "reflectionQuestions": ["What am I trying to prove?", "What would mature confidence look like here?"],
+      "recommendedPracticeIds": ["twenty-one-day-commitment", "specific-feedback-request"],
+      "progressIndicators": ["More consistent action", "Less reactivity to feedback", "Greater willingness to collaborate"]
+    },
+    "wellbeing": {
+      "summary": "A high-drive pattern may benefit from deliberate recovery, pacing and awareness of stress signals.",
+      "corePattern": "Sustainable strength requires recovery as well as effort.",
+      "healthyExpression": ["Active", "Energetic", "Motivated by challenge"],
+      "stressExpression": ["Overwork", "Irritability", "Difficulty slowing down"],
+      "strengths": ["Activation energy", "Commitment to routines", "Competitive motivation"],
+      "growthEdges": ["Rest", "Pacing", "Body awareness"],
+      "lifeExamples": ["Working through fatigue", "Skipping rest to maintain momentum", "Feeling uneasy during inactivity"],
+      "actionableGuidance": ["Schedule recovery before exhaustion", "Use a simple daily energy check-in", "Keep sleep and movement routines realistic"],
+      "reflectionQuestions": ["What signals tell me I need recovery?", "Can I rest without losing self-respect?"],
+      "recommendedPracticeIds": ["daily-energy-checkin", "scheduled-recovery"],
+      "progressIndicators": ["More stable energy", "Reduced irritability", "Better respect for recovery needs"]
+    },
+    "purpose": {
+      "summary": "May feel fulfilled when creating direction, initiating change or taking responsibility for meaningful outcomes.",
+      "corePattern": "Purpose becomes clearer when initiative serves something larger than self-image.",
+      "healthyExpression": ["Vision-led action", "Service through leadership", "Courageous contribution"],
+      "stressExpression": ["Chasing status", "Needing constant recognition", "Forcing a singular path"],
+      "strengths": ["Originality", "Ownership", "Ability to create momentum"],
+      "growthEdges": ["Service orientation", "Patience with process", "Shared purpose"],
+      "lifeExamples": ["Starting a mission-led project", "Seeking titles without alignment", "Feeling alive when creating change"],
+      "actionableGuidance": ["Write a one-sentence contribution statement", "Measure impact as well as recognition", "Choose one problem worth serving"],
+      "reflectionQuestions": ["Who benefits from my ambition?", "What would I build without applause?"],
+      "recommendedPracticeIds": ["contribution-statement", "impact-review"],
+      "progressIndicators": ["Clearer contribution focus", "Less dependence on recognition", "More aligned decisions"]
+    },
+    "potential": {
+      "summary": "Potential may be expressed through mature leadership that combines courage, discipline, empathy and sustained execution.",
+      "corePattern": "My highest expression is not simply being first, but creating direction that others can trust.",
+      "healthyExpression": ["Principled leadership", "Independent thinking", "Consistent execution"],
+      "stressExpression": ["Hero mentality", "Isolation", "Unsustainable intensity"],
+      "strengths": ["Bold vision", "Personal authority", "Capacity to inspire action"],
+      "growthEdges": ["Building systems", "Developing others", "Long-term stewardship"],
+      "lifeExamples": ["Creating a team around a clear mission", "Trying to carry everything alone", "Becoming a dependable decision-maker"],
+      "actionableGuidance": ["Convert goals into repeatable systems", "Mentor or empower one person", "Review long-term consequences before acting"],
+      "reflectionQuestions": ["What can continue without me?", "How can my leadership make others stronger?"],
+      "recommendedPracticeIds": ["system-building-review", "empower-one-person"],
+      "progressIndicators": ["Stronger systems", "More empowered collaborators", "Better long-term decision quality"]
+    }
+  },
+  "reflectionQuestions": [
+    "Where is initiative currently helping me most?",
+    "Where does independence become isolation?",
+    "What would confident collaboration look like this week?",
+    "Which one commitment deserves consistent follow-through?"
+  ],
+  "recommendedPractices": [
+    {
+      "id": "pause-plan-act",
+      "title": "Pause, Plan, Act",
+      "instructions": "Before an important action, pause for one minute, write the desired outcome, consider one alternative, then decide.",
+      "durationMinutes": 5,
+      "sourceClass": "behavioural_practice"
+    },
+    {
+      "id": "shared-credit-reflection",
+      "title": "Shared Credit Reflection",
+      "instructions": "At the end of the day, write the name of one person who contributed to your progress and how you will acknowledge them.",
+      "durationMinutes": 3,
+      "sourceClass": "reflective_framework"
+    },
+    {
+      "id": "two-minute-listening",
+      "title": "Two-Minute Listening",
+      "instructions": "In one conversation, listen for two uninterrupted minutes before offering advice or a solution.",
+      "durationMinutes": 2,
+      "sourceClass": "behavioural_practice"
+    },
+    {
+      "id": "daily-energy-checkin",
+      "title": "Daily Energy Check-in",
+      "instructions": "Rate energy, stress and recovery from 1 to 5, then choose one realistic adjustment for the day.",
+      "durationMinutes": 3,
+      "sourceClass": "behavioural_practice",
+      "safetyNote": "This is a self-reflection practice, not a medical assessment."
+    }
+  ],
+  "progressIndicators": [
+    "Initiates important work with clearer planning",
+    "Completes more commitments instead of only starting them",
+    "Receives feedback with less defensiveness",
+    "Shares responsibility and credit more consistently",
+    "Balances effort with recovery",
+    "Uses leadership to strengthen others"
+  ],
+  "reviewNotes": "Draft v1 for editorial and numerology review before publication.",
+  "disclaimer": "This content is intended for reflection and personal growth. Numerology is a traditional interpretive system and should not be treated as medical, psychological, legal or financial fact."
+}
