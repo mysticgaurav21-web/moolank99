@@ -9,6 +9,7 @@ import {
   calculateMoolank,
   isNumerologyNumber,
   isValidIsoDate,
+  reduceToSingleDigit,
 } from "./src/lib/numerology";
 
 dotenv.config();
