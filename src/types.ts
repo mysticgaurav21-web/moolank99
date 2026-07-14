@@ -27,6 +27,7 @@ export interface CanonicalTrait {
   shadowExpression: string[];
   primaryTriggers: string[];
   internalDrivers: string[];
+  manifestationAreas: Record<string, string[]>;
   protectiveFactors: string[];
   traitBoundaries: Record<string, string>;
   appCard: {
@@ -37,7 +38,14 @@ export interface CanonicalTrait {
   appSafeSummary: string;
   excludedClaims: string[];
   confidence: Record<string, string>;
+  sourceReferences: Array<{
+    sourceType: string;
+    publisher: string;
+    url: string;
+    usage: string;
+  }>;
   safetyNote: string;
+  lastReviewed: string;
 }
 
 export interface MoolankReading {
