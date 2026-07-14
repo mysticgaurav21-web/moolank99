@@ -12,6 +12,7 @@ import {
   BookMarked
 } from "lucide-react";
 
+import CanonicalKnowledgePanel from "./CanonicalKnowledgePanel";
 import { convertToHinglish } from "../utils/hinglish";
 
 interface Article {
@@ -206,8 +207,10 @@ By committing to your custom roadmaps (the 7/21/90 day programs), you are litera
         </div>
       </div>
 
+      <CanonicalKnowledgePanel language={language} />
+
       {/* Category filters */}
-      <div className="flex overflow-x-auto gap-2 pb-2 scrollbar-none">
+      <div className="flex overflow-x-auto gap-2 pb-2 scrollbar-none border-t border-white/5 pt-6">
         {categories.map((cat) => (
           <button
             key={cat.id}
