@@ -1,0 +1,46 @@
+{
+  "traitId": "ID-NNN",
+  "moolank": 1,
+  "traitName": "Trait Name",
+  "slug": "trait-name",
+  "version": "0.1",
+  "status": "draft",
+  "classification": "conditional-shadow",
+  "primaryDomain": "domain-name",
+  "canonicalDefinition": "Reviewed, app-safe definition.",
+  "corePattern": {
+    "trigger": "",
+    "internalResponse": "",
+    "behaviour": "",
+    "possibleConsequence": ""
+  },
+  "balancedExpression": [],
+  "shadowExpression": [],
+  "primaryTriggers": [],
+  "internalDrivers": [],
+  "manifestationAreas": {
+    "workAndLeadership": [],
+    "communication": [],
+    "relationships": [],
+    "decisionsAndCommitments": []
+  },
+  "protectiveFactors": [],
+  "traitBoundaries": {},
+  "excludedClaims": [],
+  "appSafeSummary": "",
+  "appCard": {
+    "strength": "",
+    "shadow": "",
+    "growthKey": ""
+  },
+  "confidence": {
+    "numerologyTraditionSupport": "",
+    "supportForNarrowClaim": "",
+    "supportForGeneralizedClaim": "",
+    "scientificEvidenceForConstruct": "",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [],
+  "safetyNote": "This content describes a traditional numerology interpretation and must not be presented as a psychological, psychiatric or medical diagnosis.",
+  "lastReviewed": "YYYY-MM-DD"
+}
