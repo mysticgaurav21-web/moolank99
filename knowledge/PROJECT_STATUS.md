@@ -1,54 +1,57 @@
 # Moolank99 Knowledge Base Status
 
 **Last updated:** 14 July 2026  
-**Current focus:** Moolank 1 canonical personality knowledge
+**Current focus:** Parallel canonical research for Moolank 1 and Moolank 2
 
 ## Project direction
 
 Moolank99 is being developed as a knowledge-first numerology self-awareness application. Research discussions are working material; canonical files in this directory are the permanent source of truth for app content.
 
-## Completed research phases
+## Moolank 1 completed phases
 
 - ✅ Phase 6.15C — ID-013 Stress Response v1.2
-- ✅ Phase 6.16A — Fear Source Upgrade
-- ✅ Phase 6.16B — Fear Final Consolidation
-- ✅ Phase 6.17A — Anger Source Upgrade
-- ✅ Phase 6.17B — Catharsis Review
-- ✅ Phase 6.17C — Anger Canonical v1.2
-- ✅ Phase 6.18A — ID-016 Impulse Control Final Evidence Consolidation
-- ✅ Phase 6.18B — ID-016 Impulse Control Canonical v1.2
+- ✅ Phase 6.16A–B — ID-014 Fear research and canonical consolidation
+- ✅ Phase 6.17A–C — ID-015 Anger research and canonical consolidation
+- ✅ Phase 6.18A–B — ID-016 Impulse Control evidence and Canonical v1.2
+- ✅ Phase 7.1A–C — M1-R001 Leadership Style evidence, boundary review and Canonical v1.0
+- ✅ Phase 7.2A–C — M1-R002 Initiative and Proactivity evidence, boundary review and Canonical v1.0
 
 ## Application integration
 
-- ✅ Canonical JSON loader added at `src/knowledge/index.ts`
+- ✅ Canonical JSON loader at `src/knowledge/index.ts`
 - ✅ Reading API returns `canonicalTraits`
-- ✅ Gemini prompt is grounded with available canonical records
-- ✅ Direct endpoint added: `GET /api/knowledge/moolank/:number`
+- ✅ Gemini prompt uses available canonical records
+- ✅ Direct endpoint: `GET /api/knowledge/moolank/:number`
 - ✅ TypeScript JSON imports enabled
 - ✅ CI validates type checking and production builds
+- ✅ Canonical Knowledge panel displays registered records
 
-## Canonical files currently stored
+## Moolank 1 canonical files currently stored
 
+- `canonical/moolank-1/M1-R001-leadership-style.v1.0.json`
+- `canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json`
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
 
-## Evidence files currently stored
+## Moolank 1 evidence files currently stored
 
+- `evidence/moolank-1/M1-R001-leadership-style.md`
+- `evidence/moolank-1/M1-R002-initiative-and-proactivity.md`
 - `evidence/moolank-1/ID-016-impulse-control.md`
 
-## Recovery pending
+## Historical recovery state
 
-The following completed research is known to exist but its exact final wording has not yet been recovered from the previous long conversation/export:
+The uploaded export confirms the historical mapping:
 
-- ID-013 Stress Response canonical record
-- Fear canonical record and exact trait ID
-- Anger canonical record and exact trait ID
-- Full master trait roadmap after ID-016
+- ID-013 — Stress Response
+- ID-014 — Fear
+- ID-015 — Anger
+- ID-016 — Impulse Control
 
-These records must not be recreated from memory or guessed. They should be imported only after the exact old export is recovered and reviewed.
+Exact final canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery-pending. They must not be recreated from memory or silently replaced by reconstructed IDs.
 
-## Current next step
+## Current Moolank 1 next step
 
-Recover the prior conversation export or roadmap, confirm the exact next trait ID, and continue the source-upgrade research sequence. New canonical traits can then be added to `src/knowledge/index.ts` and will automatically flow into the API and Gemini grounding.
+Verify M1-R002 on Render, then begin Phase 7.3A — `M1-R003 Independence and Autonomy Source Upgrade` using the reconstructed collision-safe namespace.
 
 ## Data policy
 
@@ -57,3 +60,4 @@ Recover the prior conversation export or roadmap, confirm the exact next trait I
 - Traditional numerology support and scientific evidence must be recorded separately.
 - Conditional traits must not be rewritten as universal labels.
 - Medical, psychiatric and clinical diagnoses must not be inferred from Moolank.
+- Reconstructed `M1-R###` and `M2-R###` IDs must not be presented as recovered historical IDs.

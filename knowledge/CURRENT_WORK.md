@@ -6,55 +6,33 @@
 
 ## Latest completed canonical phase
 
+- Phase 7.2C — M1-R002 Initiative and Proactivity Canonical v1.0 and app registration
 - Phase 7.1C — M1-R001 Leadership Style Canonical v1.0 and app registration
 - Phase 6.18B — ID-016 Impulse Control Canonical v1.2
 
 ## Canonical traits currently registered
 
 1. M1-R001 — Leadership Style v1.0
-2. ID-016 — Impulse Control v1.2
-
-## Latest completed research step
-
-- Phase 7.2B — M1-R002 Initiative and Proactivity Boundary Review, final evidence verdict v0.3
+2. M1-R002 — Initiative and Proactivity v1.0
+3. ID-016 — Impulse Control v1.2
 
 ## Active objective
 
-Complete **Phase 7.2C — M1-R002 Initiative and Proactivity Canonical v1.0 and app integration**.
+Begin **Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade** after M1-R002 deployment verification.
 
-Approved evidence core:
+Research question:
 
-> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination, capacity awareness and follow-through. Under pressure, the same action drive may become premature starts, overcommitment, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
+> Do traditional Birth Number / Moolank 1 sources consistently support independence and autonomy, and how should healthy self-direction be separated from isolation, oppositional behaviour, control, low cooperation and refusal of advice?
 
-Working evidence file:
+## M1-R002 decisions locked
 
-```text
-knowledge/evidence/moolank-1/M1-R002-initiative-and-proactivity.md
-```
-
-Planned canonical file:
-
-```text
-knowledge/canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json
-```
-
-## Boundary decisions locked
-
-- Initiative starts or shapes action; leadership additionally coordinates or influences others.
+- Initiative means responsible self-starting action, not speed or constant activity.
+- Leadership and initiative remain separate constructs.
 - Initiative includes purpose and adequate evaluation; impulsivity involves insufficient deliberation.
 - Initiative and persistence remain separate constructs.
-- Overcommitment is a conditional consequence of repeated starting without capacity review, not a universal trait.
+- Overcommitment is a conditional consequence of repeated starting without capacity review.
 - Role overreach is not healthy initiative; consent, expertise, decision rights and coordination matter.
-- Initiative is not novelty-seeking, dominance, risk-taking or entrepreneurship.
-- Starting many projects does not prove strong initiative.
-
-## Canonical requirements
-
-- Use responsible self-starting action as the strength framing.
-- Keep all shadow language conditional and trigger-based.
-- Include capacity review, consultation, role boundaries, follow-through and stopping rules.
-- Preserve the scientific-evidence disclaimer.
-- Do not imply guaranteed entrepreneurship, innovation, wealth or success.
+- Birth number does not scientifically predict proactive behaviour.
 
 ## Recovery update
 
@@ -69,20 +47,17 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 
 ## Live app state
 
-- M1-R001 and ID-016 are registered in the canonical loader.
+- M1-R001, M1-R002 and ID-016 are registered in the canonical loader.
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
-- M1-R002 remains evidence-stage until Phase 7.2C is merged and deployed.
+- M1-R002 requires Render deployment verification after merge.
 
 ## Next actions
 
-1. Draft M1-R002 canonical JSON v1.0.
-2. Validate it against the canonical trait structure.
-3. Update `knowledge/MASTER_INDEX.json`.
-4. Register M1-R002 in `src/knowledge/index.ts` using the latest main branch.
-5. Update project status and changelog.
-6. Run CI type-check and production build.
-7. Merge and verify the Render Canonical Knowledge panel.
+1. Confirm CI and merge for M1-R002.
+2. Verify the M1-R002 card on Render.
+3. Start Phase 7.3A only after deployment verification.
+4. Keep M1-R003 separate from leadership, initiative and impulse control.
 
 ## Files to read at the start of every new chat
 
