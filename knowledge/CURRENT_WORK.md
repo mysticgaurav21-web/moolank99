@@ -18,21 +18,35 @@
 
 ## Active objective
 
-Begin **Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade** after M1-R002 deployment verification.
+Complete **Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade**.
 
 Research question:
 
 > Do traditional Birth Number / Moolank 1 sources consistently support independence and autonomy, and how should healthy self-direction be separated from isolation, oppositional behaviour, control, low cooperation and refusal of advice?
 
-## M1-R002 decisions locked
+Working evidence file:
 
-- Initiative means responsible self-starting action, not speed or constant activity.
-- Leadership and initiative remain separate constructs.
-- Initiative includes purpose and adequate evaluation; impulsivity involves insufficient deliberation.
-- Initiative and persistence remain separate constructs.
-- Overcommitment is a conditional consequence of repeated starting without capacity review.
-- Role overreach is not healthy initiative; consent, expertise, decision rights and coordination matter.
-- Birth number does not scientifically predict proactive behaviour.
+```text
+knowledge/evidence/moolank-1/M1-R003-independence-and-autonomy.md
+```
+
+## Current evidence state
+
+- Source-upgrade draft v0.1 created.
+- Traditional independence, individuality and self-direction pattern retained provisionally.
+- Psychology bridge defines autonomy as self-endorsed choice, not isolation or refusal of support.
+- Healthy autonomy is compatible with cooperation, relatedness, expertise, help-seeking and interdependence.
+- Universal self-sufficiency, advice refusal, low cooperation and scientific birth-number prediction claims are rejected.
+- Canonical JSON is not yet approved.
+
+## Initial construct boundaries
+
+- Autonomy is responsible self-endorsed choice; isolation is reduced connection.
+- Independence concerns reduced reliance; autonomy may include freely chosen interdependence.
+- Autonomy is not stubbornness, dominance, control or opposition for its own sake.
+- Consultation and help-seeking do not automatically reduce autonomy.
+- Cooperation can be voluntary and autonomy-supportive.
+- Unilateral decisions affecting others require consent, coordination and accountability.
 
 ## Recovery update
 
@@ -50,14 +64,18 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 - M1-R001, M1-R002 and ID-016 are registered in the canonical loader.
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
-- M1-R002 requires Render deployment verification after merge.
+- Independent live verification of the M1-R002 deployment remains pending because the current tool environment could not reach the Render domain.
+- M1-R003 remains evidence-stage and is not live.
 
 ## Next actions
 
-1. Confirm CI and merge for M1-R002.
-2. Verify the M1-R002 card on Render.
-3. Start Phase 7.3A only after deployment verification.
-4. Keep M1-R003 separate from leadership, initiative and impulse control.
+1. Add an independent Birth Number or specialist Number 1 source outside the current publisher family.
+2. Review autonomy versus interdependence, help-seeking and authority sensitivity.
+3. Review overlap with Leadership Style and unilateral decision-making.
+4. Finalize triggers, protective factors and excluded claims.
+5. Upgrade evidence to v0.2 and complete Phase 7.3A.
+6. Begin Phase 7.3B boundary review only after source consolidation.
+7. Create canonical JSON only after final evidence approval.
 
 ## Files to read at the start of every new chat
 
