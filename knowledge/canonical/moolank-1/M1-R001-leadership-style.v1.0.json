@@ -1,1 +1,144 @@
-{}
+{
+  "traitId": "M1-R001",
+  "moolank": 1,
+  "traitName": "Leadership Style",
+  "slug": "leadership-style",
+  "version": "1.0",
+  "status": "canonical",
+  "classification": "primary-strength-with-conditional-shadow",
+  "primaryDomain": "leadership-and-social-influence",
+  "canonicalDefinition": "Moolank 1 tradition associates this number with a preference for creating direction, taking visible ownership, and moving a group toward action. In a balanced state, this orientation combines confidence with accountability, consultation, adaptability, and service to a shared objective. Under pressure, especially when autonomy, status, or visible control feels threatened, the same drive may become unilateral decision-making, overcontrol, or resistance to useful input. Leadership should therefore be treated as an orientation or potential rather than a guaranteed role, title, or ability.",
+  "corePattern": {
+    "trigger": "Lack of direction, responsibility gap, or threatened autonomy/status",
+    "internalResponse": "Drive to restore direction, ownership, or control",
+    "behaviour": "Takes charge, organizes action, or makes decisions",
+    "possibleConsequence": "Clear momentum when balanced; overcontrol or reduced collaboration when unbalanced"
+  },
+  "balancedExpression": [
+    "Creates direction when a group lacks clarity",
+    "Takes visible ownership for decisions and outcomes",
+    "Consults relevant people without losing momentum",
+    "Communicates confidence without silencing disagreement",
+    "Adapts when new evidence changes the best course",
+    "Develops capable contributors rather than creating dependency",
+    "Uses authority in service of a shared objective",
+    "Shares recognition while accepting accountability"
+  ],
+  "shadowExpression": [
+    "Confuses leadership with control",
+    "Makes unilateral decisions where consultation would improve quality",
+    "Dismisses quieter or slower contributors",
+    "Becomes overly identified with being first, right, or in charge",
+    "Treats disagreement as disloyalty or incompetence",
+    "Seeks visible authority without equal accountability",
+    "Over-directs situations that require collaboration",
+    "Defends status instead of revising a weak decision"
+  ],
+  "primaryTriggers": [
+    "Lack of clear direction",
+    "Perceived incompetence or delay",
+    "Threatened autonomy",
+    "Challenge to authority or status",
+    "Pressure to produce immediate results",
+    "Fear of losing visible control",
+    "Public disagreement",
+    "Responsibility gaps within a group"
+  ],
+  "internalDrivers": [
+    "Preference for self-direction",
+    "Strong ownership orientation",
+    "Desire to create momentum",
+    "Confidence in personal judgment",
+    "Need for clarity and direction",
+    "Sensitivity to loss of influence",
+    "Drive to be responsible for outcomes"
+  ],
+  "manifestationAreas": {
+    "workAndTeams": [
+      "Steps forward when leadership is absent",
+      "Clarifies priorities and assigns direction",
+      "May centralize decisions under pressure",
+      "Can become impatient with prolonged consultation"
+    ],
+    "communication": [
+      "Uses direct and confident language",
+      "Frames goals and expected action clearly",
+      "May dominate discussion when status feels challenged",
+      "Benefits from actively inviting dissenting views"
+    ],
+    "relationships": [
+      "Often takes responsibility for plans and decisions",
+      "May struggle when another person controls the direction",
+      "Can protect and organize during uncertainty",
+      "Needs to distinguish care from over-direction"
+    ],
+    "decisionsAndResponsibility": [
+      "Accepts visible accountability",
+      "Moves groups from discussion to action",
+      "May decide alone when collaboration feels slow",
+      "Benefits from reviewing whether control is necessary"
+    ]
+  },
+  "protectiveFactors": [
+    "Clear shared objectives",
+    "Defined decision rights",
+    "Respectful autonomy",
+    "Structured consultation",
+    "Explicit accountability",
+    "Permission to revise decisions",
+    "Recognition shared across the team",
+    "Regular invitation of contrary evidence"
+  ],
+  "traitBoundaries": {
+    "initiative": "Initiative is self-starting action; leadership additionally involves influence, coordination, responsibility, or direction involving others.",
+    "dominance": "Dominance concerns status or control and can exist without constructive direction or accountability.",
+    "authority": "Authority is a formal role or power position; leadership may occur without formal authority.",
+    "decisiveness": "Decisiveness is timely commitment to a choice; leadership includes how choices are communicated, implemented, reviewed, and owned with others.",
+    "charisma": "Charisma or extroversion may affect visibility but is not required for effective leadership.",
+    "statusSeeking": "Status-seeking prioritizes recognition or rank; leadership prioritizes responsibility for a shared objective."
+  },
+  "excludedClaims": [
+    "Every Moolank 1 person is a born leader",
+    "Guaranteed leadership effectiveness",
+    "Guaranteed authority, fame, wealth, entrepreneurship, or political power",
+    "Universal dominance, extroversion, charisma, or social skill",
+    "Scientific prediction of leadership from date of birth",
+    "Justification of authoritarian, coercive, humiliating, or controlling behaviour",
+    "Followers are inherently weaker than leaders"
+  ],
+  "appSafeSummary": "Moolank 1 tradition associates you with creating direction, taking ownership, and helping a group move into action. This is strongest when confidence is balanced by listening, accountability, and flexibility. When autonomy or status feels threatened, the same drive may become overcontrol or unilateral decision-making. Leadership is an orientation, not a guaranteed title or ability.",
+  "appCard": {
+    "strength": "Creates direction and takes visible ownership.",
+    "shadow": "May overcontrol or decide alone when autonomy or status feels threatened.",
+    "growthKey": "Lead with accountability, consultation, and willingness to revise."
+  },
+  "confidence": {
+    "numerologyTraditionSupport": "moderate-strong",
+    "supportForDirectionAndOwnership": "strong",
+    "supportForUniversalLeadershipAbility": "unsupported",
+    "psychologySupportForMultidimensionalLeadership": "strong",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [
+    {
+      "sourceType": "numerology-tradition",
+      "publisher": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms",
+      "usage": "Contemporary Moolank 1 association with leadership, confidence, ambition, and influence."
+    },
+    {
+      "sourceType": "leadership-science",
+      "publisher": "Journal of Applied Psychology",
+      "url": "https://doi.org/10.1037/0021-9010.87.4.765",
+      "usage": "Leadership relates to multiple personality factors and does not support deterministic born-leader claims."
+    },
+    {
+      "sourceType": "leadership-science",
+      "publisher": "American Psychologist",
+      "url": "https://doi.org/10.1037/0003-066X.62.1.6",
+      "usage": "Leadership is best understood through integrated attributes and situational demands."
+    }
+  ],
+  "safetyNote": "This content describes a traditional numerology interpretation. It must not be presented as scientific proof, a psychological diagnosis, or a guarantee of leadership ability or status.",
+  "lastReviewed": "2026-07-14"
+}
