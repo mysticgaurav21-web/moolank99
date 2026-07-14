@@ -7,6 +7,39 @@ export interface CategoryDetail {
   actionableTips: string[];
 }
 
+export interface CanonicalTrait {
+  traitId: string;
+  moolank: number;
+  traitName: string;
+  slug: string;
+  version: string;
+  status: "canonical" | "draft" | "deprecated";
+  classification: string;
+  primaryDomain: string;
+  canonicalDefinition: string;
+  corePattern: {
+    trigger: string;
+    internalResponse: string;
+    behaviour: string;
+    possibleConsequence: string;
+  };
+  balancedExpression: string[];
+  shadowExpression: string[];
+  primaryTriggers: string[];
+  internalDrivers: string[];
+  protectiveFactors: string[];
+  traitBoundaries: Record<string, string>;
+  appCard: {
+    strength: string;
+    shadow: string;
+    growthKey: string;
+  };
+  appSafeSummary: string;
+  excludedClaims: string[];
+  confidence: Record<string, string>;
+  safetyNote: string;
+}
+
 export interface MoolankReading {
   success: boolean;
   moolank: number;
@@ -22,6 +55,7 @@ export interface MoolankReading {
   neutralNumbers: number[];
   enemyNumbers: number[];
   radicalRemedy: string;
+  canonicalTraits?: CanonicalTrait[];
   isFallback?: boolean;
   fallbackReason?: string;
   categories: {
