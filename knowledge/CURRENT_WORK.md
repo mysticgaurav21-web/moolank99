@@ -20,22 +20,38 @@
 
 ## Active objective
 
-Begin **Phase 7.4A — M1-R004 Confidence and Self-Belief Source Upgrade** after deployment verification.
+Complete **Phase 7.4A — M1-R004 Confidence and Self-Belief Source Upgrade**.
 
 Research question:
 
 > Do traditional Birth Number / Moolank 1 sources consistently support confidence and self-belief, and how should grounded confidence be separated from self-efficacy, self-esteem, dominance, certainty, overconfidence and defensiveness?
 
-## M1-R003 decisions locked
+Working evidence file:
 
-- Autonomy means responsible self-endorsed choice; independence concerns reduced reliance.
-- Autonomy can coexist with cooperation, relatedness, support and interdependence.
-- Strategic help-seeking is compatible with autonomy.
-- Following justified rules or expert guidance can be autonomous.
-- Authority reactance is a conditional pressure response, not a universal Moolank 1 trait.
-- Opposition, stubbornness, isolation, dominance and low cooperation remain separate constructs.
-- Decisions affecting others require consent, decision rights, consultation and accountability.
-- Birth number does not scientifically predict autonomy or reactance.
+```text
+knowledge/evidence/moolank-1/M1-R004-confidence-and-self-belief.md
+```
+
+## Current evidence state
+
+- Source-upgrade draft v0.1 created.
+- Traditional confidence, self-assurance and trust-in-personal-judgment pattern retained provisionally.
+- Psychology bridge distinguishes broad confidence from task-specific self-efficacy and general self-esteem.
+- Grounded confidence is defined as evidence-sensitive, prepared, feedback-tolerant and revisable.
+- Certainty, dominance, loudness, universal competence and guaranteed success are excluded.
+- Overconfidence and defensiveness are conditional shadows, not defining traits.
+- Canonical JSON is not yet approved.
+
+## Initial construct boundaries
+
+- Confidence concerns expected capability or effective engagement; self-efficacy is task- and domain-specific.
+- Self-esteem concerns general self-worth and remains separate.
+- Confidence permits uncertainty and revision; certainty claims a conclusion is settled.
+- Dominance concerns control or rank over others and does not prove confidence.
+- Overconfidence exceeds available evidence, preparation or skill.
+- Defensiveness protects identity or status by rejecting information.
+- Confidence may support leadership but does not establish leadership effectiveness.
+- Autonomy concerns self-endorsed choice and remains separate.
 
 ## Recovery update
 
@@ -54,13 +70,17 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
 - Independent live verification remains pending because the current tool environment cannot directly confirm the Render UI.
+- M1-R004 remains evidence-stage and is not live.
 
 ## Next actions
 
-1. Confirm CI and merge for M1-R003.
-2. Verify the M1-R003 card on Render.
-3. Start Phase 7.4A for M1-R004 Confidence and Self-Belief.
-4. Keep confidence separate from dominance, overconfidence, certainty and leadership.
+1. Add an independent Birth Number or specialist Number 1 source outside the current publisher family.
+2. Review confidence calibration, overconfidence and feedback reception.
+3. Define triggers and protective factors.
+4. Review recognition/status sensitivity overlap.
+5. Upgrade evidence to v0.2 and complete Phase 7.4A.
+6. Begin Phase 7.4B boundary review only after source consolidation.
+7. Create canonical JSON only after final evidence approval.
 
 ## Files to read at the start of every new chat
 
