@@ -20,13 +20,17 @@
 4. M1-R004 — Confidence and Self-Belief v1.0
 5. ID-016 — Impulse Control v1.2
 
+## Latest completed research step
+
+- Phase 7.5A — M1-R005 Recognition and Status Sensitivity Source Upgrade, evidence consolidation v0.2
+
 ## Active objective
 
-Complete **Phase 7.5A — M1-R005 Recognition and Status Sensitivity Source Upgrade**.
+Complete **Phase 7.5B — M1-R005 Recognition and Status Sensitivity Boundary Review**.
 
 Research question:
 
-> Do traditional Birth Number / Moolank 1 sources consistently support a preference for recognition, visibility or respect, and how should this be separated from confidence, self-esteem, ambition, dominance, entitlement and dependence on praise?
+> Is evidence strength sufficient for canonical inclusion, and how should fair-credit sensitivity be separated from confidence, self-esteem, ambition, dominance, entitlement, social comparison and praise dependence?
 
 Working evidence file:
 
@@ -34,30 +38,31 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R005-recognition-and-status-sensitivity.md
 ```
 
-## Current evidence state
+## Phase 7.5A verdict
 
-- Source-upgrade draft v0.1 created.
-- Traditional visibility, influence, authority and respect themes retained provisionally.
-- Direct evidence for recognition sensitivity is weaker than evidence for confidence or leadership.
-- Recognition is defined as acknowledgment, fair credit, visibility and respect—not automatic praise dependence.
-- Informational acknowledgment is separated from controlling praise.
-- Contingent self-worth and status threat are psychology boundary constructs, not Moolank-specific facts.
-- Confidence, self-esteem, ambition, dominance, entitlement, praise dependence and leadership remain separate.
-- Canonical JSON is not yet approved.
+Retain Recognition and Status Sensitivity provisionally as a lower-confidence traditional trait with conditional shadow. Frame it around fair credit, acknowledgment and respect—not attention-seeking, entitlement or praise dependence.
 
-## Initial construct boundaries
-
-- Confidence concerns perceived capability; recognition sensitivity concerns response to acknowledgment and public evaluation.
-- Self-esteem concerns general self-worth; fair-credit sensitivity does not prove fragile self-esteem.
-- Ambition concerns achievement and advancement; recognition may accompany but does not define it.
-- Dominance concerns control or rank over others; seeking fair credit does not justify control.
-- Entitlement assumes special treatment regardless of contribution or agreement.
-- Praise dependence means motivation or self-worth relies heavily on repeated approval.
-- Leadership effectiveness requires sharing credit and tolerating dissent.
-
-## Provisional safe core
+Approved provisional core:
 
 > Moolank 1 tradition may associate this number with visible contribution, respect and acknowledgment. In a balanced expression, recognition is valued as fair credit and useful feedback while motivation, cooperation and self-worth remain stable without constant praise. Under pressure—especially when contribution feels ignored or status feels reduced—the same sensitivity may become visibility competition, resentment, disproportionate credit-taking or dependence on approval. Scientific research does not establish that a birth number predicts recognition sensitivity, contingent self-worth or status behaviour.
+
+## Evidence decisions locked
+
+- Direct traditional support for recognition sensitivity is weaker than support for confidence or leadership.
+- No high-quality independent specialist Birth Number source explicitly confirming recognition sensitivity was located.
+- Recognition means acknowledgment, fair credit, visibility and respect; praise is only one form of positive evaluation.
+- Informational acknowledgment is separate from controlling approval.
+- Contingent self-worth, social comparison and status threat are general psychology boundaries, not Moolank-specific facts.
+- Confidence, self-esteem, ambition, dominance, entitlement, praise dependence and leadership remain separate constructs.
+- Fair-credit sensitivity does not justify disproportionate credit, control or special treatment.
+- Birth number does not scientifically predict recognition sensitivity or status behaviour.
+- Canonical JSON is not yet approved.
+
+## Safe triggers and protective factors
+
+Possible triggers include omitted credit, unclear ownership, another person receiving praise for shared work, title or visibility loss, public disagreement, repeated invisible work, peer comparison, leadership transition and inconsistent recognition standards.
+
+Protective factors include pre-agreed credit rules, specific contribution-based acknowledgment, shared-credit norms, transparent criteria, recognition of invisible work, direct clarification before assuming disrespect and stable motivation when praise is delayed.
 
 ## Live app state
 
@@ -73,13 +78,12 @@ The uploaded historical export confirms ID-013 Stress Response, ID-014 Fear, ID-
 
 ## Next actions
 
-1. Add an independent specialist Birth Number source explicitly discussing recognition, respect, prestige or acknowledgment.
-2. Review contingent self-worth, status threat and social comparison using primary sources.
-3. Distinguish fair-credit sensitivity from praise dependence and entitlement.
-4. Define safe triggers and protective factors.
-5. Upgrade evidence to v0.2 and complete Phase 7.5A.
-6. Begin Phase 7.5B boundary review only after source consolidation.
-7. Create canonical JSON only after final evidence approval.
+1. Decide whether M1-R005 should be canonical, secondary/cautious, or deferred due to evidence strength.
+2. Finalize fair-credit sensitivity versus entitlement and praise dependence.
+3. Review social comparison, status threat and shared-credit boundaries.
+4. Lock manifestation areas and app-safe language.
+5. Produce final evidence verdict v0.3.
+6. Create canonical JSON only after boundary approval.
 
 ## Files to read at the start of every new chat
 
