@@ -6,37 +6,47 @@
 
 ## Active objective
 
-Complete **Phase 7.1A — M1-R001 Leadership Style Source Upgrade** using the reconstructed roadmap, then produce an evidence verdict before canonical JSON is created.
+Complete **Phase 7.1B — M1-R001 Leadership Style Boundary Review** after finishing the first source-upgrade consolidation.
 
 ## Roadmap decision
 
-The original long-chat roadmap could not be recovered. Work will not remain blocked indefinitely.
-
-A collision-safe reconstructed roadmap is now stored at:
+The original long-chat roadmap could not be recovered. Work now proceeds through the collision-safe reconstructed roadmap stored at:
 
 ```text
 knowledge/RECONSTRUCTED_ROADMAP.md
 ```
 
-New traits use the namespace `M1-R###`. This does not claim to reproduce the missing old `ID-###` sequence.
+New traits use the namespace `M1-R###`. This does not claim to reproduce the missing historical `ID-###` sequence.
 
-## Latest completed phase
+## Latest completed research step
+
+- Phase 7.1A — M1-R001 Leadership Style Source Upgrade, evidence consolidation v0.2
+
+## Latest completed canonical phase
 
 - Phase 6.18B — ID-016 Impulse Control Canonical v1.2
 
 ## Current active phase
 
-- Phase 7.1A — M1-R001 Leadership Style Source Upgrade
+- Phase 7.1B — M1-R001 Leadership Style Boundary Review
 
 Research question:
 
-> Do traditional Number 1 / Moolank 1 sources consistently support a leadership orientation, and what distinguishes balanced leadership from dominance, unilateral control, status-seeking, or mere decisiveness?
+> How should Leadership Style be separated from initiative, dominance, authority, decisiveness, charisma, and status-seeking, and which shadow triggers are safe enough for canonical wording?
 
 Working evidence file:
 
 ```text
 knowledge/evidence/moolank-1/M1-R001-leadership-style.md
 ```
+
+## Phase 7.1A verdict
+
+Retain Leadership Style as a primary traditional strength, but describe it as an orientation or potential rather than a guaranteed position or ability.
+
+Safe provisional core:
+
+> Moolank 1 tradition associates this number with a preference for creating direction, taking visible ownership, and initiating action. Its balanced expression combines confidence with accountability, listening, and service to a shared objective. Under pressure, the same drive may become unilateral control or status-defensiveness. Scientific research does not establish that a birth number predicts leadership.
 
 ## Live app state
 
@@ -45,27 +55,21 @@ knowledge/evidence/moolank-1/M1-R001-leadership-style.md
 - Gemini prompts use canonical grounding.
 - Canonical Knowledge panel is live on Render.
 - Live URL: `https://moolank99.onrender.com/`
+- M1-R001 remains evidence-stage only and is not yet live.
 
 ## Current research tasks
 
-1. Collect at least three independent traditional Number 1 sources.
-2. Distinguish Birth Number / Moolank 1 from Life Path 1 material.
-3. Review leadership psychology for construct boundaries only.
-4. Separate leadership from initiative, dominance, authority, and decisiveness.
-5. Grade repeated, conflicting, exaggerated, and unsupported claims.
-6. Produce Phase 7.1A final evidence verdict.
-7. Create canonical JSON only after evidence review is complete.
+1. Review authoritarian, participative, servant, and shared leadership boundaries.
+2. Confirm that Initiative and Proactivity remains a separate M1-R002 trait.
+3. Identify safe conditional triggers for overcontrol and unilateral decision-making.
+4. Add at least one independent specialist or historical numerology source if available.
+5. Produce the final M1-R001 evidence verdict.
+6. Create canonical JSON only after the boundary review is complete.
+7. Update master index, changelog, app loader, CI, and Render after canonical approval.
 
 ## Recovery remains optional but useful
 
 If the old export is found later, store it under `knowledge/imports/` and compare it with the reconstructed roadmap. Existing reconstructed IDs must not be silently overwritten.
-
-Recovery targets still include:
-
-- ID-013 Stress Response exact canonical record;
-- Fear exact canonical record and old trait ID;
-- Anger exact canonical record and old trait ID;
-- original master roadmap.
 
 ## Files to read at the start of every new chat
 
