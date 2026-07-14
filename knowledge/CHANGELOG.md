@@ -2,6 +2,21 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.2.0] — 2026-07-14
+
+### Workflow and continuity
+
+- Added `WORKFLOW.md` as the permanent research-to-deployment operating system.
+- Added `CURRENT_WORK.md` as the exact cross-chat handoff and active-task tracker.
+- Added evidence and canonical starter templates.
+- Added a protected `imports/` area for old conversation exports and recovered roadmaps.
+- Added a pull-request checklist covering evidence, canonical data, app registration, validation and live deployment.
+- Defined that no phase is complete until GitHub files, CI and Render verification are complete.
+
+### Current next action
+
+- Recover the exact old roadmap/export and verify the trait after ID-016 without guessing.
+
 ## [1.1.0] — 2026-07-14
 
 ### Integrated
