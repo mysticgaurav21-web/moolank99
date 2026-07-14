@@ -2,6 +2,23 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.1.0] — 2026-07-14
+
+### Integrated
+
+- Added typed canonical JSON loader at `src/knowledge/index.ts`.
+- Grounded Gemini reading prompts with verified canonical knowledge.
+- Added `canonicalTraits` to `/api/moolank/reading` responses.
+- Added direct canonical endpoint: `GET /api/knowledge/moolank/:number`.
+- Added deterministic server-generation step for development, linting and production builds.
+- Added CI checks for TypeScript validation and production builds.
+
+### Safety enforcement
+
+- Conditional traits remain conditional in AI instructions.
+- Clinical, psychiatric, diagnostic, criminal and addiction claims are prohibited unless independently supported.
+- Traditional numerology interpretations must not be represented as scientific proof.
+
 ## [1.0.0] — 2026-07-14
 
 ### Added
