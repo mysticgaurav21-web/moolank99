@@ -1,177 +1,185 @@
 # M1-R002 — Initiative and Proactivity Evidence Record
 
 **Moolank:** 1  
-**Status:** Evidence consolidation v0.2  
-**Phase:** 7.2A — Source Upgrade  
+**Status:** Final evidence verdict v0.3  
+**Phase:** 7.2B — Boundary Review  
 **Roadmap type:** Reconstructed; not a recovered historical ID  
 **Last reviewed:** 14 July 2026
 
 ## Research question
 
-Do traditional Birth Number / Moolank 1 sources consistently support self-starting action and proactive behaviour, and how should initiative be separated from leadership, impulsivity, persistence, dominance, novelty-seeking, and risk-taking?
+Do traditional Birth Number / Moolank 1 sources consistently support self-starting action and proactive behaviour, and how should responsible initiative be separated from leadership, impulsivity, persistence, overcommitment, role overreach, novelty-seeking, dominance and risk-taking?
 
-## Working definition
+## Final construct definition
 
-Initiative and proactivity describe self-starting, future-oriented and goal-directed action taken without waiting for detailed external instruction. The construct includes noticing a need or opportunity, beginning useful action, anticipating obstacles, coordinating with relevant people, and adjusting effort when new information appears. It is not identical to leadership, speed, impulsivity, persistence, dominance, entrepreneurship, novelty-seeking, or risk-taking.
+Initiative and proactivity describe self-starting, future-oriented and goal-directed action taken without waiting for detailed external instruction. Healthy initiative includes identifying a useful need or opportunity, beginning action, anticipating obstacles, coordinating with affected people, reviewing capacity and adjusting or stopping when new evidence requires it.
+
+Initiative is not identical to leadership, speed, impulsivity, persistence, dominance, entrepreneurship, novelty-seeking, risk-taking or constant activity.
 
 ## Scope rule
 
-This record concerns **Birth Number / Moolank 1**, calculated from birth dates 1, 10, 19, or 28. Life Path 1, Universal Year 1, Destiny Number 1 and name-number material are comparison evidence only unless a source explicitly distinguishes the systems.
+This record concerns **Birth Number / Moolank 1**, calculated from birth dates 1, 10, 19 or 28. Life Path 1, Universal Year 1, Destiny Number 1 and name-number material are comparison evidence only unless a source explicitly distinguishes the systems.
 
-## Traditional numerology layer
+## Traditional numerology evidence
 
-### Repeated pattern
+Contemporary Moolank 1 descriptions repeatedly emphasize independence, ambition, confidence, willpower, originality, determination, pioneering action and reliance on personal judgment. The narrower pattern retained here is a traditional preference for beginning movement rather than waiting passively for external direction.
 
-Contemporary Moolank 1 descriptions repeatedly emphasize independence, ambition, confidence, willpower, originality, determination, pioneering action and reliance on personal judgment. Many sources use broad labels such as “leader” or “pioneer”; the narrower pattern relevant here is a traditional preference for beginning movement rather than waiting passively for external direction.
-
-### Moolank-specific sources reviewed
+### Sources reviewed
 
 1. **The Times of India — “What your Moolank says about you”**  
-   Associates Moolank 1 with confidence, ambition, influence and leadership. These claims support an action-oriented traditional profile but do not establish effective proactivity.  
+   Supports confidence, ambition, influence and action orientation.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms
 
 2. **The Times of India — “Birth Number 1: Personality Trait…”**  
-   Associates Birth Number 1 with willpower, diligence, energy, creativity, career orientation and leadership. The energy/willpower cluster is relevant to initiative; predictions of success or status are excluded.  
+   Supports willpower, diligence, energy, creativity and leadership; success predictions are excluded.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/birth-number-1-personality-trait-lucky-number-lucky-color-and-lucky-gemstone/photostory/125784670.cms
 
 3. **The Times of India — “Sun-ruled souls: The power and purpose of Mulank 1”**  
-   Identifies the 1, 10, 19 and 28 birth-date group and links it with ambition, individuality, determination and leadership. These claims are compatible with self-directed action.  
+   Identifies the 1, 10, 19 and 28 birth-date group and associates it with ambition, individuality and determination.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/sun-ruled-souls-the-power-and-purpose-of-mulank-1-in-numerology/articleshow/124941397.cms
 
-### Independent comparison source
-
 4. **Allure — Number 1 numerology overview**  
-   Describes Number 1 through forward motion, action, initiation, a pioneering spirit and independence. This is not Moolank-specific and therefore does not raise the direct Birth Number confidence grade, but it independently confirms that initiation is a repeated Number 1 tradition theme outside the existing publisher family.  
+   Independently repeats forward motion, initiation, pioneering and independence themes. It is broader Number 1 evidence, not direct Moolank evidence.  
    URL: https://www.allure.com/story/numerology-how-to-calculate-life-path-destiny-number
 
 ### Source-quality limitation
 
-The direct Moolank evidence remains concentrated in contemporary popular publications, and the independent comparison source discusses broader numerology categories rather than Moolank alone. These sources document a modern tradition pattern; they do not provide scientific validation or prove that every person born on 1, 10, 19 or 28 behaves proactively.
+Direct Moolank evidence remains concentrated in contemporary popular publications. The sources establish a repeated modern tradition pattern, not scientific validity and not a universal behavioural prediction.
 
 ## Psychology bridge
 
-Psychology is used only to define the construct, separate nearby traits and improve safety. It does **not** validate a relationship between birth number and proactive behaviour.
+Psychology is used only to define the construct and its boundaries. It does **not** validate a relationship between birth number and proactive behaviour.
 
-### Personal initiative
+Relevant research includes:
 
-Work and organizational psychology commonly treats personal initiative as self-starting, future-oriented and barrier-overcoming behaviour. This helps distinguish useful initiative from merely moving fast or acting without adequate consideration.
+- Frese and Fay, **“Personal Initiative: An Active Performance Concept for Work in the 21st Century”** (2001).
+- Frese, Kring, Soose and Zempel, **“Personal Initiative at Work”** (1996).
+- Parker, Bindl and Strauss, **“Making Things Happen: A Model of Proactive Motivation”** (2010).
+- Grant and Ashford, **“The Dynamics of Proactivity at Work”** (2008).
+- Parker and Collins, **“Taking Stock: Integrating and Differentiating Multiple Proactive Behaviors”** (2010).
 
-Relevant sources:
+This literature supports initiative as self-starting and future-oriented while also showing that proactive action can be mistimed, poorly coordinated or socially costly.
 
-- Frese and Fay, **“Personal Initiative: An Active Performance Concept for Work in the 21st Century,”** Research in Organizational Behavior (2001).
-- Frese, Kring, Soose and Zempel, **“Personal Initiative at Work: Differences Between East and West Germany,”** Academy of Management Journal (1996).
-- Parker, Bindl and Strauss, **“Making Things Happen: A Model of Proactive Motivation,”** Journal of Management (2010).
-- Grant and Ashford, **“The Dynamics of Proactivity at Work,”** Research in Organizational Behavior (2008).
-- Parker and Collins, **“Taking Stock: Integrating and Differentiating Multiple Proactive Behaviors,”** Journal of Management (2010).
+## Final boundary decisions
 
-### Proactivity is not automatically beneficial
+### Initiative vs leadership
 
-Proactive action can create value, but usefulness depends on purpose, timing, knowledge, role boundaries, coordination and receptiveness of the surrounding context. Action may become ineffective or socially costly when it ignores expertise, duplicates work, violates legitimate constraints, burdens others, or prioritizes visibility over actual need.
+Initiative begins useful action. Leadership additionally involves influencing, coordinating or directing other people and accepting responsibility for shared outcomes. Initiative can occur without leading a group.
 
-This means canonical wording must describe **responsible initiative**, not unrestricted action-taking.
+### Initiative vs impulsivity
 
-## Evidence synthesis
+Initiative includes purpose, anticipation and adequate evaluation. Impulsivity involves insufficient deliberation for the situation. Fast action is initiative only when it remains proportionate and consequence-aware.
 
-### Traditional core retained
+### Initiative vs persistence
 
-Moolank 1 tradition portrays this number as relatively comfortable beginning action, relying on personal judgment and moving before detailed external direction is available.
+Initiative concerns starting and proactively shaping action. Persistence concerns continuing through obstacles. Follow-through is required to make initiative useful, but persistence remains a separate future trait because it focuses on continuation rather than initiation.
 
-### Balanced expression
+### Initiative vs overcommitment
 
-- Begins useful action when a need or opportunity is sufficiently clear.
-- Converts an idea into an initial practical step.
-- Anticipates likely obstacles and prepares for them.
-- Gathers essential information without requiring excessive reassurance.
-- Takes ownership of starting tasks that others are avoiding.
-- Coordinates with people whose expertise, consent or work will be affected.
-- Adjusts the plan when evidence shows a better route.
-- Limits new starts to what can be followed through responsibly.
-- Maintains enough persistence to make the initiative useful.
+Starting more tasks than can be completed is not stronger initiative. Overcommitment is retained here only as a **conditional shadow consequence of repeated starting without capacity review**. Broader planning, prioritization and workload-management problems belong under self-regulation or planning traits.
 
-### Conditional shadow expression
+### Initiative vs role overreach
 
-The shadow is not universal. It becomes more plausible when action orientation combines with impatience, heightened confidence, threatened autonomy, weak consultation, visibility pressure, excitement about novelty, or frustration with slower processes.
+Initiative may operate within or across role boundaries, but healthy initiative checks decision rights, consent, expertise and coordination. Acting outside legitimate authority without consultation is role overreach, not a defining strength.
 
-Possible shadow patterns:
+### Initiative vs novelty-seeking
 
-- starts before the purpose, constraints or downstream effects are sufficiently understood;
-- launches more tasks than can be completed responsibly;
-- treats consultation as unnecessary delay;
-- acts outside role boundaries without considering coordination costs;
-- duplicates work already being handled by others;
-- changes direction mainly to preserve momentum or personal control;
-- begins visible action without arranging ownership or follow-through;
-- mistakes novelty, speed or visibility for value;
-- becomes frustrated when others do not match the same pace;
-- continues pushing an initiative after evidence shows that revision or stopping is wiser.
+Novelty-seeking concerns attraction to new stimulation. Initiative can improve routine work, prevent known problems or complete avoided responsibilities. Novelty-seeking remains separate.
 
-## Safe conditional triggers
+### Initiative vs risk-taking
+
+Initiative concerns starting or improving action. Risk-taking concerns accepting uncertainty or possible loss. Neither requires the other.
+
+### Initiative vs dominance
+
+Initiative does not require controlling people, seeking status or overriding others. Dominance concerns relative influence, rank or control.
+
+### Initiative vs entrepreneurship
+
+Entrepreneurship is a role or domain. Initiative may support business, employment, study, home or community action but does not guarantee entrepreneurship, innovation, wealth or success.
+
+## Balanced expression
+
+- Begins useful action when purpose and need are sufficiently clear.
+- Converts ideas into practical first steps.
+- Anticipates likely obstacles.
+- Gathers essential information without excessive dependence on reassurance.
+- Coordinates with people whose work, expertise or consent is affected.
+- Reviews capacity before starting additional commitments.
+- Defines ownership and follow-through.
+- Revises or stops when evidence shows the initiative is no longer useful.
+- Maintains enough persistence to prevent abandoned starts.
+
+## Conditional shadow expression
+
+The shadow is not universal. It becomes more plausible when action orientation combines with impatience, heightened confidence, threatened autonomy, visibility pressure, novelty excitement, unclear ownership or frustration with slower processes.
+
+Possible patterns:
+
+- starting before purpose, constraints or downstream effects are clear;
+- launching more tasks than can be completed responsibly;
+- treating consultation as unnecessary delay;
+- crossing role boundaries without coordination;
+- duplicating work already owned by others;
+- creating unplanned work for other people;
+- prioritizing visibility, speed or novelty over usefulness;
+- resisting revision because stopping feels like loss of momentum;
+- becoming frustrated when others do not match the same pace.
+
+## Safe triggers
 
 - lack of visible progress;
-- waiting for approval or direction;
-- ambiguity about who owns a task;
+- waiting for direction or approval;
+- unclear ownership;
 - perceived passivity in others;
 - threatened autonomy;
 - pressure to appear capable or ahead;
 - excitement about a new opportunity;
-- frustration with prolonged consultation;
-- fear that delay will cause the opportunity to disappear;
-- public comparison or competition.
+- fear that delay will remove the opportunity;
+- competition or public comparison;
+- frustration with consultation.
 
 These are possible contexts, not deterministic causes.
 
 ## Protective factors
 
-- a clearly defined purpose and success criterion;
-- minimum-information and risk checks before starting;
-- explicit decision rights and role boundaries;
+- clear purpose and success criteria;
+- minimum-information and consequence checks;
+- explicit role and decision boundaries;
 - concise consultation with affected people;
-- realistic capacity and follow-through review;
-- a stopping or revision rule;
-- separating novelty from actual usefulness;
-- distinguishing genuine urgency from impatience;
-- checking whether action creates work for others without consent;
-- reviewing irreversible consequences before commitment.
+- realistic capacity and workload review;
+- named ownership for follow-through;
+- revision and stopping rules;
+- novelty-versus-usefulness check;
+- urgency-versus-impatience check;
+- review of irreversible consequences.
 
-## Construct boundaries
+## Manifestation areas
 
-### Initiative vs leadership
+### Work and study
 
-Initiative is self-starting action. Leadership additionally involves influencing, coordinating or directing other people and accepting responsibility for shared outcomes. A person may show initiative without leading a group.
+May start neglected tasks, propose improvements or create momentum. Under pressure may overcommit, bypass expertise or begin work without alignment.
 
-### Initiative vs impulsivity
+### Communication
 
-Initiative includes purpose, anticipation and adequate evaluation. Impulsivity involves insufficient deliberation for the situation. Fast action can be initiative when it remains consequence-aware and proportionate.
+May move discussion toward action and state the first practical step. Under pressure may treat questions or consultation as obstruction.
 
-### Initiative vs persistence
+### Relationships and home
 
-Initiative concerns beginning and proactively shaping action. Persistence concerns continuing through obstacles. Healthy initiative includes enough follow-through to prevent abandoned starts, but persistence remains a distinct construct.
+May take responsibility for plans or unresolved practical needs. Under pressure may act on behalf of others without enough consent or shared ownership.
 
-### Initiative vs risk-taking
+### Projects and opportunities
 
-Initiative concerns starting or improving action. Risk-taking concerns accepting uncertainty or possible loss. Initiative need not be risky, and risk-taking need not be proactive.
-
-### Initiative vs dominance
-
-Initiative does not require controlling other people or seeking rank. Dominance concerns status, relative influence or control.
-
-### Initiative vs novelty-seeking
-
-Novelty-seeking concerns attraction to new stimulation or experiences. Initiative may involve something new, but can also improve routine work, prevent a known problem or complete an avoided responsibility. Novelty-seeking should not be absorbed into this trait.
-
-### Initiative vs entrepreneurship
-
-Entrepreneurship is a role or activity domain. Initiative may support business, employment, study, household responsibilities, relationships or community work, but it does not guarantee business ownership, innovation, wealth or success.
+May identify openings early and convert ideas into experiments. Under pressure may chase novelty, spread effort too thinly or leave follow-through unclear.
 
 ## Claims rejected
 
 - Every Moolank 1 person always acts first.
 - Moolank 1 people never hesitate or seek advice.
-- Moolank 1 guarantees entrepreneurship, innovation, career success or wealth.
+- Starting many projects proves strong initiative.
 - Self-starting action is always effective, ethical or appropriate.
 - Initiative justifies ignoring expertise, consent, laws, rules or coordination.
-- Acting quickly is automatically proactive.
-- Starting many projects proves high initiative.
+- Moolank 1 guarantees entrepreneurship, innovation, success or wealth.
 - Birth number scientifically predicts proactive behaviour.
 - Low initiative indicates weakness, laziness or a disorder.
 
@@ -182,26 +190,29 @@ Entrepreneurship is a role or activity domain. Initiative may support business, 
 | Contemporary Moolank tradition support for action orientation | Moderate–strong |
 | Broader Number 1 tradition support for initiation/pioneering | Strong |
 | Traditional support for independence and self-direction | Strong |
-| Direct traditional support for the precise psychology construct of personal initiative | Moderate |
+| Direct support for the precise psychology construct | Moderate |
 | Support for universal self-starting behaviour | Unsupported |
-| Psychology support for initiative as self-starting/future-oriented/contextual | Strong |
-| Psychology support that proactivity can be mistimed or socially costly | Moderate–strong |
+| Psychology support for initiative as self-starting and contextual | Strong |
+| Psychology support for mistimed/socially costly proactivity | Moderate–strong |
 | Scientific evidence linking initiative to Moolank 1 | Not established |
 
-## Phase 7.2A evidence verdict
+## Phase 7.2B final verdict
 
-**Retain Initiative and Proactivity as a primary traditional strength, but define it as responsible self-starting action rather than speed, constant action or unrestricted autonomy.**
+**Retain Initiative and Proactivity as a primary traditional strength, defined as responsible self-starting action rather than speed, constant activity or unrestricted autonomy.**
 
 Canonical-safe core:
 
-> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination and follow-through. Under pressure, the same action drive may become premature starts, overextension, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
+> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination, capacity awareness and follow-through. Under pressure, the same action drive may become premature starts, overcommitment, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
 
-## Next phase
+## Canonical drafting decision
 
-**Phase 7.2B — Boundary Review**
+M1-R002 is approved to proceed to **Phase 7.2C — Canonical v1.0 and app integration**.
 
-1. Finalize the distinction between initiative and persistence.
-2. Review whether overcommitment belongs here or under planning/self-regulation.
-3. Lock manifestation areas and app-safe language.
-4. Produce final evidence verdict v0.3.
-5. Create canonical JSON only after boundary review approval.
+The canonical record must preserve:
+
+- responsible-action framing;
+- conditional, non-universal shadow wording;
+- initiative/persistence separation;
+- overcommitment as a conditional consequence, not a fixed trait;
+- explicit consent, expertise, capacity and coordination safeguards;
+- separation of numerology tradition from scientific evidence.
