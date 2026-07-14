@@ -1,0 +1,162 @@
+{
+  "traitId": "M1-R002",
+  "moolank": 1,
+  "traitName": "Initiative and Proactivity",
+  "slug": "initiative-and-proactivity",
+  "version": "1.0",
+  "status": "canonical",
+  "classification": "primary-strength-with-conditional-shadow",
+  "primaryDomain": "self-directed-action",
+  "canonicalDefinition": "Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination, capacity awareness and follow-through. Under pressure, the same action drive may become premature starts, overcommitment, role overreach or resistance to useful consultation. Initiative should therefore be treated as an orientation toward responsible self-starting action rather than speed, constant activity or unrestricted autonomy.",
+  "corePattern": {
+    "trigger": "A visible need, opportunity, stalled progress or unclear ownership",
+    "internalResponse": "Drive to begin movement, restore progress or take ownership",
+    "behaviour": "Starts action, proposes a first step or organizes an initial response",
+    "possibleConsequence": "Useful momentum when balanced; premature starts, overextension or coordination costs when unbalanced"
+  },
+  "balancedExpression": [
+    "Begins useful action when purpose and need are sufficiently clear",
+    "Converts ideas into practical first steps",
+    "Anticipates likely obstacles",
+    "Gathers essential information without excessive dependence on reassurance",
+    "Coordinates with people whose work, expertise or consent is affected",
+    "Reviews capacity before starting additional commitments",
+    "Defines ownership and follow-through",
+    "Revises or stops when evidence shows the initiative is no longer useful",
+    "Maintains enough persistence to prevent abandoned starts"
+  ],
+  "shadowExpression": [
+    "Starts before purpose, constraints or downstream effects are clear",
+    "Launches more tasks than can be completed responsibly",
+    "Treats consultation as unnecessary delay",
+    "Crosses role boundaries without coordination",
+    "Duplicates work already owned by others",
+    "Creates unplanned work for other people",
+    "Prioritizes visibility, speed or novelty over usefulness",
+    "Resists revision because stopping feels like loss of momentum",
+    "Becomes frustrated when others do not match the same pace"
+  ],
+  "primaryTriggers": [
+    "Lack of visible progress",
+    "Waiting for direction or approval",
+    "Unclear ownership",
+    "Perceived passivity in others",
+    "Threatened autonomy",
+    "Pressure to appear capable or ahead",
+    "Excitement about a new opportunity",
+    "Fear that delay will remove the opportunity",
+    "Competition or public comparison",
+    "Frustration with consultation"
+  ],
+  "internalDrivers": [
+    "Preference for self-direction",
+    "Desire to create momentum",
+    "Confidence in personal judgment",
+    "Discomfort with passivity or delay",
+    "Need to make ownership visible",
+    "Attraction to practical first steps",
+    "Desire to prevent missed opportunities"
+  ],
+  "manifestationAreas": {
+    "workAndStudy": [
+      "Starts neglected tasks or proposes improvements",
+      "Creates momentum when others are waiting",
+      "May overcommit or bypass expertise under pressure",
+      "Benefits from explicit role and capacity checks"
+    ],
+    "communication": [
+      "Moves discussion toward action",
+      "States a practical first step",
+      "May treat questions or consultation as obstruction under pressure",
+      "Benefits from inviting essential input before commitment"
+    ],
+    "relationshipsAndHome": [
+      "Takes responsibility for plans or unresolved practical needs",
+      "May act on behalf of others without enough consent",
+      "Can organize useful action during uncertainty",
+      "Benefits from shared ownership and clear agreement"
+    ],
+    "projectsAndOpportunities": [
+      "Identifies openings early and converts ideas into experiments",
+      "May spread effort too thinly or chase novelty",
+      "Benefits from named follow-through ownership",
+      "Benefits from stopping rules and usefulness checks"
+    ]
+  },
+  "protectiveFactors": [
+    "Clear purpose and success criteria",
+    "Minimum-information and consequence checks",
+    "Explicit role and decision boundaries",
+    "Concise consultation with affected people",
+    "Realistic capacity and workload review",
+    "Named ownership for follow-through",
+    "Revision and stopping rules",
+    "Novelty-versus-usefulness check",
+    "Urgency-versus-impatience check",
+    "Review of irreversible consequences"
+  ],
+  "traitBoundaries": {
+    "leadership": "Initiative begins useful action; leadership additionally involves influencing, coordinating or directing people and accepting responsibility for shared outcomes.",
+    "impulsivity": "Initiative includes purpose, anticipation and adequate evaluation; impulsivity involves insufficient deliberation for the situation.",
+    "persistence": "Initiative starts and shapes action; persistence continues through obstacles. Follow-through supports initiative but remains a separate construct.",
+    "overcommitment": "Overcommitment is a conditional consequence of repeated starting without capacity review, not proof of strong initiative.",
+    "roleOverreach": "Healthy initiative checks decision rights, consent, expertise and coordination; acting outside legitimate authority without consultation is role overreach.",
+    "noveltySeeking": "Novelty-seeking concerns attraction to new stimulation; initiative may improve routine work or prevent known problems without novelty.",
+    "riskTaking": "Initiative concerns starting or improving action; risk-taking concerns accepting uncertainty or possible loss.",
+    "dominance": "Initiative does not require controlling people, seeking status or overriding others.",
+    "entrepreneurship": "Entrepreneurship is a role or domain; initiative may support many life areas but does not guarantee business ownership, innovation, wealth or success."
+  },
+  "excludedClaims": [
+    "Every Moolank 1 person always acts first",
+    "Moolank 1 people never hesitate or seek advice",
+    "Starting many projects proves strong initiative",
+    "Self-starting action is always effective, ethical or appropriate",
+    "Initiative justifies ignoring expertise, consent, laws, rules or coordination",
+    "Moolank 1 guarantees entrepreneurship, innovation, success or wealth",
+    "Birth number scientifically predicts proactive behaviour",
+    "Low initiative indicates weakness, laziness or a disorder"
+  ],
+  "appSafeSummary": "Moolank 1 tradition associates you with self-directed action and beginning movement when others are waiting. This is most useful when purpose, coordination, capacity and follow-through are clear. When progress feels blocked or autonomy feels restricted, the same drive may produce premature starts, overcommitment or role overreach. A quick capacity and consequence check helps preserve initiative without creating avoidable costs.",
+  "appCard": {
+    "strength": "Starts useful action and creates momentum.",
+    "shadow": "May begin too much or move beyond role boundaries when frustrated by delay.",
+    "growthKey": "Check purpose, capacity, consent and follow-through before committing."
+  },
+  "confidence": {
+    "numerologyTraditionSupport": "moderate-strong",
+    "broaderNumberOneSupportForInitiation": "strong",
+    "supportForIndependenceAndSelfDirection": "strong",
+    "supportForUniversalSelfStartingBehaviour": "unsupported",
+    "psychologySupportForInitiativeAsContextual": "strong",
+    "psychologySupportForMistimedOrSociallyCostlyProactivity": "moderate-strong",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [
+    {
+      "sourceType": "numerology-tradition",
+      "publisher": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms",
+      "usage": "Contemporary Moolank 1 association with confidence, ambition, influence and action orientation."
+    },
+    {
+      "sourceType": "numerology-comparison",
+      "publisher": "Allure",
+      "url": "https://www.allure.com/story/numerology-how-to-calculate-life-path-destiny-number",
+      "usage": "Independent broader Number 1 comparison for initiation, forward motion and pioneering themes; not direct Moolank evidence."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "Research in Organizational Behavior",
+      "url": "https://doi.org/10.1016/S0191-3085(01)23005-6",
+      "usage": "Defines personal initiative as self-starting, future-oriented and barrier-overcoming behaviour; does not validate a birth-number association."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "Research in Organizational Behavior",
+      "url": "https://doi.org/10.1016/j.riob.2008.04.002",
+      "usage": "Supports contextual and socially consequential framing of proactivity; does not validate a birth-number association."
+    }
+  ],
+  "safetyNote": "This content describes a traditional numerology interpretation. It must not be presented as scientific proof, a psychological diagnosis, or a guarantee of initiative, entrepreneurship, innovation, wealth or success.",
+  "lastReviewed": "2026-07-14"
+}
