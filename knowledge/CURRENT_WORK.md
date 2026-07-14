@@ -22,36 +22,60 @@
 5. M1-R005 — Recognition and Status Sensitivity v1.0
 6. ID-016 — Impulse Control v1.2
 
-## M1-R005 canonical decision
+## Roadmap reconciliation
 
-M1-R005 is registered as a **secondary, lower-confidence traditional tendency with conditional shadow**.
+The earlier reconstructed roadmap assigned `M1-R005` to Authority and Control Orientation, but completed canonical work registered Recognition and Status Sensitivity as `M1-R005`. The canonical ID will not be silently renamed.
 
-Approved core:
+Authority and Control Orientation is now assigned the next unused ID:
 
-> Moolank 1 tradition may associate this number with visible contribution, respect and acknowledgment. In a balanced expression, recognition is valued as fair credit and useful feedback while motivation, cooperation and self-worth remain stable without constant praise. Under pressure—especially when contribution feels ignored or status feels reduced—the same sensitivity may become visibility competition, resentment, disproportionate credit-taking or dependence on approval. Scientific research does not establish that a birth number predicts recognition sensitivity, contingent self-worth or status behaviour.
+```text
+M1-R006 — Authority and Control Orientation
+```
 
-## Safeguards locked
+**Reconstructed roadmap; not recovered historical sequence.**
 
-- Direct traditional support for recognition sensitivity is weak–moderate.
-- No independent specialist Birth Number confirmation was located.
-- Conditional language such as “may value” is mandatory.
-- Fair credit is separate from entitlement, dominance and praise dependence.
-- Rank, title and visibility are not measures of worth or competence.
-- Disagreement or absent praise does not automatically mean disrespect.
-- Shared-credit and invisible-work safeguards are required.
-- Birth number does not scientifically predict recognition sensitivity or status behaviour.
+## Active objective
+
+Complete **Phase 7.6A — M1-R006 Authority and Control Orientation Source Upgrade**.
+
+Research question:
+
+> Do traditional Birth Number / Moolank 1 sources consistently support comfort with authority, decision rights or control, and how should responsible authority be separated from leadership, autonomy, dominance, coercion, micromanagement, entitlement and psychological reactance?
+
+Working evidence file:
+
+```text
+knowledge/evidence/moolank-1/M1-R006-authority-and-control-orientation.md
+```
+
+## Current evidence state
+
+- Source-upgrade draft v0.1 created.
+- Traditional authority, management and decision-right themes retained provisionally.
+- Responsible authority is defined as bounded, transparent and accountable.
+- Authority is separated from leadership, autonomy, dominance, coercion, micromanagement, entitlement and reactance.
+- Psychology constructs are used only for boundaries and do not validate a birth-number link.
+- Canonical JSON is not approved.
+
+## Provisional safe core
+
+> Moolank 1 tradition may associate this number with comfort in visible responsibility, decision-making and authority roles. In a balanced expression, authority is paired with accountability, clear role limits, consultation, delegation and respect for other people’s agency. Under pressure—especially when control or status feels threatened—the same orientation may become overcentralization, micromanagement, rank-based decisions or resistance to oversight. Scientific research does not establish that a birth number predicts authority orientation, dominance, obedience or psychological reactance.
 
 ## Live app state
 
-- Moolank 1 loader now registers M1-R001 through M1-R005 plus ID-016.
+- Moolank 1 loader registers M1-R001 through M1-R005 plus ID-016.
 - Moolank 2 loader retains M2-R001.
-- Reading API and Gemini grounding use registered canonical records.
+- M1-R006 is evidence-stage and is not live.
 - Live URL: `https://moolank99.onrender.com/`
-- Render verification for M1-R005 remains pending after merge and deployment.
+- Independent Render verification for recent canonical changes remains pending in the current tool environment.
 
-## Active next objective
+## Next actions
 
-Confirm the next reconstructed Moolank 1 roadmap trait from latest main before assigning or starting `M1-R006`. Do not guess the trait name or historical sequence.
+1. Add an independent specialist Birth Number source on authority, management or control.
+2. Review legitimate authority, power motivation and delegation using stronger primary sources.
+3. Define triggers and protective factors.
+4. Upgrade evidence to v0.2.
+5. Complete Phase 7.6B boundary review before canonical drafting.
 
 ## Recovery update
 
