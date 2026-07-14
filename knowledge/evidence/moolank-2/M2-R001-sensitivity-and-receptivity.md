@@ -1,18 +1,18 @@
 # M2-R001 — Sensitivity and Receptivity Evidence Record
 
 **Moolank:** 2  
-**Version:** 0.1 source-upgrade draft  
-**Status:** Research in progress  
-**Phase:** 8.1A — M2-R001 Source Upgrade
+**Version:** 0.2 boundary-review draft  
+**Status:** Research reviewed; canonical pending  
+**Phase:** 8.1B — M2-R001 Boundary Review
 
 ## Research question
-Do direct Birth Number / Moolank 2 traditions consistently associate Number 2 with sensitivity and receptivity, and how should that pattern be defined without turning it into emotional instability, passivity, dependency, people-pleasing or paranormal certainty?
+Do direct Birth Number / Moolank 2 traditions consistently associate Number 2 with sensitivity and receptivity, and how should that pattern be defined without turning it into emotional instability, passivity, dependency, people-pleasing, conflict avoidance or paranormal certainty?
 
 ## Trait definition
-**Sensitivity** means heightened responsiveness to emotional, interpersonal or contextual cues.  
+**Sensitivity** means responsiveness to emotional, interpersonal or contextual cues.  
 **Receptivity** means openness to feelings, feedback, information and other perspectives.
 
-The combined trait does not imply disorder, weakness, poor self-control, dependence, inability to lead or inability to act independently.
+The combined trait describes a possible orientation toward noticing and considering cues. It does not imply disorder, weakness, poor self-control, dependence, inability to lead, inability to decide or inability to act independently.
 
 ## Source inventory
 
@@ -28,13 +28,14 @@ The combined trait does not imply disorder, weakness, poor self-control, depende
 - Number 2 is associated with emotional or interpersonal sensitivity.
 - Number 2 is associated with receptivity to others' feelings and perspectives.
 - Number 2 is associated with gentleness, peace-seeking and cooperative interaction.
-- Number 2 is associated with intuitive or impression-based awareness; app-safe wording must restrict this to cue sensitivity and pattern recognition.
+- Number 2 is associated with intuitive or impression-based awareness; app-safe wording restricts this to cue sensitivity and pattern recognition.
 - Number 2 may be described as caring, supportive or nurturing.
 
 ## Conflicting or limiting evidence
 - “Calm and composed” conflicts with “emotionally unstable.” The latter is rejected as a fixed or clinical label.
 - “Receptive” is often blurred with “passive.” These are not equivalent.
 - “Cooperative” is sometimes overstated as “dependent.” Dependency cannot be inferred from numerology.
+- “Peace-seeking” is often blurred with conflict avoidance. Diplomacy and avoidance require separate evidence.
 - “Intuitive” is sometimes expanded into guaranteed psychic or supernatural ability. Paranormal certainty is excluded.
 - Available direct evidence is concentrated in two contemporary publisher families; tradition-level confidence remains moderate.
 
@@ -44,62 +45,76 @@ The combined trait does not imply disorder, weakness, poor self-control, depende
 - In balanced expression, this orientation may support attentive listening, thoughtful response and awareness of relational context.
 
 ## Claims requiring cautious language
-- Heightened cue-monitoring may, under criticism, uncertainty or interpersonal tension, contribute to over-interpretation or emotional overload.
+- Under criticism, ambiguity or interpersonal tension, heightened cue-monitoring may contribute to over-interpretation or overload.
 - Receptivity may become over-accommodation when assertiveness and boundaries are weak.
-- Withdrawal or indirect expression may occur under pressure, but this is conditional and requires later boundary review.
-- Sensitivity may overlap with empathy or emotional awareness but should not be treated as identical to either construct.
+- Withdrawal or indirect expression may occur under pressure, but neither is part of the core trait.
+- Sensitivity may overlap with empathy, emotional awareness or emotional reactivity but is not identical to any of them.
 
 ## Rejected or unsupported claims
-- Every Moolank 2 person is weak, shy, passive, dependent or unable to lead.
+- Every Moolank 2 person is weak, shy, passive, dependent, conflict-avoidant or unable to lead.
 - Moolank 2 causes depression, suicidality, psychiatric vulnerability or emotional instability.
 - Moolank 2 guarantees psychic ability, healing ability or supernatural knowledge.
 - Moolank 2 determines relationship failure, betrayal, career suitability or inability to work independently.
 - Sensitivity or receptivity is scientifically predicted by birth number.
 
-## Trigger → response → behaviour → consequence
+## Boundary-reviewed trigger model
 
 ```text
-Criticism, emotional tension, ambiguity or perceived disconnection
+Possible trigger: criticism, ambiguity, emotional tension or perceived disconnection
   ↓
-Heightened attention to emotional and interpersonal cues
+Possible internal response: increased attention to tone, mood, context or relational cues
   ↓
-Listening, reflection and consultation in balanced form;
-possible over-analysis, accommodation, indirect expression or withdrawal under strain
+Balanced behaviour: listening, checking assumptions, reflection, proportionate response
+Possible strain behaviour: over-analysis, accommodation, indirect expression or withdrawal
   ↓
-Possible nuanced response and relationship repair;
-possible overload, resentment or boundary strain when overused
+Possible outcome: nuanced response and repair when balanced;
+overload, resentment or boundary strain when the pattern is overused
 ```
 
-This is a conditional research model, not a universal sequence.
+### Trigger-model limits
+- The sequence is conditional, not universal.
+- No single trigger proves the trait is active.
+- The model does not imply pathology or impaired functioning.
+- Strain behaviours require context such as conflict intensity, low assertiveness, weak boundaries, uncertainty or fatigue.
+- Withdrawal, people-pleasing and conflict avoidance remain separate traits unless independently supported.
 
 ## Balanced expression
 - attentive listening;
 - openness to feedback without automatic compliance;
-- awareness of emotional context;
+- awareness of emotional and contextual information;
 - thoughtful, proportionate response;
 - receptivity combined with independent judgment;
 - sensitivity combined with clear boundaries;
-- recognition of subtle cues without assuming certainty.
+- checking subtle impressions against observable facts;
+- retaining the ability to disagree, decide and act.
 
-## Shadow expression
+## Conditional shadow expression
+These are possible pressure expressions only when relevant triggers and weak protective factors are present:
 - over-monitoring tone, mood or approval signals;
-- interpreting ambiguous cues as rejection or criticism;
-- emotional overload in high-conflict environments;
+- interpreting ambiguous cues as criticism or rejection;
+- emotional or attentional overload in high-conflict settings;
 - excessive accommodation to preserve harmony;
 - delayed resentment after repeated self-silencing;
-- withdrawal when direct expression feels unsafe;
+- temporary withdrawal when direct expression feels unsafe;
 - difficulty separating another person's feelings from personal responsibility.
 
-These are possible pressure expressions, not fixed traits.
+## Shadow-expression admission rules
+A shadow statement may enter canonical wording only when it:
+1. uses conditional language;
+2. identifies a plausible trigger or context;
+3. avoids diagnostic, fixed or universal labels;
+4. does not collapse into another trait such as conflict avoidance, people-pleasing or emotional reactivity;
+5. includes protective factors or a balanced alternative;
+6. does not claim scientific validation of Moolank.
 
-## Primary triggers to test
+## Primary triggers to retain
 - criticism or perceived disapproval;
 - emotional tension or unresolved conflict;
 - ambiguous communication;
 - rapid social or environmental change;
 - feeling ignored, excluded or misunderstood;
 - prolonged exposure to others' distress;
-- pressure to decide before enough emotional or contextual information is processed.
+- pressure to decide before enough contextual information is processed.
 
 ## Protective factors / growth levers
 - assertiveness skills;
@@ -109,35 +124,57 @@ These are possible pressure expressions, not fixed traits.
 - emotion labelling and regulation;
 - checking interpretations against observable facts;
 - tolerance for respectful disagreement;
-- scheduled recovery from emotionally demanding settings;
+- recovery time after emotionally demanding settings;
 - distinguishing empathy from responsibility for everyone else's emotions;
 - self-trust and permission to say no.
 
-## Trait boundaries
+## Locked trait boundaries
 
 ### Sensitivity vs emotional instability
-Sensitivity concerns noticing and responding to cues. Emotional instability implies dysregulation or dysfunction and must not be inferred from Moolank.
+Sensitivity concerns noticing and responding to cues. Emotional instability is a broad, potentially clinical or stigmatizing label implying dysregulation or dysfunction. It must not be inferred from Moolank.
 
 ### Receptivity vs passivity
-Receptivity is openness to information and perspectives. Passivity concerns reduced direct action or self-advocacy and requires separate evidence.
+Receptivity is openness to information and perspectives. Passivity concerns reduced direct action or self-advocacy. Receptivity can coexist with firm decisions, disagreement and initiative.
 
 ### Sensitivity vs emotional awareness
-Sensitivity is responsiveness to cues. Emotional awareness is the ability to identify and understand one's own or others' emotions. They may overlap but are not identical.
+Sensitivity is responsiveness to cues. Emotional awareness is the capacity to identify and understand emotions. A person may notice a cue without accurately naming or understanding it.
 
 ### Sensitivity vs empathy
-Sensitivity may involve noticing cues. Empathy involves understanding or sharing another person's perspective or feeling. Sensitivity does not guarantee empathy.
+Sensitivity may involve noticing cues. Empathy involves understanding or sharing another person's perspective or feeling. Sensitivity does not guarantee empathy, compassion or prosocial behaviour.
 
 ### Receptivity vs cooperation
-Receptivity is openness; cooperation is coordinated action. A person may be receptive without agreeing or cooperating.
+Receptivity is openness; cooperation is coordinated action. A person may listen and consider input without agreeing, complying or collaborating.
 
 ### Receptivity vs people-pleasing
-Receptivity allows input while preserving choice. People-pleasing involves over-accommodation, often under feared disapproval.
+Receptivity preserves choice and boundaries. People-pleasing involves over-accommodation, often under feared disapproval. People-pleasing is not part of the core definition.
 
 ### Sensitivity vs emotional reactivity
-Sensitivity is cue detection and responsiveness. Emotional reactivity concerns the intensity or speed of emotional response and requires separate review.
+Sensitivity concerns detection and responsiveness. Emotional reactivity concerns the intensity or speed of emotional response. High sensitivity does not necessarily mean high reactivity.
+
+### Sensitivity vs conflict avoidance
+Sensitivity may increase awareness of tension. Conflict avoidance means postponing or evading necessary disagreement. Avoidance requires separate evidence and is not assumed.
+
+### Receptivity vs dependency
+Receptivity means openness to input. Dependency implies impaired or restricted autonomous functioning and must not be inferred from numerology.
 
 ### Intuition vs paranormal certainty
-App-safe intuition refers to impressions, pattern recognition or awareness of subtle cues. It does not imply supernatural knowledge or guaranteed prediction.
+App-safe intuition refers to impressions, pattern recognition or awareness of subtle cues. It does not imply supernatural knowledge, guaranteed prediction or psychic diagnosis.
+
+## Canonical wording constraints
+Preferred:
+- “Tradition associates Moolank 2 with sensitivity and receptivity.”
+- “May notice emotional or interpersonal cues readily.”
+- “In balanced expression, may listen carefully while retaining independent judgment.”
+- “Under pressure, heightened cue-monitoring may contribute to over-interpretation or overload.”
+- “This is conditional, not universal.”
+- “Scientific evidence linking this pattern to Moolank is not established.”
+
+Avoid:
+- “Born emotionally unstable.”
+- “Always passive or dependent.”
+- “Cannot handle conflict.”
+- “Naturally psychic.”
+- “Scientifically proven.”
 
 ## Scientific-status statement
 Psychology can define sensitivity, receptivity, empathy, emotional awareness, assertiveness, emotion regulation and interpersonal boundaries. It does not thereby demonstrate that people born on dates reducing to 2 possess these traits. Scientific evidence linking sensitivity or receptivity to Moolank 2 is not established.
@@ -148,12 +185,15 @@ Psychology can define sensitivity, receptivity, empathy, emotional awareness, as
 |---|---|
 | Numerology tradition support | Moderate |
 | Support for the narrow claim | Moderate |
+| Support for conditional shadow wording | Limited-to-moderate; requires context and explicit boundaries |
 | Support for universal or deterministic wording | Unsupported |
-| Scientific support for the constructs | Established as general psychological constructs, depending on the specific construct and measure |
+| Scientific support for the constructs | Established as general psychological constructs, depending on construct and measure |
 | Scientific link to Moolank | Not established |
 
-## Preliminary evidence verdict
-Retain `M2-R001 — Sensitivity and Receptivity` as a conditional primary temperament trait for further review. The narrow traditional association is moderately supported. Universal, clinical, dependency-based, deterministic and paranormal interpretations are rejected. Phase 8.1B must test the trigger model, shadow boundaries and overlap with emotional awareness, empathy, conflict avoidance, people-pleasing and emotional reactivity before canonical JSON is created.
+## Final evidence verdict
+Retain `M2-R001 — Sensitivity and Receptivity` as a conditional primary temperament trait. The narrow traditional association is moderately supported. Balanced expression may include attentive listening, contextual awareness and openness without automatic compliance. Pressure expressions such as over-interpretation, overload, accommodation or withdrawal are conditional and must not be treated as universal or as the core definition. Clinical, dependency-based, deterministic and paranormal interpretations are rejected.
+
+Phase 8.1B boundary review is complete at the evidence level. Canonical JSON may be drafted in Phase 8.1C only if it preserves these locked boundaries, conditional gates, protective factors and excluded claims.
 
 ## Next file
-Canonical JSON is not yet permitted. Next phase is Phase 8.1B boundary review on this evidence file.
+`knowledge/canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
