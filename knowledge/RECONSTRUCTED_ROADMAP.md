@@ -1,7 +1,8 @@
 # Moolank 1 Reconstructed Research Roadmap
 
-**Status:** Active reconstructed roadmap
-**Created:** 14 July 2026
+**Status:** Active reconstructed roadmap  
+**Created:** 14 July 2026  
+**Last reconciled:** 14 July 2026  
 **Reason:** The original long-chat roadmap could not be recovered. This file creates a new, explicit sequence without pretending to reproduce the old IDs.
 
 ## Identifier policy
@@ -10,17 +11,24 @@
 - New work uses the collision-safe namespace `M1-R###`.
 - A reconstructed ID must not be renamed to an old `ID-###` unless an original saved roadmap later proves the mapping.
 - Each reconstructed trait must pass evidence review before becoming canonical or entering the app.
+- Once a reconstructed ID is canonical and app-registered, it is not silently reassigned. Later roadmap conflicts are resolved by moving unstarted topics to the next unused ID.
+
+## Reconciliation note
+
+An earlier roadmap draft assigned `M1-R005` to Authority and Control Orientation and `M1-R008` to Recognition and Status Sensitivity. Subsequent completed work canonically registered Recognition and Status Sensitivity as `M1-R005`. To preserve the permanent canonical ID and avoid collision, Authority and Control Orientation is now assigned `M1-R006`; remaining unstarted topics move forward without renaming completed records.
+
+**Reconstructed roadmap; not recovered historical sequence.**
 
 ## Research sequence
 
-1. `M1-R001` — Leadership Style
-2. `M1-R002` — Initiative and Proactivity
-3. `M1-R003` — Independence and Autonomy
-4. `M1-R004` — Confidence and Self-Belief
-5. `M1-R005` — Authority and Control Orientation
-6. `M1-R006` — Decision-Making Style
-7. `M1-R007` — Persistence and Goal Pursuit
-8. `M1-R008` — Recognition and Status Sensitivity
+1. `M1-R001` — Leadership Style — canonical v1.0
+2. `M1-R002` — Initiative and Proactivity — canonical v1.0
+3. `M1-R003` — Independence and Autonomy — canonical v1.0
+4. `M1-R004` — Confidence and Self-Belief — canonical v1.0
+5. `M1-R005` — Recognition and Status Sensitivity — cautious canonical v1.0
+6. `M1-R006` — Authority and Control Orientation — active research
+7. `M1-R007` — Decision-Making Style
+8. `M1-R008` — Persistence and Goal Pursuit
 9. `M1-R009` — Responsibility and Ownership
 10. `M1-R010` — Communication Directness
 11. `M1-R011` — Relationship Reciprocity
@@ -30,18 +38,18 @@
 
 ## Existing completed or recovery-pending topics
 
-- Stress Response — completed previously; exact canonical file recovery pending.
-- Fear — completed previously; exact canonical ID/file recovery pending.
-- Anger — completed previously; exact canonical ID/file recovery pending.
-- `ID-016` Impulse Control — canonical v1.2, stored and live.
+- Stress Response — historical `ID-013`; exact canonical export recovery pending.
+- Fear — historical `ID-014`; exact canonical export recovery pending.
+- Anger — historical `ID-015`; exact canonical export recovery pending.
+- `ID-016` Impulse Control — canonical v1.2.
 
 ## Current active phase
 
-**Phase 7.1A — M1-R001 Leadership Style Source Upgrade**
+**Phase 7.6A — M1-R006 Authority and Control Orientation Source Upgrade**
 
 Research question:
 
-> Do traditional Number 1 / Moolank 1 sources consistently support a leadership orientation, and what distinguishes balanced leadership from dominance, unilateral control, status-seeking, or mere decisiveness?
+> Do traditional Birth Number / Moolank 1 sources consistently support comfort with authority, decision rights or control, and how should responsible authority be separated from leadership, autonomy, dominance, coercion, micromanagement, entitlement and psychological reactance?
 
 ## Completion rule
 
@@ -49,8 +57,8 @@ A roadmap item is complete only after:
 
 1. evidence Markdown is reviewed;
 2. canonical JSON is created;
-3. master index, current work, project status, and changelog are updated;
+3. master index, current work, project status and changelog are updated;
 4. the trait is registered in `src/knowledge/index.ts`;
 5. CI passes;
 6. the PR is merged;
-7. Render deployment and live UI are verified.
+7. Render deployment and live UI are verified where the environment permits direct confirmation.
