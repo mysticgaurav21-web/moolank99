@@ -1,39 +1,37 @@
 # M1-R003 — Independence and Autonomy Evidence Record
 
 **Moolank:** 1  
-**Status:** Evidence consolidation v0.2  
-**Phase:** 7.3A — Source Upgrade  
+**Status:** Final evidence verdict v0.3  
+**Phase:** 7.3B — Boundary Review  
 **Roadmap type:** Reconstructed; not a recovered historical ID  
 **Last reviewed:** 14 July 2026
 
 ## Research question
 
-Do traditional Birth Number / Moolank 1 sources consistently support independence and autonomy, and how should healthy self-direction be separated from isolation, oppositional behaviour, control, low cooperation, authority reactance and refusal of advice or help?
+Do traditional Birth Number / Moolank 1 sources consistently support independence and autonomy, and how should responsible self-direction be separated from isolation, oppositional behaviour, stubbornness, avoidant help-seeking, dominance, authority reactance and unilateral decisions affecting others?
 
-## Working definition
+## Final construct definition
 
-Independence and autonomy describe a preference for making personally endorsed choices, accepting responsibility for them and functioning without excessive external control or reassurance. Healthy autonomy can coexist with cooperation, interdependence, consultation, respect for expertise, help-seeking and voluntary support.
+Independence and autonomy describe a preference for making personally endorsed choices, accepting responsibility for them and functioning without excessive external control or reassurance. Healthy autonomy includes evidence-sensitive judgment, voluntary cooperation, strategic help-seeking, respect for expertise and accountability for effects on other people.
 
-Autonomy is not identical to isolation, emotional detachment, dominance, stubbornness, refusal of help, rebellion, low cooperation or acting without accountability.
+Autonomy is not identical to isolation, emotional detachment, total self-sufficiency, stubbornness, refusal of help, rebellion, low cooperation, dominance, rule-breaking or control over others.
 
 ## Scope rule
 
 This record concerns **Birth Number / Moolank 1**, calculated from birth dates 1, 10, 19 or 28. Life Path 1, Destiny Number 1 and general Number 1 descriptions are comparison evidence only unless the source clearly identifies Birth Number or Moolank.
 
-## Traditional numerology layer
+## Traditional numerology evidence
 
-### Repeated pattern
+Contemporary Moolank 1 descriptions repeatedly associate this number with independence, individuality, confidence, self-direction, ambition and reliance on personal judgment. The narrower traditional pattern retained here is a preference for self-directed choice and visible ownership.
 
-Contemporary Moolank 1 descriptions repeatedly associate this number with independence, individuality, confidence, self-direction, ambition and reliance on personal judgment. This supports retaining a traditional **autonomy orientation**, but not a universal claim that every Moolank 1 person rejects help, prefers solitude or functions best without others.
-
-### Moolank-specific sources reviewed
+### Sources reviewed
 
 1. **The Times of India — “Which is the Best Personality Trait As Per Your Birth Date”**  
    Identifies Number 1 dates as 1, 10, 19 and 28 and associates them with confidence, independence and ambition.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/which-is-the-best-personality-trait-as-per-your-birth-date/photostory/124799217.cms
 
 2. **The Times of India — “What your Moolank says about you”**  
-   Associates Moolank 1 with confidence, ambition, influence and leadership. The independence implication supports self-direction but does not justify isolation or automatic advice rejection.  
+   Associates Moolank 1 with confidence, ambition, influence and leadership. The independence implication supports self-direction but not isolation or automatic advice rejection.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms
 
 3. **The Times of India — “Sun-ruled souls: The power and purpose of Mulank 1”**  
@@ -41,166 +39,167 @@ Contemporary Moolank 1 descriptions repeatedly associate this number with indepe
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/sun-ruled-souls-the-power-and-purpose-of-mulank-1-in-numerology/articleshow/124941397.cms
 
 4. **The Times of India — “Why people born with this birth number are never ordinary”**  
-   Identifies Birth Number 1 as 1, 10, 19 and 28 and repeats a strong sense of self, individuality and succeeding through personal effort. Its fame, exceptionalism and destiny language is excluded.  
+   Repeats a strong sense of self, individuality and personal effort. Fame, exceptionalism and destiny claims are excluded.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/why-people-born-with-this-birth-number-are-never-ordinary-according-to-numerology/articleshow/126333402.cms
 
-### Independent comparison source
-
 5. **Allure — Number 1 numerology overview**  
-   Broader Number 1 material independently repeats independence, initiation and pioneering themes. It is not direct Moolank evidence and therefore does not raise the Moolank-specific confidence grade.  
+   Broader Number 1 material independently repeats independence, initiation and pioneering themes. It is comparison evidence rather than direct Moolank evidence.  
    URL: https://www.allure.com/story/numerology-how-to-calculate-life-path-destiny-number
 
 ### Source-quality limitation
 
-Direct evidence remains concentrated in contemporary popular numerology publications, including several items from one publisher family. The sources document a repeated modern tradition pattern; they do not establish scientific validity or predict an individual's actual autonomy, cooperation, relationship style or response to authority.
+Direct evidence remains concentrated in contemporary popular numerology publications, including several items from one publisher family. These sources document a repeated modern tradition pattern; they do not establish scientific validity or predict an individual's actual autonomy, cooperation, relationship style or response to authority.
 
 ## Psychology bridge
 
 Psychology is used only to define autonomy and establish safe boundaries. It does **not** validate a relationship between birth number and autonomy.
 
-### Autonomy is not the same as independence
-
-Self-determination theory defines autonomy primarily as experiencing behaviour as self-endorsed or willingly chosen. It does not require acting alone or avoiding dependence. A person can autonomously choose consultation, support, teamwork and interdependence.
+Self-determination theory treats autonomy primarily as self-endorsed or willingly chosen action. It does not require acting alone, avoiding dependence or rejecting influence. Relatedness, competence, support and cooperation can coexist with autonomy.
 
 Relevant references:
 
-- Ryan and Deci, **“Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being,”** American Psychologist (2000).
-- Deci and Ryan, **“The ‘What’ and ‘Why’ of Goal Pursuits,”** Psychological Inquiry (2000).
+- Ryan and Deci, **“Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being”** (2000).
+- Deci and Ryan, **“The ‘What’ and ‘Why’ of Goal Pursuits”** (2000).
 - Ryan and Deci, **Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness** (2017).
-- Vansteenkiste, Ryan and Soenens, **“Basic psychological need theory: Advancements, critical themes, and future directions,”** Motivation and Emotion (2020).
+- Vansteenkiste, Ryan and Soenens, **“Basic psychological need theory: Advancements, critical themes, and future directions”** (2020).
 
-Autonomy, competence and relatedness are treated as compatible needs. Therefore, closeness, support and cooperation must not be presented as the opposite of autonomy.
+Psychological reactance is used only as a general boundary concept: resistance can arise when freedom feels threatened, but this is not a scientifically established Moolank 1 trait.
 
-### Help-seeking and interdependence
+## Final boundary decisions
 
-Seeking help can be autonomous when the person chooses it in service of a valued goal. Refusing useful support merely to preserve an image of self-sufficiency is not stronger autonomy. The key question is whether the choice is willing and accountable, not whether another person is involved.
+### Autonomy vs independence
 
-### Authority sensitivity and psychological reactance
+Independence concerns reduced reliance on others for action or resources. Autonomy concerns whether choices are personally endorsed. A person may autonomously choose teamwork, support or interdependence.
 
-Psychological reactance describes resistance that can arise when a person perceives a threat to behavioural freedom. This is useful for defining a possible trigger, but it is not a Moolank-specific fact. Authority sensitivity belongs here only when the core issue is perceived loss of personal choice. General conflict with authority, rule-breaking or status struggles may belong under separate traits.
+### Autonomy vs isolation
 
-Healthy autonomy distinguishes:
+Autonomy is responsible agency. Isolation is reduced connection or participation. Healthy autonomy can remain collaborative, emotionally connected and available for mutual support.
 
-- legitimate self-protection from opposition for its own sake;
-- controlling pressure from reasonable limits;
-- advice from coercion;
-- shared decision-making from loss of agency.
+### Autonomy vs legitimate rule-following
 
-## Evidence synthesis
+Following a justified rule, expert recommendation or shared procedure can be fully autonomous when the person understands and voluntarily endorses the reason. Automatic rule resistance is not stronger autonomy.
 
-### Traditional core retained
+### Autonomy vs authority reactance
 
-Moolank 1 tradition portrays this number as preferring self-direction, personal choice, visible ownership and reduced dependence on detailed external control.
+Autonomy may become salient when control feels imposed. Reactance is broader resistance to a perceived freedom threat. It belongs here only as a possible pressure response; persistent authority conflict, rule-breaking or status struggle requires separate assessment.
 
-### Balanced expression
+### Autonomy vs oppositional behaviour
+
+Disagreement can protect legitimate agency. Opposition mainly to restore a sense of freedom, without regard to purpose or evidence, is not healthy autonomy.
+
+### Autonomy vs stubbornness
+
+Autonomy protects personal choice; stubbornness is rigid persistence despite relevant evidence or consequences. Revising a decision voluntarily is compatible with autonomy.
+
+### Self-reliance vs avoidant help-seeking
+
+Self-reliance means handling what one can and taking responsibility. Avoidant help-seeking means delaying useful support to protect pride, identity or an image of competence. Strategic help-seeking is a strength when it improves the outcome.
+
+### Autonomy vs dominance and control
+
+Autonomy concerns agency over one's own choices. Dominance concerns controlling or outranking others. A preference for autonomy does not justify unilateral control over people.
+
+### Autonomy vs leadership
+
+Leadership concerns influence, coordination and responsibility for shared outcomes. Autonomy concerns self-endorsed choice. Decisions affecting others require consent, decision rights, consultation and accountability.
+
+### Autonomy vs low cooperation
+
+Voluntary cooperation is autonomy-compatible. Low cooperation, withdrawal or unilateral action that shifts costs to others is not a defining strength.
+
+## Balanced expression
 
 - Makes personally endorsed choices.
 - Takes responsibility for outcomes.
-- Works independently when appropriate.
+- Works independently where appropriate.
 - Seeks expertise without surrendering judgment.
-- Asks for help when it improves the outcome.
-- Cooperates by choice rather than from helpless dependence.
-- States boundaries clearly and proportionately.
+- Asks for help when it improves the result.
+- Cooperates voluntarily and reliably.
+- Understands the reasons for rules before accepting or challenging them.
+- States boundaries directly and proportionately.
 - Tolerates disagreement while reviewing evidence.
-- Accepts support without treating it as personal weakness.
+- Revises decisions when better information appears.
 - Balances self-direction with mutual obligations.
-- Can voluntarily follow a justified rule or expert recommendation.
 
-### Conditional shadow expression
+## Conditional shadow expression
 
-The shadow is not universal. It becomes more plausible when autonomy needs combine with controlling pressure, threatened status, distrust, impatience, excessive confidence, public correction or prior experiences of being overruled.
+The shadow is not universal. It becomes more plausible when autonomy needs combine with controlling pressure, threatened status, distrust, excessive confidence, public correction, unreliable support or prior experiences of being overruled.
 
 Possible patterns:
 
-- rejects useful advice mainly because it was not self-generated;
-- interprets coordination or questions as control;
-- resists legitimate limits or shared decisions;
-- avoids asking for help until a problem becomes larger;
-- equates dependence in one area with personal weakness;
+- rejects useful advice because it was not self-generated;
+- interprets questions or coordination as control;
+- opposes a request mainly to restore freedom;
+- resists legitimate limits without reviewing their purpose;
+- delays asking for help until the problem grows;
+- equates temporary dependence with personal weakness;
 - becomes rigid when choices are challenged;
-- makes unilateral decisions that affect others;
+- makes unilateral decisions affecting others;
 - withdraws from cooperation to preserve control;
-- opposes a request mainly to restore a sense of freedom;
-- dismisses interdependence despite shared responsibilities.
+- treats revision as loss of authority or identity.
 
-## Safe conditional triggers
+## Safe triggers
 
 - micromanagement or controlling language;
-- unclear or excessive restrictions;
-- public correction or status threat;
+- unexplained restrictions;
 - being overruled without explanation;
+- public correction or status threat;
 - pressure to comply immediately;
-- perceived intrusion into personal decisions;
-- repeated requests for justification after a decision is made;
+- intrusion into personal decisions;
+- repeated demands for justification;
 - dependence on unreliable support;
 - fear of appearing weak or incapable;
-- decisions affecting identity, ownership or visible responsibility.
+- decisions involving identity, ownership or visible responsibility.
 
 These are possible contexts, not deterministic causes.
 
 ## Protective factors
 
 - meaningful choice within clear limits;
-- transparent reasons for rules or requests;
+- transparent reasons for rules and requests;
 - defined decision rights and responsibilities;
 - respectful, non-controlling communication;
 - time to consider advice before responding;
 - explicit distinction between consultation and command;
-- permission to disagree while remaining accountable;
+- strategic help-seeking;
 - reliable support that preserves agency;
 - shared-decision procedures for choices affecting others;
 - evidence-review and decision-revision rules;
-- help-seeking framed as strategic cooperation rather than weakness.
+- clear accountability for consequences.
 
-## Construct boundaries
+## Manifestation areas
 
-### Autonomy vs isolation
+### Work and study
 
-Autonomy is self-endorsed choice and responsible agency. Isolation is reduced connection or participation. A person can be highly autonomous while remaining collaborative and emotionally connected.
+May prefer ownership, discretion and independent problem-solving. Under pressure may resist supervision, delay asking for support or treat coordination as interference.
 
-### Autonomy vs independence
+### Communication
 
-Independence concerns reduced reliance on others for action or resources. Autonomy concerns whether choices feel personally endorsed. A person may autonomously choose interdependence or support.
+May state preferences and boundaries directly. Under pressure may hear advice as control, become defensive about correction or reject input before evaluating it.
 
-### Autonomy vs stubbornness
+### Relationships and home
 
-Autonomy protects personal agency. Stubbornness is rigid persistence despite relevant evidence or consequences. Revising a decision voluntarily can be fully autonomous.
+May value personal space, mutual respect and freely chosen commitments. Under pressure may decide for others, withdraw from shared responsibilities or avoid dependence even when support is appropriate.
 
-### Autonomy vs dominance/control
+### Rules, authority and institutions
 
-Autonomy concerns agency over one's own choices. Dominance concerns control, rank or influence over other people. Seeking autonomy does not justify controlling others.
+May cooperate well when expectations are clear and justified. Under pressure may focus more on restoring choice than on the purpose, safety or shared consequences of the rule.
 
-### Autonomy vs refusal of advice or help
+### Leadership and teamwork
 
-Consultation and help-seeking do not remove autonomy. Healthy autonomy receives information or support and then makes an accountable choice. Automatic rejection is defensiveness, rigidity or image-protection, not stronger autonomy.
-
-### Autonomy vs oppositional behaviour
-
-Disagreement may protect legitimate agency, but opposition for its own sake is not autonomy. Healthy autonomy remains purpose-driven, evidence-sensitive and proportionate.
-
-### Autonomy vs low cooperation
-
-Cooperation can be freely chosen and compatible with autonomy. Shared work requires consent, reciprocal influence and responsibility rather than forced compliance or unilateral control.
-
-### Autonomy vs authority sensitivity
-
-Autonomy may be activated by perceived controlling pressure. Authority sensitivity is broader and may involve status, trust, prior experience or rule legitimacy. It remains within this trait only when the central issue is threatened personal choice.
-
-### Autonomy vs leadership
-
-Leadership concerns influence and responsibility involving other people. Autonomy concerns self-endorsed choice. Unilateral leadership decisions that affect others are not justified merely by a preference for autonomy.
+May contribute clear ownership and independent judgment. Under pressure may centralize decisions, resist delegation constraints or confuse personal autonomy with authority over others.
 
 ## Claims rejected
 
 - Every Moolank 1 person is completely independent.
 - Moolank 1 people do not need help, reassurance or relationships.
-- Seeking advice or help indicates weakness or loss of autonomy.
+- Seeking advice or help indicates weakness.
 - Moolank 1 people cannot cooperate or work under authority.
-- Moolank 1 people naturally oppose all rules or restrictions.
-- Independence guarantees leadership, success, wealth or entrepreneurship.
+- Resistance to all rules or authority is a strength.
+- Autonomy means acting alone or never depending on others.
 - Autonomy justifies ignoring consent, laws, expertise or shared obligations.
-- Resistance to all authority is a strength.
-- Birth number scientifically predicts autonomous motivation or psychological reactance.
+- Independence guarantees leadership, success, wealth or entrepreneurship.
+- Birth number scientifically predicts autonomy or psychological reactance.
 - Dependence, attachment needs or uncertainty indicate a disorder.
 
 ## Confidence grading
@@ -210,26 +209,30 @@ Leadership concerns influence and responsibility involving other people. Autonom
 | Contemporary Moolank tradition support for independence/individuality | Moderate–strong |
 | Broader Number 1 tradition support for independence | Strong |
 | Direct support for the precise psychology construct of autonomy | Moderate |
-| Support for universal self-sufficiency or advice refusal | Unsupported |
+| Support for universal self-sufficiency, advice refusal or authority resistance | Unsupported |
 | Psychology support for autonomy as self-endorsed choice | Strong |
-| Psychology support that autonomy can coexist with relatedness/interdependence | Strong |
+| Psychology support for autonomy with relatedness/interdependence | Strong |
 | Psychology support for reactance under perceived freedom threat | Strong as a general construct |
 | Scientific evidence linking autonomy or reactance to Moolank 1 | Not established |
 
-## Phase 7.3A evidence verdict
+## Phase 7.3B final verdict
 
-**Retain Independence and Autonomy as a primary traditional strength, but define it as responsible self-direction rather than isolation, automatic resistance or total self-sufficiency.**
+**Retain Independence and Autonomy as a primary traditional strength, defined as responsible self-direction rather than isolation, automatic resistance or total self-sufficiency.**
 
 Canonical-safe core:
 
 > Moolank 1 tradition associates this number with a preference for self-direction, personal choice and visible ownership. In a balanced expression, autonomy combines independent judgment with accountability, cooperation, strategic help-seeking, openness to expertise and respect for shared obligations. Under pressure—especially when control feels imposed—the same drive may become rigid resistance, advice rejection, unilateral decisions or withdrawal from cooperation. Scientific research does not establish that a birth number predicts autonomy or authority reactance.
 
-## Next phase
+## Canonical drafting decision
 
-**Phase 7.3B — Boundary Review**
+M1-R003 is approved to proceed to **Phase 7.3C — Canonical v1.0 and app integration**.
 
-1. Finalize autonomy versus authority reactance and legitimate rule-following.
-2. Review self-reliance versus avoidant help-seeking.
-3. Lock manifestation areas and app-safe language.
-4. Produce final evidence verdict v0.3.
-5. Create canonical JSON only after boundary review approval.
+The canonical record must preserve:
+
+- responsible self-direction as the strength framing;
+- autonomy versus independence distinction;
+- strategic help-seeking as compatible with autonomy;
+- legitimate rule-following and evidence review;
+- conditional authority-reactance language;
+- consent, decision rights and shared-obligation safeguards;
+- separation of numerology tradition from scientific evidence.

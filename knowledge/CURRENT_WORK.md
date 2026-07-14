@@ -18,15 +18,15 @@
 
 ## Latest completed research step
 
-- Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade, evidence consolidation v0.2
+- Phase 7.3B — M1-R003 Independence and Autonomy Boundary Review, final evidence verdict v0.3
 
 ## Active objective
 
-Complete **Phase 7.3B — M1-R003 Independence and Autonomy Boundary Review**.
+Complete **Phase 7.3C — M1-R003 Independence and Autonomy Canonical v1.0 and app integration**.
 
-Research question:
+Approved evidence core:
 
-> How should responsible self-direction be separated from authority reactance, oppositional behaviour, stubbornness, avoidant help-seeking, isolation, dominance and unilateral decisions affecting others?
+> Moolank 1 tradition associates this number with a preference for self-direction, personal choice and visible ownership. In a balanced expression, autonomy combines independent judgment with accountability, cooperation, strategic help-seeking, openness to expertise and respect for shared obligations. Under pressure—especially when control feels imposed—the same drive may become rigid resistance, advice rejection, unilateral decisions or withdrawal from cooperation. Scientific research does not establish that a birth number predicts autonomy or authority reactance.
 
 Working evidence file:
 
@@ -34,30 +34,31 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R003-independence-and-autonomy.md
 ```
 
-## Phase 7.3A verdict
+Planned canonical file:
 
-Retain Independence and Autonomy as a primary traditional strength, but define it as responsible self-direction rather than isolation, automatic resistance or total self-sufficiency.
+```text
+knowledge/canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json
+```
 
-Approved provisional core:
+## Boundary decisions locked
 
-> Moolank 1 tradition associates this number with a preference for self-direction, personal choice and visible ownership. In a balanced expression, autonomy combines independent judgment with accountability, cooperation, strategic help-seeking, openness to expertise and respect for shared obligations. Under pressure—especially when control feels imposed—the same drive may become rigid resistance, advice rejection, unilateral decisions or withdrawal from cooperation. Scientific research does not establish that a birth number predicts autonomy or authority reactance.
+- Autonomy is self-endorsed choice; independence is reduced reliance.
+- Autonomy can coexist with cooperation, relatedness, support and interdependence.
+- Strategic help-seeking is compatible with autonomy; avoidant help-seeking is not a strength.
+- Following justified rules or expert guidance can be autonomous.
+- Authority reactance is only a conditional pressure response, not a universal Moolank 1 trait.
+- Opposition, stubbornness, isolation, dominance and low cooperation remain separate constructs.
+- Decisions affecting others require consent, decision rights, consultation and accountability.
+- Birth number does not scientifically predict autonomy or reactance.
 
-## Evidence decisions locked
+## Canonical requirements
 
-- Autonomy means self-endorsed choice; it does not require acting alone.
-- Independence and autonomy overlap but are not identical.
-- Interdependence, relatedness, consultation and help-seeking can be freely chosen and autonomy-compatible.
-- Authority sensitivity belongs here only when the central issue is perceived loss of personal choice.
-- Psychological reactance is a general construct, not a scientifically established Moolank trait.
-- Resistance to rules, advice or authority is not automatically strength.
-- Unilateral decisions affecting others require consent, decision rights, coordination and accountability.
-- Canonical JSON is not yet approved.
-
-## Safe triggers and protective factors
-
-Possible triggers include micromanagement, controlling language, unexplained restrictions, public correction, being overruled without explanation, pressure to comply immediately and fear of appearing dependent.
-
-Protective factors include meaningful choice, clear reasons, defined decision rights, respectful communication, time to consider advice, reliable support, shared-decision procedures and permission to revise decisions.
+- Use responsible self-direction as the strength framing.
+- Keep authority-resistance language conditional and trigger-based.
+- Include strategic help-seeking, evidence review and decision revision.
+- Include legitimate rule-following and shared-obligation safeguards.
+- Preserve autonomy-versus-independence and autonomy-versus-dominance boundaries.
+- Do not imply total self-sufficiency, rule-breaking, success, wealth or leadership guarantees.
 
 ## Recovery update
 
@@ -76,16 +77,17 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
 - Independent live verification of the M1-R002 deployment remains pending because the current tool environment could not reach the Render domain.
-- M1-R003 remains evidence-stage and is not live.
+- M1-R003 remains evidence-stage until Phase 7.3C is merged and deployed.
 
 ## Next actions
 
-1. Finalize autonomy versus authority reactance and legitimate rule-following.
-2. Review self-reliance versus avoidant help-seeking.
-3. Review overlap with Leadership Style and unilateral decision-making.
-4. Lock manifestation areas and app-safe wording.
-5. Produce final evidence verdict v0.3.
-6. Begin Phase 7.3C canonical JSON and app integration only after boundary approval.
+1. Draft M1-R003 canonical JSON v1.0.
+2. Validate it against the canonical trait structure.
+3. Update `knowledge/MASTER_INDEX.json`.
+4. Register M1-R003 in `src/knowledge/index.ts` using the latest main branch.
+5. Update project status and changelog.
+6. Run CI type-check and production build.
+7. Merge and verify the Render Canonical Knowledge panel.
 
 ## Files to read at the start of every new chat
 
