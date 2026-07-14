@@ -18,13 +18,17 @@
 3. M1-R003 — Independence and Autonomy v1.0
 4. ID-016 — Impulse Control v1.2
 
+## Latest completed research step
+
+- Phase 7.4A — M1-R004 Confidence and Self-Belief Source Upgrade, evidence consolidation v0.2
+
 ## Active objective
 
-Complete **Phase 7.4A — M1-R004 Confidence and Self-Belief Source Upgrade**.
+Complete **Phase 7.4B — M1-R004 Confidence and Self-Belief Boundary Review**.
 
 Research question:
 
-> Do traditional Birth Number / Moolank 1 sources consistently support confidence and self-belief, and how should grounded confidence be separated from self-efficacy, self-esteem, dominance, certainty, overconfidence and defensiveness?
+> How should realistic, evidence-sensitive confidence be separated from self-efficacy, self-esteem, certainty, dominance, overconfidence, defensiveness, recognition sensitivity and decision quality?
 
 Working evidence file:
 
@@ -32,26 +36,32 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R004-confidence-and-self-belief.md
 ```
 
-## Current evidence state
+## Phase 7.4A verdict
 
-- Source-upgrade draft v0.1 created.
-- Traditional confidence, self-assurance and trust-in-personal-judgment pattern retained provisionally.
-- Psychology bridge distinguishes broad confidence from task-specific self-efficacy and general self-esteem.
-- Grounded confidence is defined as evidence-sensitive, prepared, feedback-tolerant and revisable.
-- Certainty, dominance, loudness, universal competence and guaranteed success are excluded.
-- Overconfidence and defensiveness are conditional shadows, not defining traits.
+Retain Confidence and Self-Belief as a primary traditional strength, but define it as realistic, evidence-sensitive and revisable self-trust rather than certainty, superiority or universal competence.
+
+Approved provisional core:
+
+> Moolank 1 tradition associates this number with visible self-assurance and trust in personal judgment. In a balanced expression, confidence combines realistic preparation, evidence-sensitive self-belief, openness to feedback and willingness to revise. Under pressure—especially when status or competence feels exposed—the same drive may become exaggerated certainty, defensiveness, underpreparation or resistance to correction. Scientific research does not establish that a birth number predicts confidence, self-efficacy, calibration or performance.
+
+## Evidence decisions locked
+
+- Confidence is context-sensitive self-belief, not universal competence.
+- Self-efficacy is task- and domain-specific; self-esteem concerns general self-worth.
+- Confidence permits uncertainty, feedback and revision.
+- Overconfidence may involve overestimation, overplacement or overprecision.
+- Dominance, loudness and control do not prove confidence.
+- Defensiveness protects image or status by rejecting information and is not stronger confidence.
+- Recognition/status sensitivity remains a separate trait except where public evaluation triggers defensive confidence.
+- A confident decision may still be wrong; decision quality requires evidence and consequence review.
+- Birth number does not scientifically predict confidence, self-efficacy, calibration or performance.
 - Canonical JSON is not yet approved.
 
-## Initial construct boundaries
+## Safe triggers and protective factors
 
-- Confidence concerns expected capability or effective engagement; self-efficacy is task- and domain-specific.
-- Self-esteem concerns general self-worth and remains separate.
-- Confidence permits uncertainty and revision; certainty claims a conclusion is settled.
-- Dominance concerns control or rank over others and does not prove confidence.
-- Overconfidence exceeds available evidence, preparation or skill.
-- Defensiveness protects identity or status by rejecting information.
-- Confidence may support leadership but does not establish leadership effectiveness.
-- Autonomy concerns self-endorsed choice and remains separate.
+Possible triggers include public correction, visible mistakes, criticism, peer comparison, unfamiliar tasks with leadership expectations, pressure to answer immediately, reduced recognition, recent success, weak feedback systems and fear that uncertainty will reduce credibility.
+
+Protective factors include task-specific preparation, explicit evidence criteria, error-checking routines, domain-boundary checks, independent review, measurable outcome review, separating self-worth from task performance and permission to say “I do not know yet.”
 
 ## Recovery update
 
@@ -74,13 +84,11 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 
 ## Next actions
 
-1. Add an independent Birth Number or specialist Number 1 source outside the current publisher family.
-2. Review confidence calibration, overconfidence and feedback reception.
-3. Define triggers and protective factors.
-4. Review recognition/status sensitivity overlap.
-5. Upgrade evidence to v0.2 and complete Phase 7.4A.
-6. Begin Phase 7.4B boundary review only after source consolidation.
-7. Create canonical JSON only after final evidence approval.
+1. Finalize confidence versus self-efficacy, self-esteem and decision quality.
+2. Review overconfidence, defensive confidence and public-correction triggers.
+3. Lock manifestation areas and app-safe language.
+4. Produce final evidence verdict v0.3.
+5. Begin Phase 7.4C canonical JSON and app integration only after boundary approval.
 
 ## Files to read at the start of every new chat
 
