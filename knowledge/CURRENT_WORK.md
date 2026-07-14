@@ -16,15 +16,15 @@
 
 ## Latest completed research step
 
-- Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade, evidence consolidation v0.2
+- Phase 7.2B — M1-R002 Initiative and Proactivity Boundary Review, final evidence verdict v0.3
 
 ## Active objective
 
-Complete **Phase 7.2B — M1-R002 Initiative and Proactivity Boundary Review**.
+Complete **Phase 7.2C — M1-R002 Initiative and Proactivity Canonical v1.0 and app integration**.
 
-Research question:
+Approved evidence core:
 
-> How should responsible initiative be separated from impulsivity, leadership, persistence, novelty-seeking, overcommitment, role overreach and socially costly proactivity?
+> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination, capacity awareness and follow-through. Under pressure, the same action drive may become premature starts, overcommitment, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
 
 Working evidence file:
 
@@ -32,28 +32,29 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R002-initiative-and-proactivity.md
 ```
 
-## Phase 7.2A verdict
+Planned canonical file:
 
-Retain Initiative and Proactivity as a primary traditional strength, but define it as responsible self-starting action rather than speed, constant action or unrestricted autonomy.
+```text
+knowledge/canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json
+```
 
-Approved provisional core:
+## Boundary decisions locked
 
-> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination and follow-through. Under pressure, the same action drive may become premature starts, overextension, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
+- Initiative starts or shapes action; leadership additionally coordinates or influences others.
+- Initiative includes purpose and adequate evaluation; impulsivity involves insufficient deliberation.
+- Initiative and persistence remain separate constructs.
+- Overcommitment is a conditional consequence of repeated starting without capacity review, not a universal trait.
+- Role overreach is not healthy initiative; consent, expertise, decision rights and coordination matter.
+- Initiative is not novelty-seeking, dominance, risk-taking or entrepreneurship.
+- Starting many projects does not prove strong initiative.
 
-## Evidence decisions locked
+## Canonical requirements
 
-- Broader Number 1 tradition independently repeats initiation, forward motion and pioneering themes.
-- Direct Moolank evidence remains contemporary and concentrated in a limited publisher set.
-- Initiative is not leadership, impulsivity, persistence, risk-taking, dominance, novelty-seeking or entrepreneurship.
-- Proactivity is not automatically beneficial; timing, knowledge, coordination and consequences matter.
-- Overextension and role overreach are conditional shadows, not universal Moolank 1 labels.
-- Canonical JSON is not yet approved.
-
-## Safe triggers and protective factors
-
-Possible triggers include blocked progress, unclear ownership, waiting for direction, threatened autonomy, opportunity excitement, competition and frustration with consultation.
-
-Protective factors include clear purpose, minimum-information checks, role boundaries, concise consultation, realistic capacity review, revision rules and consequence checks.
+- Use responsible self-starting action as the strength framing.
+- Keep all shadow language conditional and trigger-based.
+- Include capacity review, consultation, role boundaries, follow-through and stopping rules.
+- Preserve the scientific-evidence disclaimer.
+- Do not imply guaranteed entrepreneurship, innovation, wealth or success.
 
 ## Recovery update
 
@@ -71,15 +72,17 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 - M1-R001 and ID-016 are registered in the canonical loader.
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
-- M1-R002 remains evidence-stage and is not live.
+- M1-R002 remains evidence-stage until Phase 7.2C is merged and deployed.
 
 ## Next actions
 
-1. Finalize Initiative versus Persistence boundary.
-2. Decide whether overcommitment stays here or moves to planning/self-regulation.
-3. Lock manifestation areas and app-safe wording.
-4. Produce final evidence verdict v0.3.
-5. Begin Phase 7.2C canonical JSON and app integration only after boundary approval.
+1. Draft M1-R002 canonical JSON v1.0.
+2. Validate it against the canonical trait structure.
+3. Update `knowledge/MASTER_INDEX.json`.
+4. Register M1-R002 in `src/knowledge/index.ts` using the latest main branch.
+5. Update project status and changelog.
+6. Run CI type-check and production build.
+7. Merge and verify the Render Canonical Knowledge panel.
 
 ## Files to read at the start of every new chat
 
