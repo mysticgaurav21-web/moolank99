@@ -17,14 +17,13 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ Phase 7.2A–C — M1-R002 Initiative and Proactivity evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.3A–C — M1-R003 Independence and Autonomy evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.4A–C — M1-R004 Confidence and Self-Belief evidence, boundary review and Canonical v1.0
+- ✅ Phase 7.5A–C — M1-R005 Recognition and Status Sensitivity evidence, boundary review and cautious Canonical v1.0
 
 ## Moolank 2 completed phases
 
-- ✅ Phase 8.0A — Roadmap source collection closed at moderate traditional support with a documented source-diversity limitation
-- ✅ Phase 8.0B — Reconstructed roadmap consolidated and `M2-R001` assigned
-- ✅ Phase 8.1A — `M2-R001 Sensitivity and Receptivity` source upgrade
-- ✅ Phase 8.1B — `M2-R001` boundary review
-- ⏳ Phase 8.1C — `M2-R001` Canonical v1.0 and app integration is active pending CI, merge and live verification
+- ✅ Phase 8.0A — Roadmap source collection
+- ✅ Phase 8.0B — Reconstructed roadmap consolidation
+- ✅ Phase 8.1A–C — M2-R001 Sensitivity and Receptivity evidence, boundary review and Canonical v1.0
 
 ## Application integration
 
@@ -35,7 +34,6 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ TypeScript JSON imports enabled
 - ✅ CI validates type checking and production builds
 - ✅ Canonical Knowledge panel displays registered records
-- ⏳ Moolank 2 loader registration added for `M2-R001`; CI and live verification pending
 
 ## Moolank 1 canonical files currently stored
 
@@ -43,24 +41,16 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - `canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json`
 - `canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json`
 - `canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json`
+- `canonical/moolank-1/M1-R005-recognition-and-status-sensitivity.v1.0.json`
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
 
 ## Moolank 2 canonical files currently stored
 
 - `canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
 
-## Moolank 1 evidence files currently stored
+## Evidence and confidence note for M1-R005
 
-- `evidence/moolank-1/M1-R001-leadership-style.md`
-- `evidence/moolank-1/M1-R002-initiative-and-proactivity.md`
-- `evidence/moolank-1/M1-R003-independence-and-autonomy.md`
-- `evidence/moolank-1/M1-R004-confidence-and-self-belief.md`
-- `evidence/moolank-1/ID-016-impulse-control.md`
-
-## Moolank 2 evidence files currently stored
-
-- `evidence/moolank-2/M2-ROADMAP-foundation.md`
-- `evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md`
+M1-R005 is classified as `secondary-traditional-tendency-with-conditional-shadow`. Direct recognition-specific tradition support is weak–moderate, no independent specialist Birth Number confirmation was located, and scientific evidence linking the construct to Moolank 1 is not established. App wording must remain conditional.
 
 ## Historical recovery state
 
@@ -68,8 +58,8 @@ The uploaded export confirms the historical mapping: ID-013 Stress Response, ID-
 
 ## Current parallel next steps
 
-- Moolank 1: verify M1-R004 on Render, then begin Phase 7.5A — `M1-R005 Recognition and Status Sensitivity Source Upgrade`.
-- Moolank 2: complete Phase 8.1C CI, merge and Render verification for `M2-R001`, then choose `M2-R002` from the consolidated roadmap.
+- Moolank 1: verify M1-R005 on Render and read the reconstructed roadmap before assigning the next collision-safe trait.
+- Moolank 2: continue from the latest Moolank 2 tracker without overwriting Moolank 1 shared-file updates.
 
 ## Data policy
 
