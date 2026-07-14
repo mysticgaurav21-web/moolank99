@@ -2,7 +2,7 @@
 
 **Roadmap type:** Reconstructed roadmap; not recovered historical sequence.  
 **Created:** 14 July 2026  
-**Status:** Foundation research in progress
+**Status:** Phase 8.0B consolidation complete; M2-R001 assigned
 
 ## Identifier policy
 - New Moolank 2 traits use the collision-safe namespace `M2-R001`, `M2-R002`, `M2-R003` and onward.
@@ -11,76 +11,50 @@
 - Moolank 1 files, IDs, roadmap and tracker remain independent.
 
 ## Foundation phases
-- Phase 8.0A — Moolank 2 Roadmap Source Collection
-- Phase 8.0B — Moolank 2 Roadmap Consolidation
-- Phase 8.1A — M2-R001 Source Upgrade
+- Phase 8.0A — Moolank 2 Roadmap Source Collection — complete with moderate-support limitation
+- Phase 8.0B — Moolank 2 Roadmap Consolidation — complete in current PR
+- Phase 8.1A — M2-R001 Source Upgrade — next
 - Phase 8.1B — M2-R001 Boundary Review
 - Phase 8.1C — M2-R001 Canonical v1.0 and App Integration
 
-## First-stage trait coverage
+## Locked first trait
 
-### Core temperament
-1. Sensitivity
-2. Receptivity
-3. Emotional awareness
-4. Diplomacy
-5. Cooperation
-6. Patience
-7. Adaptability
+### `M2-R001 — Sensitivity and Receptivity`
+Tradition associates Moolank 2 with responsiveness to emotional, interpersonal and contextual cues and openness to feelings, feedback and other perspectives. Balanced expression may support attentive listening and nuanced responsiveness. Under pressure, heightened cue-monitoring may contribute to over-interpretation, overload, excessive accommodation or withdrawal. This is conditional, not universal, and the scientific link to Moolank is not established.
 
-### Relationships
-8. Attachment and closeness
-9. Conflict avoidance
-10. Reassurance sensitivity
-11. Trust
-12. Loyalty
-13. Emotional boundaries
-14. Dependency risk
-15. People-pleasing
+Evidence status: **moderate traditional support with documented source-diversity limitation**. GitHub Issue #29 remains open for a future evidence upgrade.
 
-### Decision and action
-16. Hesitation
-17. Consultation preference
-18. Risk tolerance
-19. Initiative level
-20. Response to pressure
-21. Passive versus active coping
-
-### Communication
-22. Listening
-23. Tact
-24. Indirect communication
-25. Difficulty saying no
-26. Emotional expression
-27. Conflict communication
-
-### Work and leadership
-28. Supportive leadership
-29. Collaboration
-30. Mediation
-31. Team orientation
-32. Recognition sensitivity
-33. Authority response
-34. Independent versus partnership work
-
-### Shadow patterns
-35. Over-sensitivity
-36. Indecision
-37. Self-doubt
-38. Emotional overwhelm
-39. Resentment after over-accommodation
-40. Withdrawal
-41. Passive resistance
-42. Weak boundaries
-
-### Growth
-43. Assertiveness
-44. Emotional regulation
-45. Boundary setting
-46. Independent decision-making
-47. Direct communication
-48. Balanced cooperation
-49. Self-trust
+## First-stage research sequence
+1. `M2-R001` — Sensitivity and Receptivity
+2. `M2-R002` — Emotional Awareness
+3. `M2-R003` — Cooperation and Harmony Orientation
+4. `M2-R004` — Diplomacy and Tact
+5. `M2-R005` — Interpersonal Awareness and Intuition
+6. `M2-R006` — Patience
+7. `M2-R007` — Adaptability
+8. `M2-R008` — Attachment and Closeness
+9. `M2-R009` — Conflict Avoidance
+10. `M2-R010` — Reassurance Sensitivity
+11. `M2-R011` — Trust and Loyalty
+12. `M2-R012` — Emotional Boundaries
+13. `M2-R013` — People-Pleasing and Over-Accommodation
+14. `M2-R014` — Hesitation and Consultation Preference
+15. `M2-R015` — Risk Tolerance and Initiative
+16. `M2-R016` — Response to Pressure and Coping Style
+17. `M2-R017` — Listening and Emotional Expression
+18. `M2-R018` — Directness and Difficulty Saying No
+19. `M2-R019` — Conflict Communication
+20. `M2-R020` — Collaboration and Team Orientation
+21. `M2-R021` — Mediation and Supportive Leadership
+22. `M2-R022` — Recognition and Authority Sensitivity
+23. `M2-R023` — Independent versus Partnership Work
+24. `M2-R024` — Indecision and Self-Doubt
+25. `M2-R025` — Emotional Overwhelm and Withdrawal
+26. `M2-R026` — Resentment and Passive Resistance
+27. `M2-R027` — Assertiveness and Boundary Setting
+28. `M2-R028` — Emotional Regulation
+29. `M2-R029` — Independent Decision-Making and Self-Trust
+30. `M2-R030` — Balanced Cooperation and Direct Communication
 
 ## Evidence rules
 Each candidate trait must be graded as one of:
@@ -94,23 +68,17 @@ Each candidate trait must be graded as one of:
 
 Traditional numerology establishes only tradition-level repetition. Psychology may define constructs and improve wording, but it must not be used to claim scientific validation of Moolank 2.
 
-## Provisional repeated-theme clusters
-Initial Birth Number / Moolank 2 material repeatedly emphasizes:
-- emotional sensitivity or receptivity;
-- intuition and awareness of others' feelings;
-- gentleness, peace-seeking and cooperation;
-- nurturing or supportive interpersonal behaviour;
-- possible over-involvement, mood-linked reactivity or withdrawal under strain.
-
-These are provisional clusters, not canonical verdicts. Clinical labels, deterministic outcomes and universal wording are excluded.
-
-## M2-R001 selection rule
-After Phase 8.0A:
-1. identify the most repeated central theme across independent Birth Number / Moolank 2 sources;
-2. separate it from adjacent constructs;
-3. define balanced and shadow expressions;
-4. document triggers, boundaries, protective factors and excluded claims;
-5. assign `M2-R001` only after the definition is locked.
+## M2-R001 boundary lock
+- Sensitivity is not emotional instability.
+- Sensitivity is not identical to emotional awareness or empathy.
+- Receptivity is not passivity.
+- Cooperation is not dependency.
+- Diplomacy is not conflict avoidance.
+- Intuition must not be presented as paranormal certainty.
+- Conditional overload, accommodation or withdrawal must include triggers, protective factors and excluded claims.
 
 ## Completion rule
 A trait is complete only when evidence, canonical JSON, schema validation, shared indexes/status/changelog, app registration, API/UI verification, CI, production build, PR merge, Render deployment and Moolank 2 tracker update are all complete.
+
+## Exact next action
+Begin Phase 8.1A on a fresh branch and create `knowledge/evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md`. Canonical JSON must not be created during Phase 8.1A.
