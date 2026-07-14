@@ -1,6 +1,6 @@
 {
   "project": "Moolank99 Knowledge Base",
-  "knowledgeVersion": "1.5.0",
+  "knowledgeVersion": "1.6.0",
   "status": "research-in-progress",
   "lastUpdated": "2026-07-14",
   "principles": {
@@ -86,6 +86,30 @@
         "Exact ID-014 Fear canonical export",
         "Exact ID-015 Anger canonical export",
         "Original master trait roadmap after ID-016"
+      ]
+    },
+    "2": {
+      "status": "research-in-progress",
+      "completedResearchPhases": [
+        "8.0A — Moolank 2 Roadmap Source Collection",
+        "8.0B — Moolank 2 Roadmap Consolidation",
+        "8.1A — M2-R001 Sensitivity and Receptivity Source Upgrade",
+        "8.1B — M2-R001 Sensitivity and Receptivity Boundary Review",
+        "8.1C — M2-R001 Sensitivity and Receptivity Canonical v1.0"
+      ],
+      "canonicalTraits": [
+        {
+          "traitId": "M2-R001",
+          "name": "Sensitivity and Receptivity",
+          "version": "1.0",
+          "status": "canonical",
+          "classification": "primary-temperament-with-conditional-shadow",
+          "canonicalFile": "canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json",
+          "evidenceFile": "evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md"
+        }
+      ],
+      "openEvidenceUpgrades": [
+        "Issue #29 — acquire a third independent direct Birth Number 2 source family"
       ]
     }
   }
