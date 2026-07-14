@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://moolank99.app/schemas/canonical-trait.schema.json",
+  "title": "Moolank99 Canonical Trait",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "traitId",
+    "moolank",
+    "traitName",
+    "slug",
+    "version",
+    "status",
+    "classification",
+    "canonicalDefinition",
+    "balancedExpression",
+    "shadowExpression",
+    "appCard",
+    "confidence",
+    "safetyNote"
+  ],
+  "properties": {
+    "traitId": {
+      "type": "string",
+      "pattern": "^ID-[0-9]{3}$"
+    },
+    "moolank": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 9
+    },
+    "traitName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+$"
+    },
+    "status": {
+      "enum": ["draft", "review", "canonical", "deprecated"]
+    },
+    "classification": {
+      "enum": [
+        "core-trait",
+        "balanced-trait",
+        "conditional-shadow",
+        "contextual-expression"
+      ]
+    },
+    "canonicalDefinition": {
+      "type": "string",
+      "minLength": 40
+    },
+    "balancedExpression": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "shadowExpression": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "excludedClaims": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "appCard": {
+      "type": "object",
+      "required": ["strength", "shadow", "growthKey"],
+      "properties": {
+        "strength": { "type": "string" },
+        "shadow": { "type": "string" },
+        "growthKey": { "type": "string" }
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "minProperties": 1
+    },
+    "sourceReferences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sourceType", "publisher", "url", "usage"],
+        "properties": {
+          "sourceType": { "type": "string" },
+          "publisher": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "usage": { "type": "string" }
+        }
+      }
+    },
+    "safetyNote": {
+      "type": "string",
+      "minLength": 20
+    },
+    "lastReviewed": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}
