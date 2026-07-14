@@ -4,7 +4,7 @@
 **Current Moolank:** 2
 
 ## Active objective
-Complete Phase 8.1A dedicated source upgrade for `M2-R001 — Sensitivity and Receptivity` without changing Moolank 1 files or identifiers.
+Complete Phase 8.1B boundary review for `M2-R001 — Sensitivity and Receptivity` without changing Moolank 1 files or identifiers.
 
 ## Latest completed research phase
 - Phase 8.0A foundation initialization merged through PR #16.
@@ -13,37 +13,39 @@ Complete Phase 8.1A dedicated source upgrade for `M2-R001 — Sensitivity and Re
 - Phase 8.0A historical-source verification audit v0.4 merged through PR #22.
 - Phase 8.0A closed at moderate traditional support with a documented source-diversity limitation; Issue #29 remains open for future evidence upgrade.
 - Phase 8.0B roadmap consolidation merged through PR #31; `M2-R001` is assigned and its roadmap-level definition is locked.
+- Phase 8.1A source upgrade merged through PR #34.
 
 ## Latest completed canonical phase
 None yet for Moolank 2.
 
 ## Current active phase
-Phase 8.1A — M2-R001 Sensitivity and Receptivity Source Upgrade.
+Phase 8.1B — M2-R001 Sensitivity and Receptivity Boundary Review.
 
 ## Current trait ID and name
 `M2-R001 — Sensitivity and Receptivity`
 
-Locked roadmap-level definition: responsiveness to emotional, interpersonal and contextual cues, plus openness to feelings, feedback and other perspectives. Balanced expression may support attentive listening and nuanced responsiveness. Under pressure, heightened cue-monitoring may contribute to over-interpretation, overload, excessive accommodation or withdrawal. This is conditional, not universal.
+Locked definition: responsiveness to emotional, interpersonal and contextual cues, plus openness to feelings, feedback and other perspectives. Balanced expression may support attentive listening and nuanced responsiveness. Under pressure, heightened cue-monitoring may contribute to over-interpretation, overload, excessive accommodation or withdrawal. These pressure expressions are conditional and require triggers plus limited protective factors.
 
 ## Evidence file path
 `knowledge/evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md`
 
 ## Canonical file path
-Not created. Expected only after Phase 8.1A final evidence verdict and Phase 8.1B boundary review: `knowledge/canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
+Not created. Expected in Phase 8.1C: `knowledge/canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
 
 ## Blockers
+- No evidence-level blocker prevents Phase 8.1C after this boundary-review PR passes CI and merges.
 - Traditional support remains moderate because only two verified direct contemporary publisher families are available.
 - GitHub Issue #29 remains open to acquire a third independent direct Birth Number 2 source and potentially upgrade tradition-level confidence.
-- Canonical JSON remains blocked until Phase 8.1A and Phase 8.1B are complete.
+- App integration, shared index updates and deployment verification remain pending for Phase 8.1C.
 
 ## Next action
-Complete source-quality review for the dedicated evidence record, test the trigger → response → behaviour → consequence model, and finalize boundaries from emotional instability, passivity, emotional awareness, empathy, cooperation, people-pleasing, emotional reactivity and paranormal certainty. Then open Phase 8.1B on a fresh latest-main branch. Do not create canonical JSON yet.
+After the Phase 8.1B PR passes CI and merges, create a fresh latest-main branch `feature/m2-r001-sensitivity-receptivity-canonical`. Build canonical JSON v1.0, validate schema, update `MASTER_INDEX.json`, `PROJECT_STATUS.md`, `CHANGELOG.md`, register in `src/knowledge/index.ts`, verify API/UI, run TypeScript and production build, open PR, merge only after CI success, then verify Render deployment and update this tracker.
 
 ## App integration status
 Not started. No Moolank 2 canonical JSON is registered in `src/knowledge/index.ts`.
 
 ## Live deployment status
-Not applicable during evidence research. Render verification becomes mandatory after canonical app integration.
+Not applicable during boundary review. Render verification becomes mandatory in Phase 8.1C after canonical app integration.
 
 ## Files to read at the start of every new chat
 1. `knowledge/current/MOOLANK_2_CURRENT_WORK.md`
