@@ -1,0 +1,153 @@
+{
+  "traitId": "ID-016",
+  "moolank": 1,
+  "traitName": "Impulse Control",
+  "slug": "impulse-control",
+  "version": "1.2",
+  "status": "canonical",
+  "classification": "conditional-shadow",
+  "primaryDomain": "behavioural-self-regulation",
+  "canonicalDefinition": "Moolank 1 is traditionally associated with initiative, independence and quick decision-making rather than generalized recklessness. In a balanced state, this produces timely action, courage and decisiveness. When impatience, frustration, heightened confidence or resistance to delay becomes dominant, deliberation may shorten and increase the likelihood of immediate reactions, rushed decisions or premature commitments. Impulse-control difficulty should therefore be treated as a conditional shadow expression, not as a constant, universal or defining characteristic.",
+  "corePattern": {
+    "trigger": "Delay, obstruction or challenged autonomy",
+    "internalResponse": "Impatience, urgency or frustration",
+    "behaviour": "Reduced deliberation and immediate or premature action",
+    "possibleConsequence": "Avoidable correction, conflict or regret"
+  },
+  "balancedExpression": [
+    "Acts quickly when circumstances genuinely require action",
+    "Takes initiative without excessive dependence on others",
+    "Makes confident and purposeful decisions",
+    "Responds decisively during pressure or uncertainty",
+    "Shows calculated courage rather than passive hesitation",
+    "Maintains forward momentum while considering consequences"
+  ],
+  "shadowExpression": [
+    "Acts before gathering sufficient information",
+    "Makes decisions mainly to escape delay or frustration",
+    "Responds immediately when authority or independence feels challenged",
+    "Commits before reviewing practical details",
+    "Underestimates risk because of confidence in personal ability",
+    "Rejects advice too quickly",
+    "Prioritizes immediate progress over long-term consequences",
+    "Evaluates the result after acting during emotional activation"
+  ],
+  "primaryTriggers": [
+    "Slow progress",
+    "Repeated obstruction",
+    "Loss of personal control",
+    "Restrictions on independence",
+    "Perceived incompetence in others",
+    "Advice experienced as interference",
+    "Challenges to authority, ability or status",
+    "Strong excitement following an opportunity or success",
+    "Pressure to produce immediate results"
+  ],
+  "internalDrivers": [
+    "Strong action orientation",
+    "Preference for autonomy",
+    "Low tolerance for unnecessary delay",
+    "Confidence in personal judgment",
+    "Desire to restore control",
+    "Need to maintain forward momentum",
+    "Emotional urgency under frustration"
+  ],
+  "manifestationAreas": {
+    "workAndLeadership": [
+      "Starting action before the full plan is complete",
+      "Making unilateral decisions",
+      "Ignoring slower but useful consultation",
+      "Taking responsibility quickly while occasionally overlooking details"
+    ],
+    "communication": [
+      "Giving an immediate answer",
+      "Interrupting prolonged discussion",
+      "Rejecting suggestions before fully examining them",
+      "Using direct language during frustration"
+    ],
+    "relationships": [
+      "Reacting strongly to perceived restriction",
+      "Making quick conclusions about another person's intentions",
+      "Attempting to resolve disagreement immediately",
+      "Finding prolonged uncertainty difficult to tolerate"
+    ],
+    "decisionsAndCommitments": [
+      "Accepting or rejecting opportunities rapidly",
+      "Committing before checking practical consequences",
+      "Changing direction to restore momentum",
+      "Relying heavily on confidence and instinct"
+    ]
+  },
+  "protectiveFactors": [
+    "A clear long-term objective",
+    "Respectful autonomy",
+    "Time to privately review a decision",
+    "A defined decision process",
+    "Concise rather than controlling advice",
+    "Separating urgency from actual importance",
+    "Recognizing frustration before acting",
+    "Reviewing irreversible consequences"
+  ],
+  "traitBoundaries": {
+    "impatience": "Difficulty tolerating delay; it becomes an impulse-control issue only when it leads to poorly considered action.",
+    "anger": "The emotional response; impulse control concerns whether the person can pause before acting on it.",
+    "riskTaking": "Knowingly accepting uncertainty or danger; impulsivity involves insufficient evaluation whether or not the action is risky.",
+    "decisiveness": "Fast action supported by adequate judgment; impulsivity is fast action without adequate judgment for the situation."
+  },
+  "excludedClaims": [
+    "Addiction",
+    "Gambling behaviour",
+    "Compulsive shopping",
+    "Sexual impulsivity",
+    "Habitual overspending",
+    "Physical violence",
+    "Criminal behaviour",
+    "ADHD",
+    "Bipolar disorder",
+    "Clinical impulse-control disorder",
+    "Chronic recklessness",
+    "Inability to control all urges"
+  ],
+  "appSafeSummary": "Moolank 1 generally prefers decisive action and forward movement. This can be a strength in leadership and demanding situations. When progress feels blocked or independence feels restricted, impatience may shorten the thinking process and produce a rushed reaction. A brief pause to examine consequences helps preserve decisiveness without turning it into impulsiveness.",
+  "appCard": {
+    "strength": "Quick, confident and action-oriented.",
+    "shadow": "May react or decide too quickly when frustrated by delay or restriction.",
+    "growthKey": "Pause long enough to separate genuine urgency from impatience."
+  },
+  "confidence": {
+    "numerologyTraditionSupport": "moderate",
+    "supportForImpatience": "moderate-strong",
+    "supportForConditionalRushedDecisions": "moderate",
+    "supportForGeneralizedLowImpulseControl": "weak",
+    "scientificEvidenceForPsychologicalConstruct": "strong",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [
+    {
+      "sourceType": "numerology-tradition",
+      "publisher": "World Numerology",
+      "url": "https://www.worldnumerology.com/numerology/what-is-numerology/chinese-versus-pythagorean-numerology.html",
+      "usage": "Traditional Number 1 shadow descriptions including impatience and impulsiveness."
+    },
+    {
+      "sourceType": "numerology-tradition",
+      "publisher": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/are-you-born-on-number-1-check-out-your-strengths-and-weaknesses-according-to-numerology/articleshow/111961220.cms",
+      "usage": "Traditional Number 1 profile connecting impatience with rash decisions."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4080475/",
+      "usage": "Definition and multidimensional framing of impulsivity; does not validate a birth-number association."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8168538/",
+      "usage": "Contextual distinction between rapid action and dysfunctional impulsivity; does not validate a birth-number association."
+    }
+  ],
+  "safetyNote": "This content describes a traditional numerology interpretation. It must not be presented as a psychological, psychiatric or medical diagnosis.",
+  "lastReviewed": "2026-07-14"
+}
