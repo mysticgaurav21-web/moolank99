@@ -4,39 +4,40 @@
 **Current Moolank:** 2
 
 ## Active objective
-Complete Phase 8.0A source collection and build an evidence-graded roadmap foundation without changing Moolank 1 files or identifiers.
+Complete Phase 8.0A without inflating publisher independence, then consolidate the roadmap and lock the first trait.
 
 ## Latest completed research phase
-Phase 8.0A foundation initialization is merged. Source-upgrade draft v0.2 is active.
+- Phase 8.0A foundation initialization merged through PR #16.
+- Phase 8.0A source-upgrade v0.2 merged through PR #18.
 
 ## Latest completed canonical phase
 None yet for Moolank 2.
 
 ## Current active phase
-Phase 8.0A — Moolank 2 Roadmap Source Collection, source-upgrade v0.2
+Phase 8.0A — Moolank 2 Roadmap Source Collection, third-source audit v0.3.
 
 ## Current trait ID and name
-Not assigned. `M2-R001` will be assigned only after the third independent direct Birth Number / Moolank 2 source is reviewed and the central trait definition is locked.
+Provisional recommendation: `M2-R001 — Sensitivity and Receptivity`. Assignment is not final until Phase 8.0B locks the definition after verified third-family text extraction.
 
 ## Evidence file path
 `knowledge/evidence/moolank-2/M2-ROADMAP-foundation.md`
 
 ## Canonical file path
-Not created. Canonical JSON is prohibited until evidence review and boundary review are complete.
+Not created. Canonical JSON remains prohibited until trait-specific source upgrade and boundary review are complete.
 
 ## Blockers
-- Two usable direct publisher families have been reviewed; at least one more genuinely independent Birth Number / Moolank 2 source family is required.
-- Life Path 2 and undifferentiated Number 2 material cannot be counted as direct Moolank evidence.
-- Psychology sources may define constructs and safety boundaries only; they cannot validate Moolank 2.
+- Times of India and Economic Times are the two verified direct contemporary publisher families.
+- Historical Cheiro/Chaldean tradition is the leading third-family candidate, but the exact primary-text Birth Number 2 passage must be extracted and verified.
+- Generic Life Path 2 material cannot be counted as direct Moolank evidence.
 
 ## Next action
-Find and review the third independent direct source family, finalize repeated-theme grading, then start Phase 8.0B roadmap consolidation and assign `M2-R001` only if the central-trait verdict is stable.
+Extract and verify an independent historical Birth Number 2 source passage for dates 2, 11, 20 and 29. Then start Phase 8.0B, lock `M2-R001 — Sensitivity and Receptivity`, and define boundaries from emotional awareness, empathy, diplomacy, conflict avoidance and emotional reactivity.
 
 ## App integration status
 Not started. No Moolank 2 canonical JSON is registered in `src/knowledge/index.ts`.
 
 ## Live deployment status
-Not applicable for research-only Phase 8.0A. Render verification becomes mandatory after canonical app integration.
+Not applicable during roadmap research. Render verification becomes mandatory after canonical app integration.
 
 ## Files to read at the start of every new chat
 1. `knowledge/current/MOOLANK_2_CURRENT_WORK.md`
