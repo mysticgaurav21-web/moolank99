@@ -1,6 +1,6 @@
 {
   "project": "Moolank99 Knowledge Base",
-  "knowledgeVersion": "1.6.0",
+  "knowledgeVersion": "1.7.0",
   "status": "research-in-progress",
   "lastUpdated": "2026-07-14",
   "principles": {
@@ -32,7 +32,10 @@
         "7.3C — M1-R003 Independence and Autonomy Canonical v1.0",
         "7.4A — M1-R004 Confidence and Self-Belief Source Upgrade",
         "7.4B — M1-R004 Confidence and Self-Belief Boundary Review",
-        "7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0"
+        "7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0",
+        "7.5A — M1-R005 Recognition and Status Sensitivity Source Upgrade",
+        "7.5B — M1-R005 Recognition and Status Sensitivity Boundary Review",
+        "7.5C — M1-R005 Recognition and Status Sensitivity Cautious Canonical v1.0"
       ],
       "canonicalTraits": [
         {
@@ -70,6 +73,15 @@
           "classification": "primary-strength-with-conditional-shadow",
           "canonicalFile": "canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json",
           "evidenceFile": "evidence/moolank-1/M1-R004-confidence-and-self-belief.md"
+        },
+        {
+          "traitId": "M1-R005",
+          "name": "Recognition and Status Sensitivity",
+          "version": "1.0",
+          "status": "canonical",
+          "classification": "secondary-traditional-tendency-with-conditional-shadow",
+          "canonicalFile": "canonical/moolank-1/M1-R005-recognition-and-status-sensitivity.v1.0.json",
+          "evidenceFile": "evidence/moolank-1/M1-R005-recognition-and-status-sensitivity.md"
         },
         {
           "traitId": "ID-016",
