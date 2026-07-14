@@ -7,16 +7,16 @@
 Complete Phase 8.0A source collection and build an evidence-graded roadmap foundation without changing Moolank 1 files or identifiers.
 
 ## Latest completed research phase
-None yet for Moolank 2.
+Phase 8.0A foundation initialization is merged. Source-upgrade draft v0.2 is active.
 
 ## Latest completed canonical phase
 None yet for Moolank 2.
 
 ## Current active phase
-Phase 8.0A — Moolank 2 Roadmap Source Collection
+Phase 8.0A — Moolank 2 Roadmap Source Collection, source-upgrade v0.2
 
 ## Current trait ID and name
-Not assigned. `M2-R001` will be assigned only after roadmap evidence identifies the most repeated central trait and its definition is locked.
+Not assigned. `M2-R001` will be assigned only after the third independent direct Birth Number / Moolank 2 source is reviewed and the central trait definition is locked.
 
 ## Evidence file path
 `knowledge/evidence/moolank-2/M2-ROADMAP-foundation.md`
@@ -25,18 +25,18 @@ Not assigned. `M2-R001` will be assigned only after roadmap evidence identifies 
 Not created. Canonical JSON is prohibited until evidence review and boundary review are complete.
 
 ## Blockers
-- Minimum three genuinely independent Birth Number / Moolank 2 traditional sources still need full comparison.
-- Life Path 2 material must remain separate unless the source explicitly distinguishes it from Birth Number 2.
-- Psychology sources are needed only for construct definitions, boundaries and safe wording; they cannot validate Moolank 2.
+- Two usable direct publisher families have been reviewed; at least one more genuinely independent Birth Number / Moolank 2 source family is required.
+- Life Path 2 and undifferentiated Number 2 material cannot be counted as direct Moolank evidence.
+- Psychology sources may define constructs and safety boundaries only; they cannot validate Moolank 2.
 
 ## Next action
-Upgrade the source inventory, grade repeated claims, identify contradictions and excluded claims, then complete Phase 8.0B roadmap consolidation and assign `M2-R001`.
+Find and review the third independent direct source family, finalize repeated-theme grading, then start Phase 8.0B roadmap consolidation and assign `M2-R001` only if the central-trait verdict is stable.
 
 ## App integration status
 Not started. No Moolank 2 canonical JSON is registered in `src/knowledge/index.ts`.
 
 ## Live deployment status
-Not applicable for research-only Phase 8.0A. Render verification will become mandatory after canonical app integration.
+Not applicable for research-only Phase 8.0A. Render verification becomes mandatory after canonical app integration.
 
 ## Files to read at the start of every new chat
 1. `knowledge/current/MOOLANK_2_CURRENT_WORK.md`
