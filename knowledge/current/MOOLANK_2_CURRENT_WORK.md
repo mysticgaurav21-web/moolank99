@@ -4,20 +4,21 @@
 **Current Moolank:** 2
 
 ## Active objective
-Complete Phase 8.0A without inflating publisher independence, then consolidate the roadmap and lock the first trait.
+Complete Phase 8.0A with three genuinely independent direct Birth Number / Moolank 2 source families, without inflating publisher independence or counting generic Life Path material.
 
 ## Latest completed research phase
 - Phase 8.0A foundation initialization merged through PR #16.
 - Phase 8.0A source-upgrade v0.2 merged through PR #18.
+- Phase 8.0A third-source audit v0.3 merged through PR #21.
 
 ## Latest completed canonical phase
 None yet for Moolank 2.
 
 ## Current active phase
-Phase 8.0A — Moolank 2 Roadmap Source Collection, third-source audit v0.3.
+Phase 8.0A — Historical source verification audit v0.4.
 
 ## Current trait ID and name
-Provisional recommendation: `M2-R001 — Sensitivity and Receptivity`. Assignment is not final until Phase 8.0B locks the definition after verified third-family text extraction.
+Provisional recommendation: `M2-R001 — Sensitivity and Receptivity`. Assignment is not final until Phase 8.0B locks the definition after verified third-family direct evidence.
 
 ## Evidence file path
 `knowledge/evidence/moolank-2/M2-ROADMAP-foundation.md`
@@ -27,11 +28,11 @@ Not created. Canonical JSON remains prohibited until trait-specific source upgra
 
 ## Blockers
 - Times of India and Economic Times are the two verified direct contemporary publisher families.
-- Historical Cheiro/Chaldean tradition is the leading third-family candidate, but the exact primary-text Birth Number 2 passage must be extracted and verified.
-- Generic Life Path 2 material cannot be counted as direct Moolank evidence.
+- Historical Cheiro/Chaldean material remains a candidate, but an inspectable primary-text Birth Number 2 passage for dates 2, 11, 20 and 29 has not yet been obtained.
+- Search snippets, duplicate publisher articles, generic Number 2 meanings and Life Path 2 material cannot satisfy the third-source requirement.
 
 ## Next action
-Extract and verify an independent historical Birth Number 2 source passage for dates 2, 11, 20 and 29. Then start Phase 8.0B, lock `M2-R001 — Sensitivity and Receptivity`, and define boundaries from emotional awareness, empathy, diplomacy, conflict avoidance and emotional reactivity.
+Acquire an inspectable primary scan or a separate direct Birth Number / Moolank 2 source family; verify the 2/11/20/29 scope and exact claims. Then begin Phase 8.0B and lock `M2-R001 — Sensitivity and Receptivity` only if the central verdict remains stable.
 
 ## App integration status
 Not started. No Moolank 2 canonical JSON is registered in `src/knowledge/index.ts`.
