@@ -18,6 +18,14 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ Phase 7.3A–C — M1-R003 Independence and Autonomy evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.4A–C — M1-R004 Confidence and Self-Belief evidence, boundary review and Canonical v1.0
 
+## Moolank 2 completed phases
+
+- ✅ Phase 8.0A — Roadmap source collection closed at moderate traditional support with a documented source-diversity limitation
+- ✅ Phase 8.0B — Reconstructed roadmap consolidated and `M2-R001` assigned
+- ✅ Phase 8.1A — `M2-R001 Sensitivity and Receptivity` source upgrade
+- ✅ Phase 8.1B — `M2-R001` boundary review
+- ⏳ Phase 8.1C — `M2-R001` Canonical v1.0 and app integration is active pending CI, merge and live verification
+
 ## Application integration
 
 - ✅ Canonical JSON loader at `src/knowledge/index.ts`
@@ -27,6 +35,7 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ TypeScript JSON imports enabled
 - ✅ CI validates type checking and production builds
 - ✅ Canonical Knowledge panel displays registered records
+- ⏳ Moolank 2 loader registration added for `M2-R001`; CI and live verification pending
 
 ## Moolank 1 canonical files currently stored
 
@@ -36,6 +45,10 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - `canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json`
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
 
+## Moolank 2 canonical files currently stored
+
+- `canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
+
 ## Moolank 1 evidence files currently stored
 
 - `evidence/moolank-1/M1-R001-leadership-style.md`
@@ -44,13 +57,19 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - `evidence/moolank-1/M1-R004-confidence-and-self-belief.md`
 - `evidence/moolank-1/ID-016-impulse-control.md`
 
+## Moolank 2 evidence files currently stored
+
+- `evidence/moolank-2/M2-ROADMAP-foundation.md`
+- `evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md`
+
 ## Historical recovery state
 
 The uploaded export confirms the historical mapping: ID-013 Stress Response, ID-014 Fear, ID-015 Anger and ID-016 Impulse Control. Exact final canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery-pending and must not be recreated from memory.
 
-## Current Moolank 1 next step
+## Current parallel next steps
 
-Verify M1-R004 on Render, then begin Phase 7.5A — `M1-R005 Recognition and Status Sensitivity Source Upgrade` using the reconstructed collision-safe namespace.
+- Moolank 1: verify M1-R004 on Render, then begin Phase 7.5A — `M1-R005 Recognition and Status Sensitivity Source Upgrade`.
+- Moolank 2: complete Phase 8.1C CI, merge and Render verification for `M2-R001`, then choose `M2-R002` from the consolidated roadmap.
 
 ## Data policy
 
