@@ -1,0 +1,44 @@
+{
+  "project": "Moolank99 Knowledge Base",
+  "knowledgeVersion": "1.0.0",
+  "status": "research-in-progress",
+  "lastUpdated": "2026-07-14",
+  "principles": {
+    "knowledgeFirst": true,
+    "conditionalLanguageRequired": true,
+    "clinicalDiagnosisProhibited": true,
+    "traditionAndScienceSeparated": true
+  },
+  "moolanks": {
+    "1": {
+      "status": "research-in-progress",
+      "completedResearchPhases": [
+        "6.15C — ID-013 Stress Response v1.2",
+        "6.16A — Fear Source Upgrade",
+        "6.16B — Fear Final Consolidation",
+        "6.17A — Anger Source Upgrade",
+        "6.17B — Catharsis Review",
+        "6.17C — Anger Canonical v1.2",
+        "6.18A — ID-016 Impulse Control Final Evidence Consolidation",
+        "6.18B — ID-016 Impulse Control Canonical v1.2"
+      ],
+      "canonicalTraits": [
+        {
+          "traitId": "ID-016",
+          "name": "Impulse Control",
+          "version": "1.2",
+          "status": "canonical",
+          "classification": "conditional-shadow",
+          "canonicalFile": "canonical/moolank-1/ID-016-impulse-control.v1.2.json",
+          "evidenceFile": "evidence/moolank-1/ID-016-impulse-control.md"
+        }
+      ],
+      "recoveryPending": [
+        "Exact ID-013 canonical export",
+        "Exact Fear trait ID and canonical export",
+        "Exact Anger trait ID and canonical export",
+        "Master trait roadmap after ID-016"
+      ]
+    }
+  }
+}
