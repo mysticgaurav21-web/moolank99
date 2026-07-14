@@ -1,7 +1,7 @@
 # Moolank 2 Roadmap Foundation Evidence Record
 
 **Moolank:** 2  
-**Version:** 0.3 source-audit draft  
+**Version:** 0.4 historical-source verification audit  
 **Status:** Research in progress  
 **Phase:** 8.0A — Roadmap Source Collection
 
@@ -20,15 +20,15 @@ Which themes repeat across independent Birth Number / Moolank 2 traditions, whic
 |---|---|---|---|
 | Times of India astrology/numerology features | Direct Birth Number / Moolank 2 | sensitivity, emotional depth, intuition, care, nurturing, peace-seeking, cooperation | One publisher family only. Useful for contemporary traditional repetition; clinical and sensational claims rejected. |
 | Economic Times numerology features | Direct birth-date Number 2 | harmony, teamwork, emotional connection, cooperation, balance | Independent publisher family, but mostly forecast-format; supplementary rather than decisive. |
-| Historical Cheiro / Chaldean numerology tradition | Candidate direct historical source family | Number 2 traditionally linked with lunar, receptive and emotional symbolism | Source family identified, but exact primary-text passage for the 2/11/20/29 birthday grouping still requires verified extraction before it can be counted as completed direct evidence. |
+| Historical Cheiro / Chaldean numerology tradition | Candidate direct historical source family | Number 2 traditionally linked with lunar, receptive and emotional symbolism | Source family identified, but exact primary-text passage for the 2/11/20/29 birthday grouping has not yet been verified from an accessible primary scan. It is not counted as completed evidence. |
 | Generic Life Path / destiny Number 2 websites | Indirect | diplomacy, receptivity, cooperation, sensitivity | Search vocabulary only; not counted as direct Moolank evidence. |
 
-## Search audit completed in v0.3
-- Multiple current Birth Number 2 searches were reviewed.
-- Most search results repeated the same Times of India publisher family and therefore did not increase independence.
-- Economic Times remained a separate but lower-value direct family.
-- Cheiro's historical numerology work was identified as the strongest candidate for the third independent traditional family, but exact text extraction is still required.
-- No unsupported website was promoted merely to satisfy the three-source count.
+## Historical verification audit completed in v0.4
+- Targeted searches were run for Cheiro's *Book of Numbers* and exact date-group wording for 2, 11, 20 and 29.
+- Search results established Cheiro as a historical numerology author and identified *Cheiro's Book of Numbers*, but did not expose a reliable, inspectable primary-text passage for the required Birth Number 2 grouping.
+- Secondary snippets and generic web summaries were not promoted to primary evidence.
+- The third-family requirement therefore remains open.
+- This prevents a false upgrade from moderate to strong traditional support.
 
 ## Repeated traditional themes
 
@@ -58,7 +58,7 @@ Which themes repeat across independent Birth Number / Moolank 2 traditions, whic
 
 | Claim | Grade | Verdict |
 |---|---|---|
-| Tradition associates Moolank 2 with sensitivity or receptivity | Moderate traditional support | Leading central cluster. Upgrade to strong requires verified third-family primary text. |
+| Tradition associates Moolank 2 with sensitivity or receptivity | Moderate traditional support | Leading central cluster. Upgrade to strong requires verified third-family direct evidence. |
 | Tradition associates Moolank 2 with cooperation and harmony | Moderate traditional support | Repeated across direct contemporary families; separate from dependency. |
 | Tradition associates Moolank 2 with interpersonal awareness or intuition | Moderate traditional support | Retain only in non-paranormal wording. |
 | Tradition associates Moolank 2 with caring or supportive behaviour | Moderate traditional support | Conditional style, not a universal role or career ability. |
@@ -129,7 +129,7 @@ This is conditional and remains for trait-specific review.
 - fixed careers, lucky colours, gemstones, evil-eye claims or fate promises in personality canon.
 
 ## Current verdict
-Sensitivity and receptivity remain the recommended central construct for `M2-R001`, but Phase 8.0A remains open until the historical third-family primary text is extracted and checked. The project will not inflate source independence by counting duplicate publisher articles or generic Life Path material.
+Sensitivity and receptivity remain the recommended central construct for `M2-R001`, but Phase 8.0A remains open. The historical third-family candidate could not yet be verified from primary text, so the project will not count it or inflate the evidence grade.
 
 ## Exact next action
-Verify and extract the relevant Birth Number 2 passage from an independent historical numerology source, then run Phase 8.0B consolidation. If the repeated pattern remains stable, lock `M2-R001 — Sensitivity and Receptivity` and define its boundaries from emotional awareness, empathy, diplomacy, conflict avoidance and emotional reactivity.
+Acquire an inspectable primary scan or a separate direct Birth Number / Moolank 2 source family. Verify the 2/11/20/29 scope and extract exact claims. Only then run Phase 8.0B consolidation and lock `M2-R001 — Sensitivity and Receptivity`.
