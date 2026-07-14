@@ -2,6 +2,24 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.4.0] — 2026-07-14
+
+### Moolank 1 canonical knowledge
+
+- Added `M1-R003 Independence and Autonomy Canonical v1.0` and app registration.
+- Defined autonomy as responsible self-endorsed choice rather than isolation, total self-sufficiency or automatic resistance.
+- Added boundaries for independence, legitimate rule-following, authority reactance, oppositional behaviour, stubbornness, avoidant help-seeking, dominance, leadership and cooperation.
+- Added strategic help-seeking, evidence review, decision revision, consent, decision-right and shared-obligation safeguards.
+- Updated the master index, project status and current-work tracker.
+
+### App impact
+
+- Moolank 1 canonical loader now registers Leadership Style, Initiative and Proactivity, Independence and Autonomy, and Impulse Control.
+
+### Next action
+
+- Verify M1-R003 on Render and begin `M1-R004 Confidence and Self-Belief` research.
+
 ## [1.3.0] — 2026-07-14
 
 ### Moolank 1 canonical knowledge
@@ -16,10 +34,6 @@ All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
 - Confirmed from the uploaded export that ID-013 is Stress Response, ID-014 is Fear, ID-015 is Anger and ID-016 is Impulse Control.
 - Exact canonical exports for ID-013, ID-014 and ID-015 remain recovery-pending.
-
-### Next action
-
-- Verify M1-R002 on Render and begin `M1-R003 Independence and Autonomy` research.
 
 ## [1.2.0] — 2026-07-14
 

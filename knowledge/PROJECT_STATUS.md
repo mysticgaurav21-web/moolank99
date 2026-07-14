@@ -15,6 +15,7 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ Phase 6.18A–B — ID-016 Impulse Control evidence and Canonical v1.2
 - ✅ Phase 7.1A–C — M1-R001 Leadership Style evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.2A–C — M1-R002 Initiative and Proactivity evidence, boundary review and Canonical v1.0
+- ✅ Phase 7.3A–C — M1-R003 Independence and Autonomy evidence, boundary review and Canonical v1.0
 
 ## Application integration
 
@@ -30,12 +31,14 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 
 - `canonical/moolank-1/M1-R001-leadership-style.v1.0.json`
 - `canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json`
+- `canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json`
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
 
 ## Moolank 1 evidence files currently stored
 
 - `evidence/moolank-1/M1-R001-leadership-style.md`
 - `evidence/moolank-1/M1-R002-initiative-and-proactivity.md`
+- `evidence/moolank-1/M1-R003-independence-and-autonomy.md`
 - `evidence/moolank-1/ID-016-impulse-control.md`
 
 ## Historical recovery state
@@ -51,7 +54,7 @@ Exact final canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery
 
 ## Current Moolank 1 next step
 
-Verify M1-R002 on Render, then begin Phase 7.3A — `M1-R003 Independence and Autonomy Source Upgrade` using the reconstructed collision-safe namespace.
+Verify M1-R003 on Render, then begin Phase 7.4A — `M1-R004 Confidence and Self-Belief Source Upgrade` using the reconstructed collision-safe namespace.
 
 ## Data policy
 

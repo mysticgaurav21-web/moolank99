@@ -1,6 +1,7 @@
 import impulseControl from "../../knowledge/canonical/moolank-1/ID-016-impulse-control.v1.2.json";
 import leadershipStyle from "../../knowledge/canonical/moolank-1/M1-R001-leadership-style.v1.0.json";
 import initiativeAndProactivity from "../../knowledge/canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json";
+import independenceAndAutonomy from "../../knowledge/canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json";
 
 export interface CanonicalTrait {
   traitId: string;
@@ -47,6 +48,7 @@ const knowledgeByMoolank: Readonly<Record<number, readonly CanonicalTrait[]>> = 
   1: [
     leadershipStyle as CanonicalTrait,
     initiativeAndProactivity as CanonicalTrait,
+    independenceAndAutonomy as CanonicalTrait,
     impulseControl as CanonicalTrait
   ]
 };
