@@ -1,9 +1,9 @@
 # Moolank 2 Roadmap Foundation Evidence Record
 
 **Moolank:** 2  
-**Version:** 0.4 historical-source verification audit  
-**Status:** Research in progress  
-**Phase:** 8.0A — Roadmap Source Collection
+**Version:** 1.0 consolidated roadmap verdict  
+**Status:** Phase 8.0A complete with documented source limitation  
+**Phase:** 8.0B — Roadmap Consolidation
 
 ## Research question
 Which themes repeat across independent Birth Number / Moolank 2 traditions, which claims conflict or overreach, and which trait should become `M2-R001`?
@@ -14,26 +14,15 @@ Which themes repeat across independent Birth Number / Moolank 2 traditions, whic
 - Psychology is used only for definitions, boundaries and safe wording.
 - Scientific evidence linking personality traits to Moolank 2 is not established.
 
-## Source-family audit
+## Source-family verdict
+Two verified direct contemporary publisher families were reviewed: Times of India and Economic Times. Multiple articles from one publisher were counted as one family. Historical Cheiro/Chaldean material was investigated but not counted because an inspectable primary Birth Number 2 passage was not obtained.
 
-| Source family | Layer | Repeated Number 2 claims | Handling |
-|---|---|---|---|
-| Times of India astrology/numerology features | Direct Birth Number / Moolank 2 | sensitivity, emotional depth, intuition, care, nurturing, peace-seeking, cooperation | One publisher family only. Useful for contemporary traditional repetition; clinical and sensational claims rejected. |
-| Economic Times numerology features | Direct birth-date Number 2 | harmony, teamwork, emotional connection, cooperation, balance | Independent publisher family, but mostly forecast-format; supplementary rather than decisive. |
-| Historical Cheiro / Chaldean numerology tradition | Candidate direct historical source family | Number 2 traditionally linked with lunar, receptive and emotional symbolism | Source family identified, but exact primary-text passage for the 2/11/20/29 birthday grouping has not yet been verified from an accessible primary scan. It is not counted as completed evidence. |
-| Generic Life Path / destiny Number 2 websites | Indirect | diplomacy, receptivity, cooperation, sensitivity | Search vocabulary only; not counted as direct Moolank evidence. |
-
-## Historical verification audit completed in v0.4
-- Targeted searches were run for Cheiro's *Book of Numbers* and exact date-group wording for 2, 11, 20 and 29.
-- Search results established Cheiro as a historical numerology author and identified *Cheiro's Book of Numbers*, but did not expose a reliable, inspectable primary-text passage for the required Birth Number 2 grouping.
-- Secondary snippets and generic web summaries were not promoted to primary evidence.
-- The third-family requirement therefore remains open.
-- This prevents a false upgrade from moderate to strong traditional support.
+The roadmap therefore closes Phase 8.0A at **moderate traditional support with a documented source-diversity limitation**, rather than inventing a third source or inflating the grade. GitHub Issue #29 remains open for a future evidence upgrade.
 
 ## Repeated traditional themes
 
-### Highest-priority cluster
-1. **Sensitivity and receptivity** — the most stable central cluster across direct contemporary material and historical Number 2 symbolism.
+### Central cluster
+1. **Sensitivity and receptivity** — the most stable and repeated central cluster.
 
 ### Strong adjacent clusters
 2. Interpersonal awareness / intuition, restricted to impressions and cue sensitivity rather than paranormal certainty.
@@ -42,6 +31,7 @@ Which themes repeat across independent Birth Number / Moolank 2 traditions, whic
 5. Caring / supportive interpersonal behaviour.
 
 ### Secondary roadmap hypotheses
+- emotional awareness;
 - diplomacy and tact;
 - listening;
 - patience;
@@ -58,30 +48,49 @@ Which themes repeat across independent Birth Number / Moolank 2 traditions, whic
 
 | Claim | Grade | Verdict |
 |---|---|---|
-| Tradition associates Moolank 2 with sensitivity or receptivity | Moderate traditional support | Leading central cluster. Upgrade to strong requires verified third-family direct evidence. |
-| Tradition associates Moolank 2 with cooperation and harmony | Moderate traditional support | Repeated across direct contemporary families; separate from dependency. |
-| Tradition associates Moolank 2 with interpersonal awareness or intuition | Moderate traditional support | Retain only in non-paranormal wording. |
+| Tradition associates Moolank 2 with sensitivity or receptivity | Moderate traditional support | Retained as the central roadmap construct. Source-diversity limitation is explicit. |
+| Tradition associates Moolank 2 with cooperation and harmony | Moderate traditional support | Retained as an adjacent construct; separate from dependency. |
+| Tradition associates Moolank 2 with interpersonal awareness or intuition | Moderate traditional support | Retained only in non-paranormal wording. |
 | Tradition associates Moolank 2 with caring or supportive behaviour | Moderate traditional support | Conditional style, not a universal role or career ability. |
 | Every Moolank 2 person is weak, shy, passive or dependent | Exaggerated / unsupported | Rejected. |
 | Moolank 2 causes depression, suicidality, instability or psychiatric vulnerability | Unsupported and excluded | Rejected clinical inference. |
 | Moolank 2 guarantees psychic, healing or supernatural ability | Unsupported / metaphysical overreach | Excluded from personality canon. |
 | Birth Number 2 scientifically predicts these traits | Scientific link to Moolank not established | Psychology cannot validate the numerology association. |
 
-## Psychology bridge definitions
-- **Sensitivity:** degree of responsiveness to emotional, social or environmental cues; not equivalent to instability.
-- **Receptivity:** openness to information, emotion and other perspectives; not equivalent to passivity.
-- **Empathy:** understanding or sharing another person's perspective or feeling; not equivalent to people-pleasing.
-- **Agreeableness/cooperation:** tendency toward coordination and concern for others; not equivalent to dependency.
-- **Assertiveness:** direct expression of needs and limits while respecting others; useful as a growth boundary.
-- **Emotion regulation:** processes used to notice, modulate and express emotion; must not be inferred as deficient from birth number.
-- **Interpersonal boundaries:** limits around responsibility, access and emotional labour; weak boundaries are a conditional hypothesis only.
+## M2-R001 definition lock
+
+### Trait ID and name
+`M2-R001 — Sensitivity and Receptivity`
+
+### Locked research definition
+Tradition associates Moolank 2 with heightened receptivity to emotional, interpersonal and contextual cues. In balanced expression, this may support attentive listening, nuanced awareness and responsiveness to other perspectives. Under pressure, heightened cue-monitoring may contribute to over-interpretation, emotional overload, excessive accommodation or withdrawal. This pattern is conditional, not universal, and is not a diagnosis.
+
+### Included
+- responsiveness to emotional and interpersonal cues;
+- openness to feelings, feedback and perspectives;
+- noticing subtle relational shifts;
+- balanced listening and reflective response;
+- conditional overload or over-interpretation under strain.
+
+### Excluded
+- empathy as a separate construct;
+- emotional awareness as a separate skill;
+- diplomacy and cooperation as separate interpersonal styles;
+- conflict avoidance, people-pleasing and weak boundaries as conditional adjacent patterns;
+- passivity, dependency or inability to act independently;
+- emotional instability or psychiatric claims;
+- paranormal certainty.
 
 ## Trait boundaries
-### Sensitivity vs emotional instability
-Sensitivity concerns noticing and responding to cues. It does not imply disorder, dysfunction or uncontrolled mood.
+
+### Sensitivity vs emotional awareness
+Sensitivity concerns responsiveness to cues. Emotional awareness concerns identifying and understanding emotions. A person may notice intensity without accurately labelling it.
+
+### Sensitivity vs empathy
+Sensitivity concerns detection and responsiveness. Empathy concerns understanding or sharing another person's perspective or emotion.
 
 ### Receptivity vs passivity
-Receptivity is openness. Passivity concerns reduced direct action and requires separate evidence.
+Receptivity is openness to information and perspectives. Passivity concerns reduced direct action and is not implied.
 
 ### Cooperation vs dependency
 Cooperation is coordinated action. Dependency or impaired autonomy must not be inferred from numerology.
@@ -89,47 +98,41 @@ Cooperation is coordinated action. Dependency or impaired autonomy must not be i
 ### Diplomacy vs conflict avoidance
 Diplomacy addresses disagreement tactfully. Conflict avoidance delays or evades necessary discussion.
 
-### Empathy vs people-pleasing
-Empathy concerns understanding. People-pleasing involves over-accommodation, often under feared disapproval.
-
 ### Intuition vs paranormal certainty
 App-safe intuition means impressions, pattern recognition or awareness of interpersonal cues, not guaranteed supernatural knowledge.
 
 ## Trigger → response → behaviour → consequence hypothesis
 
 ```text
-Criticism, emotional tension or perceived disconnection
+Criticism, emotional tension, ambiguity or perceived disconnection
   ↓
-Heightened attention to relational cues
+Heightened attention to emotional and relational cues
   ↓
-Listening, consultation or accommodation; sometimes indirect expression or withdrawal
+Listening, reflection or consultation; sometimes over-analysis, accommodation or withdrawal
   ↓
-Possible harmony when balanced; possible resentment or boundary strain when overused
+Possible understanding and harmony when balanced; possible overload, resentment or boundary strain when overused
 ```
 
-This is conditional and remains for trait-specific review.
+This sequence remains a trait-specific hypothesis to test in Phase 8.1A and Phase 8.1B.
 
 ## Protective factors / growth levers
 - assertiveness;
-- clear boundaries;
+- clear interpersonal boundaries;
 - direct but tactful communication;
-- independent decision practice;
 - emotion labelling and regulation;
+- independent decision practice;
 - tolerance for respectful disagreement;
 - balanced cooperation;
 - self-trust;
-- separating empathy from responsibility for everyone else's feelings.
+- separating awareness of others' feelings from responsibility for fixing them.
 
-## Excluded claims
-- medical, psychiatric, diagnostic, criminal or addiction labels;
-- suicidality, depression or instability inferred from Moolank;
-- guaranteed relationship outcomes;
-- inability to lead or work independently;
-- paranormal certainty or healing guarantees;
-- fixed careers, lucky colours, gemstones, evil-eye claims or fate promises in personality canon.
+## Scientific-status statement
+Psychology can define sensitivity, receptivity, empathy, emotion regulation and interpersonal boundaries. It does not demonstrate that people born on dates reducing to 2 possess these traits. Scientific evidence linking these constructs to Moolank 2 is not established.
 
-## Current verdict
-Sensitivity and receptivity remain the recommended central construct for `M2-R001`, but Phase 8.0A remains open. The historical third-family candidate could not yet be verified from primary text, so the project will not count it or inflate the evidence grade.
+## Final roadmap verdict
+Phase 8.0A is closed with **moderate traditional support and an explicit source-diversity limitation**. The first collision-safe trait is assigned as `M2-R001 — Sensitivity and Receptivity`.
 
-## Exact next action
-Acquire an inspectable primary scan or a separate direct Birth Number / Moolank 2 source family. Verify the 2/11/20/29 scope and extract exact claims. Only then run Phase 8.0B consolidation and lock `M2-R001 — Sensitivity and Receptivity`.
+This is a roadmap-level lock, not a canonical personality verdict. Canonical JSON remains prohibited until Phase 8.1A source upgrade and Phase 8.1B boundary review are complete.
+
+## Next action
+Start Phase 8.1A and create `knowledge/evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md` using the locked definition, direct-source audit, psychology construct boundaries, triggers, protective factors and excluded claims.
