@@ -20,15 +20,15 @@
 
 ## Latest completed research step
 
-- Phase 7.4A — M1-R004 Confidence and Self-Belief Source Upgrade, evidence consolidation v0.2
+- Phase 7.4B — M1-R004 Confidence and Self-Belief Boundary Review, final evidence verdict v0.3
 
 ## Active objective
 
-Complete **Phase 7.4B — M1-R004 Confidence and Self-Belief Boundary Review**.
+Complete **Phase 7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0 and app integration**.
 
-Research question:
+Approved evidence core:
 
-> How should realistic, evidence-sensitive confidence be separated from self-efficacy, self-esteem, certainty, dominance, overconfidence, defensiveness, recognition sensitivity and decision quality?
+> Moolank 1 tradition associates this number with visible self-assurance and trust in personal judgment. In a balanced expression, confidence combines realistic preparation, evidence-sensitive self-belief, openness to feedback and willingness to revise. Under pressure—especially when status or competence feels exposed—the same drive may become exaggerated certainty, defensiveness, underpreparation or resistance to correction. Scientific research does not establish that a birth number predicts confidence, self-efficacy, calibration or performance.
 
 Working evidence file:
 
@@ -36,32 +36,33 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R004-confidence-and-self-belief.md
 ```
 
-## Phase 7.4A verdict
+Planned canonical file:
 
-Retain Confidence and Self-Belief as a primary traditional strength, but define it as realistic, evidence-sensitive and revisable self-trust rather than certainty, superiority or universal competence.
+```text
+knowledge/canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json
+```
 
-Approved provisional core:
+## Boundary decisions locked
 
-> Moolank 1 tradition associates this number with visible self-assurance and trust in personal judgment. In a balanced expression, confidence combines realistic preparation, evidence-sensitive self-belief, openness to feedback and willingness to revise. Under pressure—especially when status or competence feels exposed—the same drive may become exaggerated certainty, defensiveness, underpreparation or resistance to correction. Scientific research does not establish that a birth number predicts confidence, self-efficacy, calibration or performance.
-
-## Evidence decisions locked
-
-- Confidence is context-sensitive self-belief, not universal competence.
-- Self-efficacy is task- and domain-specific; self-esteem concerns general self-worth.
+- Confidence is context-sensitive and domain-sensitive self-belief, not universal competence.
+- Self-efficacy is task-specific; self-esteem concerns general self-worth.
 - Confidence permits uncertainty, feedback and revision.
-- Overconfidence may involve overestimation, overplacement or overprecision.
-- Dominance, loudness and control do not prove confidence.
+- Certainty, dominance, loudness and control do not prove confidence.
+- Overconfidence includes overestimation, overplacement or overprecision.
 - Defensiveness protects image or status by rejecting information and is not stronger confidence.
-- Recognition/status sensitivity remains a separate trait except where public evaluation triggers defensive confidence.
-- A confident decision may still be wrong; decision quality requires evidence and consequence review.
-- Birth number does not scientifically predict confidence, self-efficacy, calibration or performance.
-- Canonical JSON is not yet approved.
+- Public correction is only a possible trigger, not a universal reaction.
+- Recognition/status sensitivity remains a separate future trait.
+- A confident decision may still be wrong; decision quality requires evidence, alternatives and consequence review.
+- Birth number does not scientifically predict confidence, calibration or performance.
 
-## Safe triggers and protective factors
+## Canonical requirements
 
-Possible triggers include public correction, visible mistakes, criticism, peer comparison, unfamiliar tasks with leadership expectations, pressure to answer immediately, reduced recognition, recent success, weak feedback systems and fear that uncertainty will reduce credibility.
-
-Protective factors include task-specific preparation, explicit evidence criteria, error-checking routines, domain-boundary checks, independent review, measurable outcome review, separating self-worth from task performance and permission to say “I do not know yet.”
+- Use realistic, evidence-sensitive and revisable self-trust as the strength framing.
+- Keep defensive-confidence language conditional and trigger-based.
+- Include preparation, feedback, calibration and revision safeguards.
+- Preserve confidence-versus-self-efficacy, self-esteem, certainty, dominance and decision-quality boundaries.
+- Include work/study, communication, relationships, teamwork and decisions manifestations.
+- Do not imply universal competence, guaranteed leadership, success, wealth, fame or scientific prediction.
 
 ## Recovery update
 
@@ -80,15 +81,17 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
 - Independent live verification remains pending because the current tool environment cannot directly confirm the Render UI.
-- M1-R004 remains evidence-stage and is not live.
+- M1-R004 remains evidence-stage until Phase 7.4C is merged and deployed.
 
 ## Next actions
 
-1. Finalize confidence versus self-efficacy, self-esteem and decision quality.
-2. Review overconfidence, defensive confidence and public-correction triggers.
-3. Lock manifestation areas and app-safe language.
-4. Produce final evidence verdict v0.3.
-5. Begin Phase 7.4C canonical JSON and app integration only after boundary approval.
+1. Draft M1-R004 canonical JSON v1.0.
+2. Validate it against the canonical trait structure.
+3. Update `knowledge/MASTER_INDEX.json`.
+4. Register M1-R004 in `src/knowledge/index.ts` using latest main.
+5. Update project status and changelog.
+6. Run CI type-check and production build.
+7. Merge and verify the Render Canonical Knowledge panel.
 
 ## Files to read at the start of every new chat
 
