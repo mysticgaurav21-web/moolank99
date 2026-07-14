@@ -14,13 +14,17 @@
 1. M1-R001 — Leadership Style v1.0
 2. ID-016 — Impulse Control v1.2
 
+## Latest completed research step
+
+- Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade, evidence consolidation v0.2
+
 ## Active objective
 
-Complete **Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade**.
+Complete **Phase 7.2B — M1-R002 Initiative and Proactivity Boundary Review**.
 
 Research question:
 
-> Do traditional Birth Number / Moolank 1 sources consistently support self-starting action and proactive behaviour, and how should initiative be separated from leadership, impulsivity, persistence, dominance, and risk-taking?
+> How should responsible initiative be separated from impulsivity, leadership, persistence, novelty-seeking, overcommitment, role overreach and socially costly proactivity?
 
 Working evidence file:
 
@@ -28,21 +32,28 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R002-initiative-and-proactivity.md
 ```
 
-## Current evidence state
+## Phase 7.2A verdict
 
-- Source-upgrade draft v0.1 created.
-- Traditional action-orientation pattern retained provisionally.
-- Personal initiative defined as self-starting, future-oriented and purpose-driven action.
-- Initiative is separated from Leadership Style and ID-016 Impulse Control.
-- Universal self-starting, guaranteed entrepreneurship, success and scientific birth-number prediction claims are rejected.
+Retain Initiative and Proactivity as a primary traditional strength, but define it as responsible self-starting action rather than speed, constant action or unrestricted autonomy.
+
+Approved provisional core:
+
+> Moolank 1 tradition associates this number with a preference for self-directed action and beginning movement when others are waiting for direction. In a balanced expression, initiative combines purpose, anticipation, practical judgment, coordination and follow-through. Under pressure, the same action drive may become premature starts, overextension, role overreach or resistance to useful consultation. Scientific research does not establish that a birth number predicts proactive behaviour.
+
+## Evidence decisions locked
+
+- Broader Number 1 tradition independently repeats initiation, forward motion and pioneering themes.
+- Direct Moolank evidence remains contemporary and concentrated in a limited publisher set.
+- Initiative is not leadership, impulsivity, persistence, risk-taking, dominance, novelty-seeking or entrepreneurship.
+- Proactivity is not automatically beneficial; timing, knowledge, coordination and consequences matter.
+- Overextension and role overreach are conditional shadows, not universal Moolank 1 labels.
 - Canonical JSON is not yet approved.
 
-## Locked construct boundaries
+## Safe triggers and protective factors
 
-- Initiative is self-starting action; leadership additionally involves coordinating or influencing others.
-- Initiative includes purpose and adequate evaluation; impulsivity involves insufficient deliberation.
-- Initiative starts or shapes action; persistence continues action through obstacles.
-- Initiative does not require risk-taking, dominance, entrepreneurship or formal authority.
+Possible triggers include blocked progress, unclear ownership, waiting for direction, threatened autonomy, opportunity excitement, competition and frustration with consultation.
+
+Protective factors include clear purpose, minimum-information checks, role boundaries, concise consultation, realistic capacity review, revision rules and consequence checks.
 
 ## Recovery update
 
@@ -64,12 +75,11 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 
 ## Next actions
 
-1. Add an independent specialist or historical Number 1 source outside the current publisher family.
-2. Review premature action, role overreach, novelty-seeking and socially costly proactivity.
-3. Finalize triggers, protective factors and excluded claims.
-4. Upgrade evidence to v0.2 and complete Phase 7.2A.
-5. Begin Phase 7.2B boundary review only after source consolidation.
-6. Create canonical JSON only after final evidence approval.
+1. Finalize Initiative versus Persistence boundary.
+2. Decide whether overcommitment stays here or moves to planning/self-regulation.
+3. Lock manifestation areas and app-safe wording.
+4. Produce final evidence verdict v0.3.
+5. Begin Phase 7.2C canonical JSON and app integration only after boundary approval.
 
 ## Files to read at the start of every new chat
 
