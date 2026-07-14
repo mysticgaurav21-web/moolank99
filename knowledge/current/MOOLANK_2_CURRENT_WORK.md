@@ -4,7 +4,7 @@
 **Current Moolank:** 2
 
 ## Active objective
-Complete Phase 8.1C canonical v1.0 and app integration for `M2-R001 — Sensitivity and Receptivity` without changing Moolank 1 files or identifiers.
+Complete live API, UI and Render verification for `M2-R001 — Sensitivity and Receptivity`, then close Phase 8.1C and select the next roadmap trait without changing Moolank 1 files or identifiers.
 
 ## Latest completed research phase
 - Phase 8.0A foundation initialization merged through PR #16.
@@ -17,10 +17,10 @@ Complete Phase 8.1C canonical v1.0 and app integration for `M2-R001 — Sensitiv
 - Phase 8.1B boundary review merged through PR #37.
 
 ## Latest completed canonical phase
-None yet for Moolank 2. Phase 8.1C canonical v1.0 is active on `feature/m2-r001-canonical-integration`.
+Phase 8.1C canonical v1.0 and repository app integration merged through PR #39 after successful CI.
 
 ## Current active phase
-Phase 8.1C — M2-R001 Sensitivity and Receptivity Canonical v1.0 and App Integration.
+Phase 8.1C — Post-merge live deployment, API and UI verification.
 
 ## Current trait ID and name
 `M2-R001 — Sensitivity and Receptivity`
@@ -34,19 +34,20 @@ Locked definition: tradition associates Moolank 2 with responsiveness to emotion
 `knowledge/canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json`
 
 ## Blockers
-- Pull-request CI, merge and Render deployment verification are still pending.
-- API and UI verification must confirm that Moolank 2 returns and displays `M2-R001` after deployment.
+- PR #39 passed CI and was squash-merged as commit `9782bb661a2cb22e3a00e8882a92b2cde1e059ad`.
+- The public Render service URL is not stored in repository metadata or discoverable from the current repository files, so live deployment cannot yet be independently verified.
+- API and UI verification still require the deployed base URL to check `GET /api/knowledge/moolank/2`, reading API output and the Canonical Knowledge panel.
 - Traditional support remains moderate because only two verified direct contemporary publisher families are available.
 - GitHub Issue #29 remains open for a possible future evidence upgrade; it does not block canonical use at the documented moderate grade.
 
 ## Next action
-Open the Phase 8.1C pull request, verify TypeScript and production build through CI, merge only after success, then verify `GET /api/knowledge/moolank/2`, reading API output, Canonical Knowledge UI and Render deployment. After live verification, mark Phase 8.1C complete and select `M2-R002` from the reconstructed roadmap.
+Obtain the active Render base URL from the deployment dashboard or permanent repository documentation. Verify the Moolank 2 direct knowledge endpoint, reading API output and Canonical Knowledge UI against the merged main build. Record exact verification results in GitHub, mark Phase 8.1C complete, then select `M2-R002` from the reconstructed roadmap.
 
 ## App integration status
-Canonical JSON created and registered in `src/knowledge/index.ts`. Shared master index, project status and changelog are updated. CI/API/UI verification is pending.
+Canonical JSON is registered in `src/knowledge/index.ts`; `MASTER_INDEX.json`, `PROJECT_STATUS.md` and `CHANGELOG.md` were updated and merged through PR #39. GitHub CI TypeScript and production build checks passed. Live API and UI verification remains pending.
 
 ## Live deployment status
-Pending Phase 8.1C merge and Render deployment verification.
+Repository integration merged successfully. Render verification is blocked only by the absence of a known deployed base URL in the accessible project records.
 
 ## Files to read at the start of every new chat
 1. `knowledge/current/MOOLANK_2_CURRENT_WORK.md`
