@@ -2,6 +2,25 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.5.0] — 2026-07-14
+
+### Moolank 1 canonical knowledge
+
+- Added `M1-R004 Confidence and Self-Belief Canonical v1.0` and app registration.
+- Defined confidence as calibrated, evidence-sensitive and revisable self-trust rather than certainty, superiority or universal competence.
+- Added boundaries for self-efficacy, self-esteem, certainty, dominance, overconfidence, defensiveness, recognition sensitivity, leadership, autonomy and decision quality.
+- Added preparation, feedback, domain-boundary, second-opinion, error-checking and outcome-review safeguards.
+- Kept public-correction and status-threat responses conditional rather than universal.
+- Updated the master index, project status and current-work tracker.
+
+### App impact
+
+- Moolank 1 canonical loader now registers Leadership Style, Initiative and Proactivity, Independence and Autonomy, Confidence and Self-Belief, and Impulse Control.
+
+### Next action
+
+- Verify M1-R004 on Render and begin `M1-R005 Recognition and Status Sensitivity` research.
+
 ## [1.4.0] — 2026-07-14
 
 ### Moolank 1 canonical knowledge
