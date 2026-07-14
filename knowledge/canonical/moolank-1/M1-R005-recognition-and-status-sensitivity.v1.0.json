@@ -1,0 +1,167 @@
+{
+  "traitId": "M1-R005",
+  "moolank": 1,
+  "traitName": "Recognition and Status Sensitivity",
+  "slug": "recognition-and-status-sensitivity",
+  "version": "1.0",
+  "status": "canonical",
+  "classification": "secondary-traditional-tendency-with-conditional-shadow",
+  "primaryDomain": "recognition-and-fair-credit",
+  "canonicalDefinition": "Moolank 1 tradition may associate this number with visible contribution, respect and acknowledgment. In a balanced expression, recognition is valued as fair credit and useful feedback while motivation, cooperation and self-worth remain stable without constant praise. Under pressure, especially when contribution feels ignored or status feels reduced, the same sensitivity may become visibility competition, resentment, disproportionate credit-taking or dependence on approval. This is a secondary, lower-confidence traditional tendency rather than a universal trait.",
+  "corePattern": {
+    "trigger": "A situation involving acknowledgment, public credit, visibility, rank or evaluation",
+    "internalResponse": "Heightened attention to whether contribution and standing are being recognized fairly",
+    "behaviour": "Seeks clear attribution, respectful acknowledgment or visible ownership",
+    "possibleConsequence": "Constructive clarification and shared credit when balanced; resentment, status competition or disproportionate credit claims when threatened"
+  },
+  "balancedExpression": [
+    "Values accurate acknowledgment rather than empty praise",
+    "Appreciates proportionate credit for contribution",
+    "Recognizes others without feeling diminished",
+    "Separates respect from automatic agreement",
+    "Remains motivated when recognition is delayed",
+    "Communicates credit expectations directly",
+    "Accepts shared ownership in collaborative work",
+    "Contributes privately when the outcome matters",
+    "Does not equate low visibility with low worth",
+    "Shares credit and notices invisible work"
+  ],
+  "shadowExpression": [
+    "Feels overlooked when contribution is not publicly named",
+    "Interprets disagreement as disrespect",
+    "Competes for visibility beyond task needs",
+    "Takes disproportionate credit for shared outcomes",
+    "Withholds cooperation when acknowledgment seems absent",
+    "Resents another person receiving praise",
+    "Uses title or authority to protect standing",
+    "Prioritizes visible work over necessary low-visibility work",
+    "Minimizes others' contribution to preserve relative status",
+    "Relies increasingly on approval to sustain effort"
+  ],
+  "primaryTriggers": [
+    "Contribution omitted from public credit",
+    "Unclear ownership or role attribution",
+    "Another person receiving praise for shared work",
+    "Title loss, demotion or reduced visibility",
+    "Public disagreement interpreted as status loss",
+    "Repeated invisible or support work",
+    "Comparison with a highly visible peer",
+    "Leadership transition or fear of replacement",
+    "Inconsistent recognition standards",
+    "Praise-heavy environments"
+  ],
+  "internalDrivers": [
+    "Preference for fair acknowledgment",
+    "Desire for contribution to be visible and accurately attributed",
+    "Sensitivity to respect and public evaluation",
+    "Concern about reduced influence or standing",
+    "Motivation to preserve a coherent public role"
+  ],
+  "manifestationAreas": {
+    "workAndStudy": [
+      "May value visible ownership and accurate credit",
+      "May prioritize high-visibility tasks or contest attribution under pressure",
+      "Benefits from written ownership, contribution logs and shared-credit rules"
+    ],
+    "communication": [
+      "May respond well to direct acknowledgment and respectful feedback",
+      "May interpret omission or disagreement as disrespect under pressure",
+      "Benefits from separating content disagreement from status evaluation"
+    ],
+    "relationshipsAndHome": [
+      "May appreciate explicit recognition for effort and responsibility",
+      "May keep score or feel unseen under pressure",
+      "Benefits from direct requests and reciprocal appreciation"
+    ],
+    "leadershipAndTeamwork": [
+      "May be motivated by responsibility and visible contribution",
+      "May centralize credit or underrecognize support work under pressure",
+      "Benefits from team-credit rituals, dissent tolerance and transparent attribution"
+    ],
+    "publicRolesAndStatus": [
+      "May notice titles, visibility and public evaluation",
+      "May overinvest in rank or image under pressure",
+      "Benefits from contribution-based standards and identity outside status signals"
+    ]
+  },
+  "protectiveFactors": [
+    "Clear ownership and credit rules before work begins",
+    "Specific contribution-based acknowledgment",
+    "Shared-credit norms for collaborative outcomes",
+    "Transparent promotion, title and reward criteria",
+    "Regular recognition of invisible and support work",
+    "Rotating visible opportunities",
+    "Direct clarification before assuming disrespect",
+    "Outcome and learning goals alongside recognition goals",
+    "Separating personal worth from visibility and rank",
+    "Continuing meaningful effort when praise is delayed",
+    "Objective contribution records where accountability matters",
+    "Recognizing others as a leadership responsibility"
+  ],
+  "traitBoundaries": {
+    "confidence": "Confidence concerns perceived capability; recognition sensitivity concerns response to acknowledgment and public evaluation.",
+    "selfEsteem": "Valuing fair credit does not prove fragile self-esteem. Personal worth must not be made contingent on praise, rank or visibility.",
+    "ambition": "Ambition concerns achievement or advancement. Recognition may accompany ambition but does not define it.",
+    "dominance": "Seeking fair credit does not justify controlling others, suppressing dissent or claiming superior decision rights.",
+    "entitlement": "Entitlement assumes special treatment regardless of contribution or agreement; healthy recognition sensitivity asks for proportionate credit.",
+    "praiseDependence": "Recognition may matter without motivation or self-worth depending on repeated approval.",
+    "socialComparison": "Comparison may trigger recognition concerns but is not the same construct.",
+    "leadership": "Effective leadership requires sharing credit, recognizing invisible work and tolerating dissent.",
+    "disrespect": "Absent praise, disagreement or lower visibility do not automatically equal disrespect. Context and agreements matter."
+  },
+  "appCard": {
+    "strength": "Values fair acknowledgment and accurate credit for contribution.",
+    "shadow": "May compete for visibility or feel overlooked when credit and status seem unclear.",
+    "growthKey": "Clarify ownership, share credit and keep self-worth separate from praise, title and visibility."
+  },
+  "appSafeSummary": "Moolank 1 tradition may associate you with valuing visible contribution, fair credit and respectful acknowledgment. This tendency is most useful when recognition works as feedback rather than proof of worth. When ownership or status feels unclear, pause before assuming disrespect, clarify attribution directly and recognize shared or invisible work. Direct traditional support for this specific tendency is limited, so it should be read as a possibility rather than a fixed trait.",
+  "excludedClaims": [
+    "Every Moolank 1 person constantly seeks attention",
+    "Moolank 1 people require praise to function",
+    "Recognition sensitivity proves narcissism or a personality disorder",
+    "Wanting fair credit means entitlement",
+    "High status makes a person more capable or valuable",
+    "Lack of recognition always causes anger, withdrawal or retaliation",
+    "Moolank 1 people cannot work anonymously or share credit",
+    "Disagreement automatically means disrespect",
+    "Recognition guarantees loyalty, performance, success, fame or authority",
+    "Birth number scientifically predicts reward dependence, contingent self-worth, social comparison or status threat"
+  ],
+  "confidence": {
+    "traditionalSupportForVisibilityAndInfluence": "moderate-strong",
+    "directTraditionalSupportForRecognitionSensitivity": "weak-moderate",
+    "independentSpecialistBirthNumberConfirmation": "not-located",
+    "supportForUniversalPraiseDependence": "unsupported",
+    "psychologySupportForBoundaryConstructs": "strong-as-general-constructs",
+    "supportForEntitlementOrDominanceAsRecognition": "unsupported",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [
+    {
+      "sourceType": "numerology-tradition",
+      "publisher": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms",
+      "usage": "Supports visibility, ambition and influence themes; does not directly establish recognition sensitivity or praise dependence."
+    },
+    {
+      "sourceType": "numerology-comparison",
+      "publisher": "Allure",
+      "url": "https://www.allure.com/story/numerology-how-to-calculate-life-path-destiny-number",
+      "usage": "Broader Number 1 comparison for individuality and assertive visibility; not direct Moolank evidence."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "Review of General Psychology",
+      "url": "https://doi.org/10.1037/1089-2680.5.3.593",
+      "usage": "Supports contingent self-worth boundaries; does not validate a birth-number association."
+    },
+    {
+      "sourceType": "psychology",
+      "publisher": "Human Relations",
+      "url": "https://doi.org/10.1177/001872675400700202",
+      "usage": "Supports social-comparison boundaries; does not validate a birth-number association."
+    }
+  ],
+  "safetyNote": "This is a cautious, lower-confidence traditional numerology interpretation. It must not be presented as scientific proof, a diagnosis, entitlement, narcissism, guaranteed status, or a universal need for praise or attention.",
+  "lastReviewed": "2026-07-14"
+}

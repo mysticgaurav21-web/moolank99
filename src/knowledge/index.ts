@@ -3,6 +3,7 @@ import leadershipStyle from "../../knowledge/canonical/moolank-1/M1-R001-leaders
 import initiativeAndProactivity from "../../knowledge/canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json";
 import independenceAndAutonomy from "../../knowledge/canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json";
 import confidenceAndSelfBelief from "../../knowledge/canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json";
+import recognitionAndStatusSensitivity from "../../knowledge/canonical/moolank-1/M1-R005-recognition-and-status-sensitivity.v1.0.json";
 import sensitivityAndReceptivity from "../../knowledge/canonical/moolank-2/M2-R001-sensitivity-and-receptivity.v1.0.json";
 
 export interface CanonicalTrait {
@@ -52,6 +53,7 @@ const knowledgeByMoolank: Readonly<Record<number, readonly CanonicalTrait[]>> = 
     initiativeAndProactivity as CanonicalTrait,
     independenceAndAutonomy as CanonicalTrait,
     confidenceAndSelfBelief as CanonicalTrait,
+    recognitionAndStatusSensitivity as CanonicalTrait,
     impulseControl as CanonicalTrait
   ],
   2: [sensitivityAndReceptivity as CanonicalTrait]

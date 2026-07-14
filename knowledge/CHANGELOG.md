@@ -2,6 +2,26 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.7.0] — 2026-07-14
+
+### Moolank 1 canonical knowledge
+
+- Added `M1-R005 Recognition and Status Sensitivity Cautious Canonical v1.0` and app registration.
+- Classified it as `secondary-traditional-tendency-with-conditional-shadow` because direct recognition-specific traditional support is weak–moderate.
+- Defined the retained core around fair credit, respectful acknowledgment and visible contribution rather than attention-seeking, entitlement or praise dependence.
+- Added boundaries for confidence, self-esteem, ambition, dominance, entitlement, social comparison, leadership and disrespect interpretation.
+- Added shared-credit, invisible-work, transparent-attribution, delayed-praise and stable-self-worth safeguards.
+- Recorded that no independent specialist Birth Number confirmation was located and scientific evidence linking the construct to Moolank 1 is not established.
+
+### App impact
+
+- Moolank 1 canonical loader now registers M1-R001 through M1-R005 plus ID-016.
+- Moolank 2 loader registration for M2-R001 remains preserved.
+
+### Next action
+
+- Verify M1-R005 on Render and read the reconstructed roadmap before assigning the next Moolank 1 trait.
+
 ## [1.6.0] — 2026-07-14
 
 ### Moolank 2 canonical knowledge
