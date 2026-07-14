@@ -6,17 +6,43 @@ This directory stores the permanent, app-ready knowledge produced by the Moolank
 
 Research chats are working spaces. Only reviewed files inside `knowledge/canonical/` should be treated as final app content.
 
+For continuity across chats, always read `CURRENT_WORK.md` and `WORKFLOW.md` before starting or resuming a phase.
+
 ## Directory structure
 
 ```text
 knowledge/
 ├── canonical/       Final app-facing JSON records
 ├── evidence/        Research notes, sources and rejected claims
+├── imports/         Recovered old exports and roadmaps awaiting review
 ├── schema/          JSON validation schemas
+├── templates/       Evidence and canonical starter templates
 ├── MASTER_INDEX.json
 ├── PROJECT_STATUS.md
+├── CURRENT_WORK.md
+├── WORKFLOW.md
 └── CHANGELOG.md
 ```
+
+## Required operating sequence
+
+```text
+Research
+  ↓
+Evidence Markdown
+  ↓
+Canonical JSON
+  ↓
+Index + status + changelog
+  ↓
+App loader registration
+  ↓
+CI and pull request
+  ↓
+Render deployment verification
+```
+
+A phase is not complete merely because a chat answer exists. Follow the definition of done in `WORKFLOW.md`.
 
 ## How the app should use this data
 
