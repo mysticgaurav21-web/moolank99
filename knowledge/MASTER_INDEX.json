@@ -1,6 +1,6 @@
 {
   "project": "Moolank99 Knowledge Base",
-  "knowledgeVersion": "1.0.0",
+  "knowledgeVersion": "1.1.0",
   "status": "research-in-progress",
   "lastUpdated": "2026-07-14",
   "principles": {
@@ -14,15 +14,27 @@
       "status": "research-in-progress",
       "completedResearchPhases": [
         "6.15C — ID-013 Stress Response v1.2",
-        "6.16A — Fear Source Upgrade",
-        "6.16B — Fear Final Consolidation",
-        "6.17A — Anger Source Upgrade",
+        "6.16A — ID-014 Fear Source Upgrade",
+        "6.16B — ID-014 Fear Canonical v1.2",
+        "6.17A — ID-015 Anger Source Upgrade",
         "6.17B — Catharsis Review",
-        "6.17C — Anger Canonical v1.2",
+        "6.17C — ID-015 Anger Canonical v1.2",
         "6.18A — ID-016 Impulse Control Final Evidence Consolidation",
-        "6.18B — ID-016 Impulse Control Canonical v1.2"
+        "6.18B — ID-016 Impulse Control Canonical v1.2",
+        "7.1A — M1-R001 Leadership Style Source Upgrade",
+        "7.1B — M1-R001 Leadership Style Boundary Review",
+        "7.1C — M1-R001 Leadership Style Canonical v1.0"
       ],
       "canonicalTraits": [
+        {
+          "traitId": "M1-R001",
+          "name": "Leadership Style",
+          "version": "1.0",
+          "status": "canonical",
+          "classification": "primary-strength-with-conditional-shadow",
+          "canonicalFile": "canonical/moolank-1/M1-R001-leadership-style.v1.0.json",
+          "evidenceFile": "evidence/moolank-1/M1-R001-leadership-style.md"
+        },
         {
           "traitId": "ID-016",
           "name": "Impulse Control",
@@ -35,9 +47,9 @@
       ],
       "recoveryPending": [
         "Exact ID-013 canonical export",
-        "Exact Fear trait ID and canonical export",
-        "Exact Anger trait ID and canonical export",
-        "Master trait roadmap after ID-016"
+        "Exact ID-014 Fear canonical export",
+        "Exact ID-015 Anger canonical export",
+        "Original master trait roadmap after ID-016"
       ]
     }
   }
