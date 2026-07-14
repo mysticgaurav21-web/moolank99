@@ -21,6 +21,20 @@ let serverSource = await readFile(sourceUrl, "utf8");
 
 serverSource = replaceOnce(
   serverSource,
+  "deployment port",
+  "const PORT = 3000;",
+  'const PORT = Number.parseInt(process.env.PORT ?? "3000", 10);'
+);
+
+serverSource = replaceOnce(
+  serverSource,
+  "health endpoint",
+  "app.use(express.json());",
+  `app.use(express.json());\n\napp.get("/health", (_req, res) => {\n  res.status(200).json({ status: "ok" });\n});`
+);
+
+serverSource = replaceOnce(
+  serverSource,
   "knowledge loader import",
   'import { convertToHinglish } from "./src/utils/hinglish";',
   'import { convertToHinglish } from "./src/utils/hinglish";\nimport { getCanonicalTraits } from "./src/knowledge";'
