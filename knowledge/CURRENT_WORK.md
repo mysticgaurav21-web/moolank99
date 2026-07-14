@@ -4,77 +4,55 @@
 **Project:** Moolank99 Knowledge Base  
 **Current Moolank:** 1
 
-## Active objective
-
-Complete **Phase 7.1C — M1-R001 Leadership Style Canonical v1.0 drafting and app integration** after the final boundary review.
-
-## Roadmap decision
-
-The original long-chat roadmap could not be recovered. Work proceeds through the collision-safe reconstructed roadmap stored at:
-
-```text
-knowledge/RECONSTRUCTED_ROADMAP.md
-```
-
-New traits use the namespace `M1-R###`. This does not claim to reproduce the missing historical `ID-###` sequence.
-
-## Latest completed research step
-
-- Phase 7.1B — M1-R001 Leadership Style Boundary Review, final evidence verdict v0.3
-
 ## Latest completed canonical phase
 
+- Phase 7.1C — M1-R001 Leadership Style Canonical v1.0 and app registration
 - Phase 6.18B — ID-016 Impulse Control Canonical v1.2
 
-## Current active phase
+## Canonical traits currently registered
 
-- Phase 7.1C — M1-R001 Leadership Style Canonical v1.0 drafting and app integration
+1. M1-R001 — Leadership Style v1.0
+2. ID-016 — Impulse Control v1.2
 
-Approved evidence core:
+## Active objective
 
-> Moolank 1 tradition associates this number with a preference for creating direction, taking visible ownership, and moving a group toward action. Its balanced expression combines confidence with accountability, consultation, adaptability, and service to a shared objective. Under pressure—especially when autonomy, status, or visible control feels threatened—the same drive may become unilateral decision-making or overcontrol. Scientific research does not establish that a birth number predicts leadership.
+Begin **Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade**.
 
-Working evidence file:
+Research question:
 
-```text
-knowledge/evidence/moolank-1/M1-R001-leadership-style.md
-```
+> Do traditional Birth Number / Moolank 1 sources consistently support self-starting action and proactive behaviour, and how should initiative be separated from leadership, impulsivity, persistence, dominance, and risk-taking?
 
-## Boundary decisions locked
+## Leadership decisions locked
 
-- Leadership is not dominance.
-- Leadership is not formal authority.
-- Leadership is not charisma or extroversion.
-- Leadership is not status-seeking.
-- Leadership includes responsibility, coordination, and influence involving others.
-- Initiative and Proactivity remains a separate M1-R002 trait.
-- Healthy leadership may be participative, service-oriented, quiet, technical, or shared.
-- Authoritarian control is a conditional shadow, not a defining strength.
+- Leadership is an orientation or potential, not a guaranteed title or ability.
+- Balanced leadership combines direction with accountability, consultation, adaptability, and shared purpose.
+- Overcontrol and unilateral decision-making are conditional shadows.
+- Leadership is not dominance, authority, charisma, extroversion, status-seeking, or initiative.
+
+## Recovery update
+
+The uploaded historical export confirms:
+
+- ID-013 — Stress Response
+- ID-014 — Fear
+- ID-015 — Anger
+- ID-016 — Impulse Control
+
+Exact canonical JSON exports for ID-013, ID-014, and ID-015 still need recovery or careful reconstruction from saved evidence.
 
 ## Live app state
 
-- ID-016 canonical JSON is stored and registered.
-- Reading API returns canonical traits.
-- Gemini prompts use canonical grounding.
-- Canonical Knowledge panel is live on Render.
+- M1-R001 and ID-016 are registered in the canonical loader.
+- Reading API and Gemini grounding use registered canonical records.
+- Render auto-deploy should publish the new Leadership Style card after the main-branch build succeeds.
 - Live URL: `https://moolank99.onrender.com/`
-- M1-R001 remains evidence-stage until Phase 7.1C is merged and deployed.
 
-## Current development tasks
+## Next actions
 
-1. Draft `knowledge/canonical/moolank-1/M1-R001-leadership-style.v1.0.json`.
-2. Validate it against the canonical trait schema.
-3. Add M1-R001 to `knowledge/MASTER_INDEX.json`.
-4. Register the canonical JSON in `src/knowledge/index.ts`.
-5. Update `knowledge/PROJECT_STATUS.md` and `knowledge/CHANGELOG.md`.
-6. Run TypeScript validation and production build through CI.
-7. Merge the pull request.
-8. Verify M1-R001 on the Render Canonical Knowledge panel.
-9. Start M1-R002 Initiative and Proactivity only after deployment verification.
-
-## Recovery remains optional but useful
-
-If the old export is found later, store it under `knowledge/imports/` and compare it with the reconstructed roadmap. Existing reconstructed IDs must not be silently overwritten.
+1. Confirm CI/build for the Leadership Style integration.
+2. Verify M1-R001 on the Render Canonical Knowledge panel.
+3. Start M1-R002 Initiative and Proactivity evidence file.
+4. Keep Initiative separate from Leadership Style and Impulse Control.
 
 ## Files to read at the start of every new chat
 
