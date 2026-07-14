@@ -16,13 +16,17 @@
 2. M1-R002 — Initiative and Proactivity v1.0
 3. ID-016 — Impulse Control v1.2
 
+## Latest completed research step
+
+- Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade, evidence consolidation v0.2
+
 ## Active objective
 
-Complete **Phase 7.3A — M1-R003 Independence and Autonomy Source Upgrade**.
+Complete **Phase 7.3B — M1-R003 Independence and Autonomy Boundary Review**.
 
 Research question:
 
-> Do traditional Birth Number / Moolank 1 sources consistently support independence and autonomy, and how should healthy self-direction be separated from isolation, oppositional behaviour, control, low cooperation and refusal of advice?
+> How should responsible self-direction be separated from authority reactance, oppositional behaviour, stubbornness, avoidant help-seeking, isolation, dominance and unilateral decisions affecting others?
 
 Working evidence file:
 
@@ -30,23 +34,30 @@ Working evidence file:
 knowledge/evidence/moolank-1/M1-R003-independence-and-autonomy.md
 ```
 
-## Current evidence state
+## Phase 7.3A verdict
 
-- Source-upgrade draft v0.1 created.
-- Traditional independence, individuality and self-direction pattern retained provisionally.
-- Psychology bridge defines autonomy as self-endorsed choice, not isolation or refusal of support.
-- Healthy autonomy is compatible with cooperation, relatedness, expertise, help-seeking and interdependence.
-- Universal self-sufficiency, advice refusal, low cooperation and scientific birth-number prediction claims are rejected.
+Retain Independence and Autonomy as a primary traditional strength, but define it as responsible self-direction rather than isolation, automatic resistance or total self-sufficiency.
+
+Approved provisional core:
+
+> Moolank 1 tradition associates this number with a preference for self-direction, personal choice and visible ownership. In a balanced expression, autonomy combines independent judgment with accountability, cooperation, strategic help-seeking, openness to expertise and respect for shared obligations. Under pressure—especially when control feels imposed—the same drive may become rigid resistance, advice rejection, unilateral decisions or withdrawal from cooperation. Scientific research does not establish that a birth number predicts autonomy or authority reactance.
+
+## Evidence decisions locked
+
+- Autonomy means self-endorsed choice; it does not require acting alone.
+- Independence and autonomy overlap but are not identical.
+- Interdependence, relatedness, consultation and help-seeking can be freely chosen and autonomy-compatible.
+- Authority sensitivity belongs here only when the central issue is perceived loss of personal choice.
+- Psychological reactance is a general construct, not a scientifically established Moolank trait.
+- Resistance to rules, advice or authority is not automatically strength.
+- Unilateral decisions affecting others require consent, decision rights, coordination and accountability.
 - Canonical JSON is not yet approved.
 
-## Initial construct boundaries
+## Safe triggers and protective factors
 
-- Autonomy is responsible self-endorsed choice; isolation is reduced connection.
-- Independence concerns reduced reliance; autonomy may include freely chosen interdependence.
-- Autonomy is not stubbornness, dominance, control or opposition for its own sake.
-- Consultation and help-seeking do not automatically reduce autonomy.
-- Cooperation can be voluntary and autonomy-supportive.
-- Unilateral decisions affecting others require consent, coordination and accountability.
+Possible triggers include micromanagement, controlling language, unexplained restrictions, public correction, being overruled without explanation, pressure to comply immediately and fear of appearing dependent.
+
+Protective factors include meaningful choice, clear reasons, defined decision rights, respectful communication, time to consider advice, reliable support, shared-decision procedures and permission to revise decisions.
 
 ## Recovery update
 
@@ -69,13 +80,12 @@ Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recover
 
 ## Next actions
 
-1. Add an independent Birth Number or specialist Number 1 source outside the current publisher family.
-2. Review autonomy versus interdependence, help-seeking and authority sensitivity.
+1. Finalize autonomy versus authority reactance and legitimate rule-following.
+2. Review self-reliance versus avoidant help-seeking.
 3. Review overlap with Leadership Style and unilateral decision-making.
-4. Finalize triggers, protective factors and excluded claims.
-5. Upgrade evidence to v0.2 and complete Phase 7.3A.
-6. Begin Phase 7.3B boundary review only after source consolidation.
-7. Create canonical JSON only after final evidence approval.
+4. Lock manifestation areas and app-safe wording.
+5. Produce final evidence verdict v0.3.
+6. Begin Phase 7.3C canonical JSON and app integration only after boundary approval.
 
 ## Files to read at the start of every new chat
 
