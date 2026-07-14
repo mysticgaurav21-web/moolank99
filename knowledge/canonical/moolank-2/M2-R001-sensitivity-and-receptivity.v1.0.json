@@ -1,0 +1,132 @@
+{
+  "traitId": "M2-R001",
+  "moolank": 2,
+  "traitName": "Sensitivity and Receptivity",
+  "slug": "sensitivity-and-receptivity",
+  "version": "1.0",
+  "status": "canonical",
+  "classification": "primary-temperament-with-conditional-shadow",
+  "primaryDomain": "core-temperament",
+  "canonicalDefinition": "Tradition associates Moolank 2 with responsiveness to emotional, interpersonal and contextual cues, together with openness to feelings, feedback and other perspectives. In balanced expression, this may support attentive listening, thoughtful response and awareness of relational context. Under criticism, ambiguity or sustained emotional tension, heightened cue-monitoring may contribute to over-interpretation, overload, excessive accommodation or withdrawal. These pressure expressions are conditional, not universal, and scientific evidence linking this pattern to Moolank 2 is not established.",
+  "corePattern": {
+    "trigger": "Criticism, ambiguous communication, emotional tension, perceived disconnection or prolonged exposure to others' distress.",
+    "internalResponse": "Heightened attention to emotional, interpersonal and contextual cues, sometimes accompanied by uncertainty about their meaning.",
+    "behaviour": "Listening, reflection and consultation in balanced form; possible over-analysis, accommodation, indirect expression or withdrawal when strain is high and protective factors are limited.",
+    "possibleConsequence": "Nuanced response and relationship repair when balanced; possible overload, resentment or boundary strain when the pattern is overused."
+  },
+  "balancedExpression": [
+    "Attentive listening",
+    "Openness to feedback without automatic compliance",
+    "Awareness of emotional and relational context",
+    "Thoughtful and proportionate response",
+    "Receptivity combined with independent judgment",
+    "Sensitivity combined with clear boundaries",
+    "Recognition of subtle cues without assuming certainty"
+  ],
+  "shadowExpression": [
+    "May over-monitor tone, mood or approval signals under interpersonal strain",
+    "May interpret ambiguous cues as criticism or rejection when uncertainty is high",
+    "May experience overload in sustained high-conflict environments",
+    "May over-accommodate to preserve harmony when assertiveness or boundaries are limited",
+    "May develop delayed resentment after repeated self-silencing",
+    "May withdraw when direct expression feels unsafe",
+    "May take excessive responsibility for another person's feelings"
+  ],
+  "primaryTriggers": [
+    "Criticism or perceived disapproval",
+    "Emotional tension or unresolved conflict",
+    "Ambiguous communication",
+    "Rapid social or environmental change",
+    "Feeling ignored, excluded or misunderstood",
+    "Prolonged exposure to others' distress",
+    "Pressure to decide before enough contextual information is processed"
+  ],
+  "internalDrivers": [
+    "Desire to understand emotional and relational context",
+    "Preference for preserving connection and reducing unnecessary friction",
+    "Need for sufficient information before interpreting or responding",
+    "Sensitivity to the possible impact of words and actions on others"
+  ],
+  "manifestationAreas": {
+    "workAndLeadership": [
+      "May notice team mood and interpersonal friction early",
+      "May contribute through listening, support and context-sensitive coordination",
+      "May need clear decision rights and boundaries to avoid over-accommodation"
+    ],
+    "communication": [
+      "May prefer careful listening and tactful response",
+      "May benefit from checking interpretations before acting on ambiguous cues",
+      "May need direct-expression practice when tension is high"
+    ],
+    "relationships": [
+      "May value emotional responsiveness and mutual consideration",
+      "May need boundaries that separate empathy from responsibility for another person's emotions",
+      "May benefit from addressing concerns before resentment accumulates"
+    ],
+    "decisionsAndCommitments": [
+      "May seek contextual or interpersonal information before deciding",
+      "May benefit from time limits, independent judgment and explicit stopping rules",
+      "Receptivity to advice does not require agreement or compliance"
+    ]
+  },
+  "protectiveFactors": [
+    "Assertiveness skills",
+    "Explicit interpersonal boundaries",
+    "Direct but tactful communication",
+    "Independent decision practice",
+    "Emotion labelling and regulation",
+    "Checking interpretations against observable facts",
+    "Tolerance for respectful disagreement",
+    "Recovery time after emotionally demanding settings",
+    "Separating empathy from responsibility for everyone else's emotions",
+    "Self-trust and permission to say no"
+  ],
+  "traitBoundaries": {
+    "emotionalInstability": "Sensitivity concerns noticing and responding to cues; it does not imply disorder, dysfunction or uncontrolled mood.",
+    "passivity": "Receptivity is openness to information and perspectives; passivity concerns reduced direct action or self-advocacy and requires separate evidence.",
+    "emotionalAwareness": "Sensitivity is responsiveness to cues; emotional awareness is the ability to identify and understand emotions. They may overlap but are not identical.",
+    "empathy": "Sensitivity may involve noticing cues; empathy involves understanding or sharing another person's perspective or feeling. Sensitivity does not guarantee empathy.",
+    "cooperation": "Receptivity is openness; cooperation is coordinated action. A person may be receptive without agreeing or cooperating.",
+    "peoplePleasing": "Receptivity allows input while preserving choice; people-pleasing involves over-accommodation, often under feared disapproval.",
+    "emotionalReactivity": "Sensitivity concerns cue detection and responsiveness; emotional reactivity concerns the intensity or speed of emotional response and requires separate review.",
+    "conflictAvoidance": "Sensitivity may increase awareness of tension, but conflict avoidance is a behavioural strategy and must not be inferred automatically.",
+    "paranormalCertainty": "App-safe intuition refers to impressions, pattern recognition or awareness of subtle cues; it does not imply supernatural knowledge or guaranteed prediction."
+  },
+  "excludedClaims": [
+    "Every Moolank 2 person is weak, shy, passive, dependent or unable to lead",
+    "Moolank 2 causes depression, suicidality, psychiatric vulnerability or emotional instability",
+    "Moolank 2 guarantees psychic ability, healing ability or supernatural knowledge",
+    "Moolank 2 determines relationship failure, betrayal, career suitability or inability to work independently",
+    "Sensitivity or receptivity is scientifically predicted by birth number",
+    "Conditional pressure patterns are universal or fixed"
+  ],
+  "appSafeSummary": "Tradition associates Moolank 2 with sensitivity to emotional and interpersonal context and receptivity to feedback and other perspectives. In balanced form, this may support thoughtful listening and nuanced response. Under sustained tension or ambiguity, the same orientation may contribute to over-interpretation, overload or over-accommodation, especially when boundaries and assertiveness are limited. This is conditional, not universal, and is not scientifically established as a birth-number effect.",
+  "appCard": {
+    "strength": "Attentive, context-aware responsiveness",
+    "shadow": "May over-read cues or over-accommodate under strain",
+    "growthKey": "Pair receptivity with boundaries, direct communication and independent judgment"
+  },
+  "confidence": {
+    "numerologyTraditionSupport": "moderate",
+    "supportForNarrowClaim": "moderate",
+    "supportForGeneralizedClaim": "unsupported",
+    "scientificEvidenceForConstruct": "general psychological constructs exist, depending on the specific construct and measure",
+    "scientificEvidenceLinkingConstructToMoolank": "not-established"
+  },
+  "sourceReferences": [
+    {
+      "sourceType": "internal-evidence-record",
+      "publisher": "Moolank99 Knowledge Base",
+      "url": "knowledge/evidence/moolank-2/M2-R001-sensitivity-and-receptivity.md",
+      "usage": "Traditional source audit, boundary review, conditional trigger model, protective factors and excluded claims"
+    },
+    {
+      "sourceType": "internal-roadmap-evidence",
+      "publisher": "Moolank99 Knowledge Base",
+      "url": "knowledge/evidence/moolank-2/M2-ROADMAP-foundation.md",
+      "usage": "Roadmap-level source-family comparison and trait selection rationale"
+    }
+  ],
+  "safetyNote": "This content describes a traditional numerology interpretation and must not be presented as a psychological, psychiatric or medical diagnosis. Scientific evidence linking sensitivity or receptivity to Moolank 2 is not established.",
+  "lastReviewed": "2026-07-14"
+}
