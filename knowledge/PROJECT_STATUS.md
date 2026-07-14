@@ -18,6 +18,15 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ Phase 6.18A — ID-016 Impulse Control Final Evidence Consolidation
 - ✅ Phase 6.18B — ID-016 Impulse Control Canonical v1.2
 
+## Application integration
+
+- ✅ Canonical JSON loader added at `src/knowledge/index.ts`
+- ✅ Reading API returns `canonicalTraits`
+- ✅ Gemini prompt is grounded with available canonical records
+- ✅ Direct endpoint added: `GET /api/knowledge/moolank/:number`
+- ✅ TypeScript JSON imports enabled
+- ✅ CI validates type checking and production builds
+
 ## Canonical files currently stored
 
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
@@ -39,7 +48,7 @@ These records must not be recreated from memory or guessed. They should be impor
 
 ## Current next step
 
-Recover the prior conversation export or roadmap, confirm the exact next trait ID, and continue the source-upgrade research sequence.
+Recover the prior conversation export or roadmap, confirm the exact next trait ID, and continue the source-upgrade research sequence. New canonical traits can then be added to `src/knowledge/index.ts` and will automatically flow into the API and Gemini grounding.
 
 ## Data policy
 
