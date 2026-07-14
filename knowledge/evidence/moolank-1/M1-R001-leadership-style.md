@@ -1,18 +1,18 @@
 # M1-R001 — Leadership Style Evidence Record
 
 **Moolank:** 1  
-**Status:** Evidence consolidation v0.2  
-**Phase:** 7.1A — Source Upgrade  
+**Status:** Final evidence verdict v0.3  
+**Phase:** 7.1B — Boundary Review  
 **Roadmap type:** Reconstructed; not recovered from the original long chat  
 **Last reviewed:** 14 July 2026
 
 ## Research question
 
-Do traditional Birth Number / Moolank 1 sources consistently support a leadership orientation, and what distinguishes balanced leadership from dominance, unilateral control, status-seeking, initiative, authority, or mere decisiveness?
+Do traditional Birth Number / Moolank 1 sources consistently support a leadership orientation, and what distinguishes balanced leadership from dominance, unilateral control, status-seeking, initiative, authority, decisiveness, charisma, or formal position?
 
 ## Working definition
 
-Leadership style describes how a person attempts to create direction, influence decisions, coordinate action, accept responsibility, and mobilize others toward a shared objective. It is not identical to holding a title, being dominant, speaking loudly, acting first, or making fast decisions.
+Leadership style describes how a person attempts to create direction, influence decisions, coordinate action, accept responsibility, and mobilize others toward a shared objective. It is not identical to holding a title, speaking loudly, acting first, controlling others, or making fast decisions.
 
 ## Scope rule
 
@@ -20,14 +20,12 @@ This record concerns **Birth Number / Moolank 1**, calculated from the day of bi
 
 ## Traditional numerology evidence
 
-### Repeated pattern
-
-Contemporary Moolank descriptions repeatedly associate Moolank 1 with the Sun and with leadership, confidence, ambition, influence, individuality, determination, and trailblazing action. The repeated pattern is strong enough to retain **leadership orientation** as a central traditional association.
+Contemporary Moolank descriptions repeatedly associate Moolank 1 with the Sun and with leadership, confidence, ambition, influence, individuality, determination, and trailblazing action. This repeated pattern is sufficient to retain **leadership orientation** as a central traditional association.
 
 ### Sources reviewed
 
 1. **Times of India — “What your Moolank says about you”**  
-   Explicitly describes Moolank 1 as Sun-ruled and associates it with leadership, ambition, confidence, and influence.  
+   Describes Moolank 1 as Sun-ruled and associates it with leadership, ambition, confidence, and influence.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/what-your-moolank-says-about-you-discover-the-hidden-power-of-your-birth-number/photostory/124756262.cms
 
 2. **Times of India — “Sun-ruled souls: The power and purpose of Mulank 1”**  
@@ -35,77 +33,104 @@ Contemporary Moolank descriptions repeatedly associate Moolank 1 with the Sun an
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/sun-ruled-souls-the-power-and-purpose-of-mulank-1-in-numerology/articleshow/124941397.cms
 
 3. **Times of India — “Your biggest life lesson according to your birth date”**  
-   Associates the Number 1 birth-date group with leadership and frames humility as a corrective needed for effective leadership, supporting a balanced-versus-ego distinction.  
+   Associates the Number 1 birth-date group with leadership and frames humility as a corrective needed for effective leadership.  
    URL: https://timesofindia.indiatimes.com/astrology/numerology-tarot/your-biggest-life-lesson-according-to-your-birth-date/photostory/132306357.cms
 
 ### Source-quality limitation
 
-The three accessible Moolank-specific sources are popular spiritual/numerology publications rather than historical primary texts or scientific studies, and two are from the same publication family. They establish a repeated contemporary tradition claim, not scientific validity. Additional independent specialist or historical sources remain desirable before final confidence is raised above moderate–strong.
+The accessible Moolank-specific material is contemporary spiritual/numerology publishing rather than historical primary text or scientific evidence. It establishes a repeated tradition claim, not scientific validity.
 
-## Psychology and leadership-science bridge
+## Leadership-science bridge
 
-Psychology is used only to define leadership boundaries and safe wording. It does **not** validate a relationship between date of birth and leadership.
+Psychology is used only to define construct boundaries and safe wording. It does **not** validate any causal or predictive relationship between date of birth and leadership.
 
-### Leadership is multidimensional
+Leadership research treats emergence and effectiveness as multidimensional and contextual. Personality, cognitive ability, motives, expertise, social skill, behavior, follower perceptions, team structure, and situation all matter. No single characteristic supports a universal “born leader” claim.
 
-Modern leadership research does not support a simple “born leader” rule. Reviews and meta-analyses show that leadership emergence and effectiveness relate to combinations of personality, cognitive ability, motives, social skills, expertise, behavior, and context. Traits may contribute, but no single characteristic guarantees effective leadership.
+Relevant research traditions include:
 
-Relevant research:
-
-- Judge, Bono, Ilies, and Gerhardt, **“Personality and Leadership: A Qualitative and Quantitative Review,”** Journal of Applied Psychology (2002). The meta-analysis found personality associations with leadership, especially extraversion, while effect sizes did not imply destiny or certainty.
-- Zaccaro, **“Trait-Based Perspectives of Leadership,”** American Psychologist (2007). Leadership is better understood through integrated patterns of attributes and situational demands than through one isolated trait.
-- Badura, Galvin, and Lee, **“Leadership Emergence: An Integrative Review,”** Journal of Applied Psychology (2022). Leadership emergence depends on individual behavior, follower perceptions, group processes, and context.
-
-### Emergence is not effectiveness
-
-A person can be perceived as a leader or become influential without leading well. Speaking more, appearing confident, asserting opinions, or occupying a visible role may increase leadership emergence, but these signals do not automatically establish judgment, ethics, collaboration, or effectiveness.
-
-### Initiative is related but separate
-
-Personal initiative is self-starting, future-oriented action that persists through barriers. Leadership additionally requires influence, coordination, responsibility, or direction involving others. Therefore **M1-R002 Initiative and Proactivity** should remain a separate trait rather than being absorbed into Leadership Style.
-
-Relevant construct source:
-
+- Judge, Bono, Ilies, and Gerhardt, **“Personality and Leadership: A Qualitative and Quantitative Review,”** Journal of Applied Psychology (2002).
+- Zaccaro, **“Trait-Based Perspectives of Leadership,”** American Psychologist (2007).
+- Badura, Galvin, and Lee, **“Leadership Emergence: An Integrative Review,”** Journal of Applied Psychology (2022).
 - Frese and Fay, **“Personal Initiative: An Active Performance Concept for Work in the 21st Century,”** Research in Organizational Behavior (2001).
+- Nicolaides et al., **“The Shared Leadership of Teams: A Meta-Analysis of Proximal, Distal, and Moderating Relationships,”** The Leadership Quarterly (2014).
+- Eva et al., **“Servant Leadership: A Systematic Review and Call for Future Research,”** The Leadership Quarterly (2019).
 
-## Evidence synthesis
+## Phase 7.1B style-boundary review
 
-### Supported traditional core
+### Authoritarian or autocratic leadership
 
-Moolank 1 is traditionally portrayed as more comfortable initiating direction, acting independently, taking visible responsibility, and influencing a group toward a chosen objective.
+Authoritarian leadership centralizes decisions, limits follower input, and emphasizes compliance. It may sometimes increase speed or clarity under urgent, highly structured, or safety-critical conditions, but repeated unilateral control is not equivalent to healthy leadership.
 
-### What may reasonably be retained
+**Canonical implication:** decisiveness may be a strength, but control, coercion, humiliation, and dismissal of input must remain shadow patterns rather than leadership strengths.
 
-- preference for taking the lead when direction is absent;
-- willingness to initiate and make responsibility visible;
-- comfort with autonomy and self-direction;
-- tendency to communicate purpose with confidence;
-- potential to organize momentum around a goal;
-- potential to prefer ownership over passive followership.
+### Participative leadership
 
-### What must remain conditional
+Participative leadership combines direction with consultation, invites relevant input, and preserves accountability for the final decision. It offers the clearest model for balanced M1-R001 wording because it retains confidence and momentum without silencing contributors.
 
-- whether others accept the person's leadership;
-- whether the person leads collaboratively or unilaterally;
-- whether confidence becomes overcontrol;
-- whether initiative is matched by listening and judgment;
-- whether formal authority is obtained;
-- whether leadership produces effective outcomes.
+**Canonical implication:** balanced leadership should include listening, consultation, explanation, and willingness to revise.
+
+### Servant leadership
+
+Servant leadership emphasizes stewardship, follower development, service, and ethical use of influence. It prevents leadership from being reduced to personal visibility, rank, or control.
+
+**Canonical implication:** healthy Moolank 1 leadership should use authority in service of a shared objective and develop others rather than creating dependency.
+
+### Shared or distributed leadership
+
+Shared leadership allows leadership functions to move among capable team members rather than remaining concentrated in one person. Research links coordinated shared leadership with team confidence and performance, while fragmented or competitive multiple-leader structures can create confusion.
+
+**Canonical implication:** leadership orientation does not require permanent control. A mature leader can share ownership, recognize expertise, and step back when another person is better placed to lead.
+
+## Final construct boundaries
+
+### Leadership vs dominance
+
+Leadership coordinates people toward an objective and accepts responsibility for outcomes. Dominance concerns status, visibility, control, or influence and can occur without constructive direction.
+
+### Leadership vs initiative
+
+Initiative is self-starting action. Leadership additionally requires influence, coordination, responsibility, or direction involving other people. **M1-R002 Initiative and Proactivity remains separate.**
+
+### Leadership vs decisiveness
+
+Decisiveness is timely commitment to a choice. Leadership includes how the choice is framed, communicated, implemented, reviewed, and owned with others.
+
+### Leadership vs authority
+
+Authority is a formal role or power position. Leadership can occur without formal authority, and authority can exist without effective leadership.
+
+### Leadership vs charisma or extroversion
+
+Visible confidence may affect leader perception, but charisma and extroversion are not required for every form of effective leadership. Quiet, technical, relational, and distributed leadership remain valid.
+
+### Leadership vs status-seeking
+
+Status-seeking prioritizes rank, admiration, or being seen as important. Leadership prioritizes direction, responsibility, coordination, and outcomes. Desire for recognition must not be treated as proof of leadership ability.
 
 ## Balanced expression
 
 - Creates direction when a group lacks clarity.
-- Takes initiative while still gathering relevant input.
-- Accepts ownership for decisions and outcomes.
+- Takes visible ownership without claiming all credit.
+- Gathers relevant input before commitment when time permits.
 - Communicates confidence without silencing disagreement.
+- Explains decisions and accepts responsibility for outcomes.
 - Protects momentum while adapting to new evidence.
 - Develops capable contributors rather than creating dependency.
+- Shares leadership when another person has stronger expertise.
 - Uses authority in service of a shared objective.
-- Shares recognition and accepts accountability.
 
 ## Conditional shadow expression
 
-The shadow is not universal. It becomes more plausible when confidence is combined with threatened autonomy, status sensitivity, impatience, weak listening, or pressure to remain visibly in control.
+The shadow is not universal. It becomes more plausible when leadership drive combines with:
+
+- threatened autonomy;
+- pressure to appear certain or remain visibly in control;
+- impatience with consultation;
+- status or recognition sensitivity;
+- fear that disagreement will weaken authority;
+- overconfidence after prior success;
+- weak listening or low trust in others;
+- urgent conditions being generalized into a permanent command style.
 
 Possible shadow patterns:
 
@@ -116,29 +141,8 @@ Possible shadow patterns:
 - treating disagreement as disloyalty or incompetence;
 - seeking visible authority without equal accountability;
 - over-directing situations that require collaboration;
-- defending status instead of revising a poor decision.
-
-## Construct boundaries
-
-### Leadership vs dominance
-
-Leadership coordinates people toward an objective and includes responsibility for outcomes. Dominance concerns status, control, visibility, or influence and can occur without constructive direction. Dominance must not be used as a synonym for leadership.
-
-### Leadership vs initiative
-
-Initiative is self-starting action. Leadership additionally involves influence, coordination, responsibility, or direction involving other people. These remain separate roadmap traits.
-
-### Leadership vs decisiveness
-
-Decisiveness is timely commitment to a choice. Leadership includes how a choice is framed, communicated, implemented, reviewed, and owned with others.
-
-### Leadership vs authority
-
-Authority is a formal role or power position. Leadership can occur without formal authority, and formal authority can exist without effective leadership.
-
-### Leadership vs charisma or extroversion
-
-Visible confidence or frequent speaking can affect leader perception, but neither charisma nor extroversion is required for every form of effective leadership. Quiet, technical, relational, or distributed leadership must not be excluded.
+- defending status instead of revising a poor decision;
+- failing to share leadership with better-qualified contributors.
 
 ## Claims rejected
 
@@ -147,7 +151,8 @@ Visible confidence or frequent speaking can affect leader perception, but neithe
 - Moolank 1 guarantees authority, fame, wealth, entrepreneurship, or political power.
 - Moolank 1 people are always dominant, extroverted, charismatic, socially skilled, or admired.
 - Leadership ability can be scientifically inferred from date of birth.
-- A leadership orientation excuses controlling, authoritarian, humiliating, or coercive behavior.
+- A leadership orientation excuses authoritarian, coercive, humiliating, or controlling behavior.
+- Effective leadership always requires one central leader.
 - Followers are inherently weaker than leaders.
 
 ## Confidence grading
@@ -159,22 +164,18 @@ Visible confidence or frequent speaking can affect leader perception, but neithe
 | Evidence that every Moolank 1 person becomes a leader | Unsupported |
 | Evidence that Moolank 1 predicts effective leadership | Unsupported |
 | Psychology support for leadership as multidimensional and contextual | Strong |
-| Psychology support for separating leadership from initiative/dominance/authority | Strong |
+| Support for separating leadership from initiative/dominance/authority/status | Strong |
+| Support for consultation, service, and shared ownership as healthy boundaries | Strong |
 | Scientific evidence linking birth number to leadership | Not established |
 
-## Phase 7.1A provisional verdict
+## Final evidence verdict
 
-**Retain Leadership Style as a primary traditional strength, but phrase it as an orientation or potential—not a guaranteed role or ability.**
+**Retain M1-R001 Leadership Style as a primary traditional strength, phrased as an orientation or potential rather than a guaranteed role, title, or ability.**
 
-The safest core is:
+Safe final core:
 
-> Moolank 1 tradition associates this number with a preference for creating direction, taking visible ownership, and initiating action. Its balanced expression combines confidence with accountability, listening, and service to a shared objective. Under pressure, the same drive may become unilateral control or status-defensiveness. Scientific research does not establish that a birth number predicts leadership.
+> Moolank 1 tradition associates this number with a preference for creating direction, taking visible ownership, and moving a group toward action. Its balanced expression combines confidence with accountability, consultation, adaptability, and service to a shared objective. Under pressure—especially when autonomy, status, or visible control feels threatened—the same drive may become unilateral decision-making or overcontrol. Scientific research does not establish that a birth number predicts leadership.
 
-## Remaining work before canonical JSON
+## Canonical decision
 
-1. Add at least one independent specialist or historical numerology source outside the current publication family.
-2. Run a focused contradiction review on authoritarian, participative, servant, and shared leadership.
-3. Confirm that Initiative remains separate as M1-R002.
-4. Finalize trigger language for the conditional shadow.
-5. Produce Phase 7.1B boundary review and final evidence verdict.
-6. Create canonical JSON only after that review is complete.
+Phase 7.1B boundary review is complete. M1-R001 is approved to move to **Phase 7.1C — Canonical v1.0 drafting and app integration**, subject to schema validation, master-index update, loader registration, CI, and Render verification.
