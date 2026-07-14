@@ -2,6 +2,27 @@
 
 All notable changes to the Moolank99 canonical knowledge base are recorded here.
 
+## [1.6.0] — 2026-07-14
+
+### Moolank 2 canonical knowledge
+
+- Added `M2-R001 Sensitivity and Receptivity Canonical v1.0` and app registration.
+- Defined sensitivity as responsiveness to emotional, interpersonal and contextual cues, and receptivity as openness to feelings, feedback and other perspectives.
+- Added boundaries from emotional instability, passivity, emotional awareness, empathy, cooperation, people-pleasing, emotional reactivity, conflict avoidance and paranormal certainty.
+- Required contextual triggers and limited protective factors for all shadow wording.
+- Added assertiveness, boundaries, direct communication, interpretation checks, independent judgment and recovery safeguards.
+- Kept tradition-level support at moderate and recorded that scientific evidence linking the construct to Moolank 2 is not established.
+- Updated the master index, project status, changelog, loader and Moolank 2 current-work tracker.
+
+### App impact
+
+- Moolank 2 canonical loader now registers `M2-R001 Sensitivity and Receptivity`.
+- The existing canonical API and UI can now return the first Moolank 2 canonical record after CI, merge and deployment.
+
+### Next action
+
+- Complete CI, merge and Render verification for Phase 8.1C, then select `M2-R002` from the reconstructed roadmap.
+
 ## [1.5.0] — 2026-07-14
 
 ### Moolank 1 canonical knowledge
