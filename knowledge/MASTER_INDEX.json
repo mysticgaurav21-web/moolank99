@@ -1,6 +1,6 @@
 {
   "project": "Moolank99 Knowledge Base",
-  "knowledgeVersion": "1.3.0",
+  "knowledgeVersion": "1.4.0",
   "status": "research-in-progress",
   "lastUpdated": "2026-07-14",
   "principles": {
@@ -26,7 +26,10 @@
         "7.1C — M1-R001 Leadership Style Canonical v1.0",
         "7.2A — M1-R002 Initiative and Proactivity Source Upgrade",
         "7.2B — M1-R002 Initiative and Proactivity Boundary Review",
-        "7.2C — M1-R002 Initiative and Proactivity Canonical v1.0"
+        "7.2C — M1-R002 Initiative and Proactivity Canonical v1.0",
+        "7.3A — M1-R003 Independence and Autonomy Source Upgrade",
+        "7.3B — M1-R003 Independence and Autonomy Boundary Review",
+        "7.3C — M1-R003 Independence and Autonomy Canonical v1.0"
       ],
       "canonicalTraits": [
         {
@@ -46,6 +49,15 @@
           "classification": "primary-strength-with-conditional-shadow",
           "canonicalFile": "canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json",
           "evidenceFile": "evidence/moolank-1/M1-R002-initiative-and-proactivity.md"
+        },
+        {
+          "traitId": "M1-R003",
+          "name": "Independence and Autonomy",
+          "version": "1.0",
+          "status": "canonical",
+          "classification": "primary-strength-with-conditional-shadow",
+          "canonicalFile": "canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json",
+          "evidenceFile": "evidence/moolank-1/M1-R003-independence-and-autonomy.md"
         },
         {
           "traitId": "ID-016",
