@@ -16,6 +16,7 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - ✅ Phase 7.1A–C — M1-R001 Leadership Style evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.2A–C — M1-R002 Initiative and Proactivity evidence, boundary review and Canonical v1.0
 - ✅ Phase 7.3A–C — M1-R003 Independence and Autonomy evidence, boundary review and Canonical v1.0
+- ✅ Phase 7.4A–C — M1-R004 Confidence and Self-Belief evidence, boundary review and Canonical v1.0
 
 ## Application integration
 
@@ -32,6 +33,7 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - `canonical/moolank-1/M1-R001-leadership-style.v1.0.json`
 - `canonical/moolank-1/M1-R002-initiative-and-proactivity.v1.0.json`
 - `canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json`
+- `canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json`
 - `canonical/moolank-1/ID-016-impulse-control.v1.2.json`
 
 ## Moolank 1 evidence files currently stored
@@ -39,22 +41,16 @@ Moolank99 is being developed as a knowledge-first numerology self-awareness appl
 - `evidence/moolank-1/M1-R001-leadership-style.md`
 - `evidence/moolank-1/M1-R002-initiative-and-proactivity.md`
 - `evidence/moolank-1/M1-R003-independence-and-autonomy.md`
+- `evidence/moolank-1/M1-R004-confidence-and-self-belief.md`
 - `evidence/moolank-1/ID-016-impulse-control.md`
 
 ## Historical recovery state
 
-The uploaded export confirms the historical mapping:
-
-- ID-013 — Stress Response
-- ID-014 — Fear
-- ID-015 — Anger
-- ID-016 — Impulse Control
-
-Exact final canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery-pending. They must not be recreated from memory or silently replaced by reconstructed IDs.
+The uploaded export confirms the historical mapping: ID-013 Stress Response, ID-014 Fear, ID-015 Anger and ID-016 Impulse Control. Exact final canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery-pending and must not be recreated from memory.
 
 ## Current Moolank 1 next step
 
-Verify M1-R003 on Render, then begin Phase 7.4A — `M1-R004 Confidence and Self-Belief Source Upgrade` using the reconstructed collision-safe namespace.
+Verify M1-R004 on Render, then begin Phase 7.5A — `M1-R005 Recognition and Status Sensitivity Source Upgrade` using the reconstructed collision-safe namespace.
 
 ## Data policy
 

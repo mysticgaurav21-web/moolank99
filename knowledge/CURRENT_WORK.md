@@ -6,6 +6,7 @@
 
 ## Latest completed canonical phase
 
+- Phase 7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0 and app registration
 - Phase 7.3C — M1-R003 Independence and Autonomy Canonical v1.0 and app registration
 - Phase 7.2C — M1-R002 Initiative and Proactivity Canonical v1.0 and app registration
 - Phase 7.1C — M1-R001 Leadership Style Canonical v1.0 and app registration
@@ -16,82 +17,45 @@
 1. M1-R001 — Leadership Style v1.0
 2. M1-R002 — Initiative and Proactivity v1.0
 3. M1-R003 — Independence and Autonomy v1.0
-4. ID-016 — Impulse Control v1.2
-
-## Latest completed research step
-
-- Phase 7.4B — M1-R004 Confidence and Self-Belief Boundary Review, final evidence verdict v0.3
+4. M1-R004 — Confidence and Self-Belief v1.0
+5. ID-016 — Impulse Control v1.2
 
 ## Active objective
 
-Complete **Phase 7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0 and app integration**.
+Begin **Phase 7.5A — M1-R005 Recognition and Status Sensitivity Source Upgrade** after deployment verification.
 
-Approved evidence core:
+Research question:
 
-> Moolank 1 tradition associates this number with visible self-assurance and trust in personal judgment. In a balanced expression, confidence combines realistic preparation, evidence-sensitive self-belief, openness to feedback and willingness to revise. Under pressure—especially when status or competence feels exposed—the same drive may become exaggerated certainty, defensiveness, underpreparation or resistance to correction. Scientific research does not establish that a birth number predicts confidence, self-efficacy, calibration or performance.
+> Do traditional Birth Number / Moolank 1 sources consistently support a preference for recognition, visibility or respect, and how should this be separated from confidence, self-esteem, ambition, dominance, entitlement and dependence on praise?
 
-Working evidence file:
+## M1-R004 decisions locked
 
-```text
-knowledge/evidence/moolank-1/M1-R004-confidence-and-self-belief.md
-```
-
-Planned canonical file:
-
-```text
-knowledge/canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json
-```
-
-## Boundary decisions locked
-
-- Confidence is context-sensitive and domain-sensitive self-belief, not universal competence.
+- Confidence means calibrated, evidence-sensitive and revisable self-trust.
 - Self-efficacy is task-specific; self-esteem concerns general self-worth.
-- Confidence permits uncertainty, feedback and revision.
-- Certainty, dominance, loudness and control do not prove confidence.
-- Overconfidence includes overestimation, overplacement or overprecision.
-- Defensiveness protects image or status by rejecting information and is not stronger confidence.
-- Public correction is only a possible trigger, not a universal reaction.
+- Certainty, dominance, loudness and universal competence do not prove confidence.
+- Overconfidence may involve overestimation, overplacement or overprecision.
+- Defensive confidence is conditional and may be triggered by public correction or status threat.
+- Decision quality requires evidence, alternatives and consequence review.
 - Recognition/status sensitivity remains a separate future trait.
-- A confident decision may still be wrong; decision quality requires evidence, alternatives and consequence review.
 - Birth number does not scientifically predict confidence, calibration or performance.
-
-## Canonical requirements
-
-- Use realistic, evidence-sensitive and revisable self-trust as the strength framing.
-- Keep defensive-confidence language conditional and trigger-based.
-- Include preparation, feedback, calibration and revision safeguards.
-- Preserve confidence-versus-self-efficacy, self-esteem, certainty, dominance and decision-quality boundaries.
-- Include work/study, communication, relationships, teamwork and decisions manifestations.
-- Do not imply universal competence, guaranteed leadership, success, wealth, fame or scientific prediction.
-
-## Recovery update
-
-The uploaded historical export confirms:
-
-- ID-013 — Stress Response
-- ID-014 — Fear
-- ID-015 — Anger
-- ID-016 — Impulse Control
-
-Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recovery or careful reconstruction from saved evidence.
 
 ## Live app state
 
-- M1-R001, M1-R002, M1-R003 and ID-016 are registered in the canonical loader.
+- M1-R001, M1-R002, M1-R003, M1-R004 and ID-016 are registered in the canonical loader.
 - Reading API and Gemini grounding use registered canonical records.
 - Live URL: `https://moolank99.onrender.com/`
-- Independent live verification remains pending because the current tool environment cannot directly confirm the Render UI.
-- M1-R004 remains evidence-stage until Phase 7.4C is merged and deployed.
+- Independent Render UI verification remains pending in the current tool environment.
+
+## Recovery update
+
+The uploaded historical export confirms ID-013 Stress Response, ID-014 Fear, ID-015 Anger and ID-016 Impulse Control. Exact canonical JSON exports for ID-013, ID-014 and ID-015 remain recovery-pending.
 
 ## Next actions
 
-1. Draft M1-R004 canonical JSON v1.0.
-2. Validate it against the canonical trait structure.
-3. Update `knowledge/MASTER_INDEX.json`.
-4. Register M1-R004 in `src/knowledge/index.ts` using latest main.
-5. Update project status and changelog.
-6. Run CI type-check and production build.
-7. Merge and verify the Render Canonical Knowledge panel.
+1. Confirm CI and merge for M1-R004.
+2. Verify the M1-R004 card on Render.
+3. Begin Phase 7.5A for M1-R005 Recognition and Status Sensitivity.
+4. Keep recognition separate from confidence, entitlement, dominance and self-worth.
 
 ## Files to read at the start of every new chat
 

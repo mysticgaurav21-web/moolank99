@@ -1,6 +1,6 @@
 {
   "project": "Moolank99 Knowledge Base",
-  "knowledgeVersion": "1.4.0",
+  "knowledgeVersion": "1.5.0",
   "status": "research-in-progress",
   "lastUpdated": "2026-07-14",
   "principles": {
@@ -29,7 +29,10 @@
         "7.2C — M1-R002 Initiative and Proactivity Canonical v1.0",
         "7.3A — M1-R003 Independence and Autonomy Source Upgrade",
         "7.3B — M1-R003 Independence and Autonomy Boundary Review",
-        "7.3C — M1-R003 Independence and Autonomy Canonical v1.0"
+        "7.3C — M1-R003 Independence and Autonomy Canonical v1.0",
+        "7.4A — M1-R004 Confidence and Self-Belief Source Upgrade",
+        "7.4B — M1-R004 Confidence and Self-Belief Boundary Review",
+        "7.4C — M1-R004 Confidence and Self-Belief Canonical v1.0"
       ],
       "canonicalTraits": [
         {
@@ -58,6 +61,15 @@
           "classification": "primary-strength-with-conditional-shadow",
           "canonicalFile": "canonical/moolank-1/M1-R003-independence-and-autonomy.v1.0.json",
           "evidenceFile": "evidence/moolank-1/M1-R003-independence-and-autonomy.md"
+        },
+        {
+          "traitId": "M1-R004",
+          "name": "Confidence and Self-Belief",
+          "version": "1.0",
+          "status": "canonical",
+          "classification": "primary-strength-with-conditional-shadow",
+          "canonicalFile": "canonical/moolank-1/M1-R004-confidence-and-self-belief.v1.0.json",
+          "evidenceFile": "evidence/moolank-1/M1-R004-confidence-and-self-belief.md"
         },
         {
           "traitId": "ID-016",
