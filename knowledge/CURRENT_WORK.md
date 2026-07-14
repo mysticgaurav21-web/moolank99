@@ -16,18 +16,33 @@
 
 ## Active objective
 
-Begin **Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade**.
+Complete **Phase 7.2A — M1-R002 Initiative and Proactivity Source Upgrade**.
 
 Research question:
 
 > Do traditional Birth Number / Moolank 1 sources consistently support self-starting action and proactive behaviour, and how should initiative be separated from leadership, impulsivity, persistence, dominance, and risk-taking?
 
-## Leadership decisions locked
+Working evidence file:
 
-- Leadership is an orientation or potential, not a guaranteed title or ability.
-- Balanced leadership combines direction with accountability, consultation, adaptability, and shared purpose.
-- Overcontrol and unilateral decision-making are conditional shadows.
-- Leadership is not dominance, authority, charisma, extroversion, status-seeking, or initiative.
+```text
+knowledge/evidence/moolank-1/M1-R002-initiative-and-proactivity.md
+```
+
+## Current evidence state
+
+- Source-upgrade draft v0.1 created.
+- Traditional action-orientation pattern retained provisionally.
+- Personal initiative defined as self-starting, future-oriented and purpose-driven action.
+- Initiative is separated from Leadership Style and ID-016 Impulse Control.
+- Universal self-starting, guaranteed entrepreneurship, success and scientific birth-number prediction claims are rejected.
+- Canonical JSON is not yet approved.
+
+## Locked construct boundaries
+
+- Initiative is self-starting action; leadership additionally involves coordinating or influencing others.
+- Initiative includes purpose and adequate evaluation; impulsivity involves insufficient deliberation.
+- Initiative starts or shapes action; persistence continues action through obstacles.
+- Initiative does not require risk-taking, dominance, entrepreneurship or formal authority.
 
 ## Recovery update
 
@@ -38,21 +53,23 @@ The uploaded historical export confirms:
 - ID-015 — Anger
 - ID-016 — Impulse Control
 
-Exact canonical JSON exports for ID-013, ID-014, and ID-015 still need recovery or careful reconstruction from saved evidence.
+Exact canonical JSON exports for ID-013, ID-014 and ID-015 still require recovery or careful reconstruction from saved evidence.
 
 ## Live app state
 
 - M1-R001 and ID-016 are registered in the canonical loader.
 - Reading API and Gemini grounding use registered canonical records.
-- Render auto-deploy should publish the new Leadership Style card after the main-branch build succeeds.
 - Live URL: `https://moolank99.onrender.com/`
+- M1-R002 remains evidence-stage and is not live.
 
 ## Next actions
 
-1. Confirm CI/build for the Leadership Style integration.
-2. Verify M1-R001 on the Render Canonical Knowledge panel.
-3. Start M1-R002 Initiative and Proactivity evidence file.
-4. Keep Initiative separate from Leadership Style and Impulse Control.
+1. Add an independent specialist or historical Number 1 source outside the current publisher family.
+2. Review premature action, role overreach, novelty-seeking and socially costly proactivity.
+3. Finalize triggers, protective factors and excluded claims.
+4. Upgrade evidence to v0.2 and complete Phase 7.2A.
+5. Begin Phase 7.2B boundary review only after source consolidation.
+6. Create canonical JSON only after final evidence approval.
 
 ## Files to read at the start of every new chat
 
