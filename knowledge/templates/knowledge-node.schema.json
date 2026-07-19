@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://moolank99.app/schemas/knowledge-node.schema.json",
+  "title": "Moolank99 Knowledge Node",
+  "type": "object",
+  "required": [
+    "id",
+    "version",
+    "status",
+    "system",
+    "number",
+    "title",
+    "sourceClass",
+    "coreIdentity",
+    "healthyExpression",
+    "stressExpression",
+    "strengths",
+    "growthEdges",
+    "dimensions",
+    "reflectionQuestions",
+    "recommendedPractices",
+    "progressIndicators",
+    "disclaimer"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "version": { "type": "string" },
+    "status": { "enum": ["draft", "review", "published", "archived"] },
+    "system": { "enum": ["moolank", "bhagyank", "namank", "compound_number"] },
+    "number": { "type": "integer", "minimum": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "archetype": { "type": "string" },
+    "sourceClass": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "traditional_wisdom",
+          "reflective_framework",
+          "behavioural_practice",
+          "user_reported_experience",
+          "mixed"
+        ]
+      }
+    },
+    "coreIdentity": { "$ref": "#/$defs/narrativeSection" },
+    "healthyExpression": { "$ref": "#/$defs/stringList" },
+    "stressExpression": { "$ref": "#/$defs/stringList" },
+    "strengths": { "$ref": "#/$defs/stringList" },
+    "growthEdges": { "$ref": "#/$defs/stringList" },
+    "dimensions": {
+      "type": "object",
+      "required": [
+        "personality",
+        "relationships",
+        "career",
+        "money",
+        "growth",
+        "wellbeing",
+        "purpose",
+        "potential"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "personality": { "$ref": "#/$defs/dimension" },
+        "relationships": { "$ref": "#/$defs/dimension" },
+        "career": { "$ref": "#/$defs/dimension" },
+        "money": { "$ref": "#/$defs/dimension" },
+        "growth": { "$ref": "#/$defs/dimension" },
+        "wellbeing": { "$ref": "#/$defs/dimension" },
+        "purpose": { "$ref": "#/$defs/dimension" },
+        "potential": { "$ref": "#/$defs/dimension" }
+      }
+    },
+    "reflectionQuestions": { "$ref": "#/$defs/stringList" },
+    "recommendedPractices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "instructions", "durationMinutes", "sourceClass"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "instructions": { "type": "string" },
+          "durationMinutes": { "type": "integer", "minimum": 1, "maximum": 120 },
+          "sourceClass": {
+            "enum": ["traditional_wisdom", "reflective_framework", "behavioural_practice", "mixed"]
+          },
+          "safetyNote": { "type": "string" }
+        }
+      }
+    },
+    "progressIndicators": { "$ref": "#/$defs/stringList" },
+    "reviewNotes": { "type": "string" },
+    "disclaimer": { "type": "string", "minLength": 1 }
+  },
+  "$defs": {
+    "stringList": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "narrativeSection": {
+      "type": "object",
+      "required": ["summary", "sourceClass"],
+      "properties": {
+        "summary": { "type": "string", "minLength": 1 },
+        "sourceClass": {
+          "enum": ["traditional_wisdom", "reflective_framework", "behavioural_practice", "mixed"]
+        }
+      }
+    },
+    "dimension": {
+      "type": "object",
+      "required": [
+        "summary",
+        "corePattern",
+        "healthyExpression",
+        "stressExpression",
+        "strengths",
+        "growthEdges",
+        "lifeExamples",
+        "actionableGuidance",
+        "reflectionQuestions",
+        "recommendedPracticeIds",
+        "progressIndicators"
+      ],
+      "properties": {
+        "summary": { "type": "string" },
+        "corePattern": { "type": "string" },
+        "healthyExpression": { "$ref": "#/$defs/stringList" },
+        "stressExpression": { "$ref": "#/$defs/stringList" },
+        "strengths": { "$ref": "#/$defs/stringList" },
+        "growthEdges": { "$ref": "#/$defs/stringList" },
+        "lifeExamples": { "$ref": "#/$defs/stringList" },
+        "actionableGuidance": { "$ref": "#/$defs/stringList" },
+        "reflectionQuestions": { "$ref": "#/$defs/stringList" },
+        "recommendedPracticeIds": { "$ref": "#/$defs/stringList" },
+        "progressIndicators": { "$ref": "#/$defs/stringList" }
+      }
+    }
+  }
+}
